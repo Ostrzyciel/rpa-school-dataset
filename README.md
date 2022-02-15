@@ -1,4 +1,6 @@
 # rpa-school-dataset
+[![DOI](https://zenodo.org/badge/459593715.svg)](https://zenodo.org/badge/latestdoi/459593715)
+
 Polish schools dataset for Robotic Process Automation tasks. The paper describing the dataset is currently in review.
 
 The data was sourced from the Polish registry of schools [(RSPO, *Rejestr Szkół i Placówek Oświatowych*)](https://rspo.gov.pl/). It is intended to be used in RPA and NER-related research. The dataset is entirely in the Polish language.
@@ -40,6 +42,6 @@ Each field has the following attributes:
 The dataset was prepared by [Piotr Sowiński](https://orcid.org/0000-0002-2543-9461) and [Aleksander Denisiuk](https://orcid.org/0000-0002-7501-7048).
 
 ## License
-This dataset is released under the [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/deed.en). This means (in short) that you are free to use it for whatever purpose, without any restrictions. We would, however, appreciate you citing the source of the data.
+This dataset is released under the [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/deed.en). This means (in short) that you are free to use it for whatever purpose, without any restrictions. We would, however, appreciate you citing the source of the data. You can use the following DOI: [![DOI](https://zenodo.org/badge/459593715.svg)](https://zenodo.org/badge/latestdoi/459593715)
 
 The dataset contains screenshots of the [RSPO website](https://rspo.gov.pl/). We claim that they do not constitute copyrightable content, as they are composed simple rectangular shapes and text (contact information).
