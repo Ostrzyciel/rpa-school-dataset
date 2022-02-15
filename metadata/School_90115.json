@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "17-200",
+            "trueValue": "17-200",
+            "elemId": [
+                "word_1_30"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. 3 Maja 25",
+            "trueValue": "ul. 3 Maja 25",
+            "elemId": [
+                "word_1_25",
+                "word_1_26",
+                "word_1_27",
+                "word_1_28"
+            ]
+        },
+        "addressLocality": {
+            "value": "Hajnówka",
+            "trueValue": "Hajnówka",
+            "elemId": [
+                "word_1_31"
+            ]
+        }
+    },
+    "name": {
+        "value": "TECHNIKUM IM. TADEUSZA KOŚCIUSZKI W HAJNÓWCE",
+        "trueValue": "TECHNIKUM IM. TADEUSZA KOŚCIUSZKI W HAJNÓWCE",
+        "elemId": [
+            "word_1_16",
+            "word_1_17",
+            "word_1_18",
+            "word_1_19",
+            "word_1_20",
+            "word_1_21"
+        ]
+    },
+    "foundingDate": {
+        "value": "1964-07-10",
+        "trueValue": "1964-07-10",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "regon": {
+        "value": "052125534",
+        "trueValue": "052125534",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "zsz_hajnowkaQop.pl",
+        "trueValue": "zsz_hajnowka@op.pl",
+        "elemId": [
+            "word_1_36"
+        ]
+    },
+    "telephone": {
+        "value": "856 822 071",
+        "trueValue": "856 822 071",
+        "elemId": [
+            "word_1_38",
+            "word_1_39",
+            "word_1_40"
+        ]
+    }
+}

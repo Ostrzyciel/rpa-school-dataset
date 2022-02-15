@@ -1,0 +1,69 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "78-520",
+            "trueValue": "78-520",
+            "elemId": [
+                "word_1_30"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Stefana Okrzei 9",
+            "trueValue": "ul. Stefana Okrzei 9",
+            "elemId": [
+                "word_1_22",
+                "word_1_23",
+                "word_1_24",
+                "word_1_25"
+            ]
+        },
+        "addressLocality": {
+            "value": "Złocieniec",
+            "trueValue": "Złocieniec",
+            "elemId": [
+                "word_1_31"
+            ]
+        }
+    },
+    "name": {
+        "value": "LICEUM OGÓLNOKSZTAŁCĄCE",
+        "trueValue": "LICEUM OGÓLNOKSZTAŁCĄCE",
+        "elemId": [
+            "word_1_3",
+            "word_1_4"
+        ]
+    },
+    "foundingDate": {
+        "value": "1987-09-01",
+        "trueValue": "1987-09-01",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "regon": {
+        "value": "331357438",
+        "trueValue": "331357438",
+        "elemId": [
+            "word_1_13"
+        ]
+    },
+    "email": {
+        "value": "zsp.andersQwp.pl",
+        "trueValue": "zsp.anders@wp.pl",
+        "elemId": [
+            "word_1_26"
+        ]
+    },
+    "telephone": {
+        "value": "943 671 850",
+        "trueValue": "943 671 850",
+        "elemId": [
+            "word_1_27",
+            "word_1_28",
+            "word_1_29"
+        ]
+    }
+}

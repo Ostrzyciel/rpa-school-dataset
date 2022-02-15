@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "95-200",
+            "trueValue": "95-200",
+            "elemId": [
+                "word_1_23"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. św. Jana 28",
+            "trueValue": "ul. św. Jana 28",
+            "elemId": [
+                "word_1_16",
+                "word_1_17",
+                "word_1_18",
+                "word_1_19"
+            ]
+        },
+        "addressLocality": {
+            "value": "Pabianice",
+            "trueValue": "Pabianice",
+            "elemId": [
+                "word_1_24"
+            ]
+        }
+    },
+    "name": {
+        "value": "PRZEDSZKOLE MIEJSKIE NR 11 Z ODDZIAŁAMI INTEGRACYJNYMI",
+        "trueValue": "PRZEDSZKOLE MIEJSKIE NR 11 Z ODDZIAŁAMI INTEGRACYJNYMI",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9"
+        ]
+    },
+    "foundingDate": {
+        "value": "1951-09-11",
+        "trueValue": "1951-09-11",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "regon": {
+        "value": "004271693",
+        "trueValue": "004271693",
+        "elemId": [
+            "word_1_28"
+        ]
+    },
+    "email": {
+        "value": "przedszkolemiejskienr11Gwp.pl",
+        "trueValue": "przedszkolemiejskienr11@wp.pl",
+        "elemId": [
+            "word_1_27"
+        ]
+    },
+    "telephone": {
+        "value": "422 152 662",
+        "trueValue": "422 152 662",
+        "elemId": [
+            "word_1_38",
+            "word_1_39",
+            "word_1_40"
+        ]
+    }
+}

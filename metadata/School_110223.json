@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "44-178",
+            "trueValue": "44-178",
+            "elemId": [
+                "word_1_27"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Parkowa 11",
+            "trueValue": "ul. Parkowa 11",
+            "elemId": [
+                "word_1_23",
+                "word_1_24",
+                "word_1_25"
+            ]
+        },
+        "addressLocality": {
+            "value": "Przyszowice",
+            "trueValue": "Przyszowice",
+            "elemId": [
+                "word_1_28"
+            ]
+        }
+    },
+    "name": {
+        "value": "GMINNE PRZEDSZKOLE W PRZYSZOWICACH",
+        "trueValue": "GMINNE PRZEDSZKOLE W PRZYSZOWICACH",
+        "elemId": [
+            "word_1_16",
+            "word_1_17",
+            "word_1_18",
+            "word_1_19"
+        ]
+    },
+    "foundingDate": {
+        "value": "1945-04-23",
+        "trueValue": "1945-04-23",
+        "elemId": [
+            "word_1_26"
+        ]
+    },
+    "regon": {
+        "value": "271511880",
+        "trueValue": "271511880",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "przedszkoleprzyszowiceQwp.pl",
+        "trueValue": "przedszkoleprzyszowice@wp.pl",
+        "elemId": [
+            "word_1_30"
+        ]
+    },
+    "telephone": {
+        "value": "323 011 520",
+        "trueValue": "323 011 520",
+        "elemId": [
+            "word_1_32",
+            "word_1_33",
+            "word_1_34"
+        ]
+    }
+}

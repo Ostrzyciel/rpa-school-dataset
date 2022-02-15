@@ -1,0 +1,75 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "87-410",
+            "trueValue": "87-410",
+            "elemId": [
+                "word_1_20"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. św. Mikołaja 6",
+            "trueValue": "ul. św. Mikołaja 6",
+            "elemId": [
+                "word_1_15",
+                "word_1_16",
+                "word_1_17",
+                "word_1_18"
+            ]
+        },
+        "addressLocality": {
+            "value": "Kowalewo Pomorskie",
+            "trueValue": "Kowalewo Pomorskie",
+            "elemId": [
+                "word_1_21",
+                "word_1_22"
+            ]
+        }
+    },
+    "name": {
+        "value": "BRANŻOWA SZKOŁA I STOPNIA IM. LECHA WAŁĘSY",
+        "trueValue": "BRANŻOWA SZKOŁA I STOPNIA IM. LECHA WAŁĘSY",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9"
+        ]
+    },
+    "foundingDate": {
+        "value": "1978-09-01",
+        "trueValue": "1978-09-01",
+        "elemId": [
+            "word_1_19"
+        ]
+    },
+    "regon": {
+        "value": "871668634",
+        "trueValue": "871668634",
+        "elemId": [
+            "word_1_14"
+        ]
+    },
+    "email": {
+        "value": "©zskowalewo.golub-dobrzyn.com.pl",
+        "trueValue": "sekretariat@zskowalewo.golub-dobrzyn.com.pl",
+        "elemId": [
+            "word_1_38"
+        ]
+    },
+    "telephone": {
+        "value": "566 841 503",
+        "trueValue": "566 841 503",
+        "elemId": [
+            "word_1_44",
+            "word_1_45",
+            "word_1_46"
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "34-100",
+            "trueValue": "34-100",
+            "elemId": [
+                "word_1_18"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Sienkiewicza 9",
+            "trueValue": "ul. Sienkiewicza 9",
+            "elemId": [
+                "word_1_15",
+                "word_1_16",
+                "word_1_17"
+            ]
+        },
+        "addressLocality": {
+            "value": "Wadowice",
+            "trueValue": "Wadowice",
+            "elemId": [
+                "word_1_19"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNA SZKOŁA POLICEALNA W WADOWICACH",
+        "trueValue": "NIEPUBLICZNA SZKOŁA POLICEALNA W WADOWICACH",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7"
+        ]
+    },
+    "foundingDate": {
+        "value": "2005-05-17",
+        "trueValue": "2005-05-17",
+        "elemId": [
+            "word_1_32"
+        ]
+    },
+    "regon": {
+        "value": "122698836",
+        "trueValue": "122698836",
+        "elemId": [
+            "word_1_13"
+        ]
+    },
+    "email": {
+        "value": "wisniewskadorotaQpoczta.pl",
+        "trueValue": "wisniewskadorota@poczta.pl",
+        "elemId": [
+            "word_1_25"
+        ]
+    },
+    "telephone": {
+        "value": "338 234 853",
+        "trueValue": "338 234 853",
+        "elemId": [
+            "word_1_27",
+            "word_1_28",
+            "word_1_29"
+        ]
+    }
+}

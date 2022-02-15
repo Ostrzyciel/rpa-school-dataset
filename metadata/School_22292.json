@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "50-418",
+            "trueValue": "50-418",
+            "elemId": [
+                "word_1_27"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. gen. Romualda Traugutta 60 lok. 2",
+            "trueValue": "ul. gen. Romualda Traugutta 60 lok. 2",
+            "elemId": [
+                "word_1_20",
+                "word_1_21",
+                "word_1_22",
+                "word_1_23",
+                "word_1_24",
+                "word_1_25",
+                "word_1_26"
+            ]
+        },
+        "addressLocality": {
+            "value": "Wrocław",
+            "trueValue": "Wrocław-Krzyki",
+            "elemId": [
+                "word_1_28"
+            ]
+        }
+    },
+    "name": {
+        "value": "\"SŁONECZNE PRZEDSZKOLE\"",
+        "trueValue": "\"SŁONECZNE PRZEDSZKOLE\"",
+        "elemId": [
+            "word_1_17",
+            "word_1_18"
+        ]
+    },
+    "foundingDate": {
+        "value": "2008-09-30",
+        "trueValue": "2008-09-30",
+        "elemId": [
+            "word_1_41"
+        ]
+    },
+    "regon": {
+        "value": "021981527",
+        "trueValue": "021981527",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "biuroQsloneczneprzedszkole.pl",
+        "trueValue": "biuro@sloneczneprzedszkole.pl",
+        "elemId": [
+            "word_1_33"
+        ]
+    },
+    "telephone": {
+        "value": "730 888 778",
+        "trueValue": "730 888 778",
+        "elemId": [
+            "word_1_35",
+            "word_1_36",
+            "word_1_37"
+        ]
+    }
+}

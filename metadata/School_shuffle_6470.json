@@ -1,0 +1,69 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "30-698",
+            "trueValue": "30-698",
+            "elemId": [
+                "word_1_10"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Starowiejska 36",
+            "trueValue": "ul. Starowiejska 36",
+            "elemId": [
+                "word_1_7",
+                "word_1_8",
+                "word_1_9"
+            ]
+        },
+        "addressLocality": {
+            "value": "Kraków",
+            "trueValue": "Kraków-Podgórze",
+            "elemId": [
+                "word_1_11"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNE PRZEDSZKOLE \"JARZĘBINKA\"",
+        "trueValue": "NIEPUBLICZNE PRZEDSZKOLE \"JARZĘBINKA\"",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5"
+        ]
+    },
+    "foundingDate": {
+        "value": "2012-08-29",
+        "trueValue": "2012-08-29",
+        "elemId": [
+            "word_1_23"
+        ]
+    },
+    "regon": {
+        "value": "122647773",
+        "trueValue": "122647773",
+        "elemId": [
+            "word_1_13"
+        ]
+    },
+    "email": {
+        "value": "kontaktGjarzebinka-krakow.pl",
+        "trueValue": "kontakt@jarzebinka-krakow.pl",
+        "elemId": [
+            "word_1_32"
+        ]
+    },
+    "telephone": {
+        "value": "662 069 505",
+        "trueValue": "662 069 505",
+        "elemId": [
+            "word_1_15",
+            "word_1_16",
+            "word_1_17"
+        ]
+    }
+}

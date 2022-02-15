@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "84-400",
+            "trueValue": "84-400",
+            "elemId": [
+                "word_1_24"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Kilińskiego 31",
+            "trueValue": "ul. Kilińskiego 31",
+            "elemId": [
+                "word_1_20",
+                "word_1_21",
+                "word_1_22"
+            ]
+        },
+        "addressLocality": {
+            "value": "Golub-Dobrzyń",
+            "trueValue": "Golub-Dobrzyń",
+            "elemId": [
+                "word_1_25"
+            ]
+        }
+    },
+    "name": {
+        "value": "LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH",
+        "trueValue": "LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6"
+        ]
+    },
+    "foundingDate": {
+        "value": "2012-09-01",
+        "trueValue": "2012-09-01",
+        "elemId": [
+            "word_1_23"
+        ]
+    },
+    "regon": {
+        "value": "341382180",
+        "trueValue": "341382180",
+        "elemId": [
+            "word_1_8"
+        ]
+    },
+    "email": {
+        "value": "sekretariat",
+        "trueValue": "sekretariat@zs-2.pl",
+        "elemId": [
+            "word_1_30"
+        ]
+    },
+    "telephone": {
+        "value": "566 832 549",
+        "trueValue": "566 832 549",
+        "elemId": [
+            "word_1_33",
+            "word_1_34",
+            "word_1_35"
+        ]
+    }
+}

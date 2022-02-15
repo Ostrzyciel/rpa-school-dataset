@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "83-200",
+            "trueValue": "83-200",
+            "elemId": [
+                "word_1_29"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Lipowa 15",
+            "trueValue": "ul. Lipowa 15",
+            "elemId": [
+                "word_1_26",
+                "word_1_27",
+                "word_1_28"
+            ]
+        },
+        "addressLocality": {
+            "value": "Starogard Gdański",
+            "trueValue": "Starogard Gdański",
+            "elemId": [
+                "word_1_30",
+                "word_1_31"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNY PUNKT PRZEDSZKOLNY \"KUBUŚ PUCHATEK I PRZYJACIELE\"",
+        "trueValue": "NIEPUBLICZNY PUNKT PRZEDSZKOLNY \"KUBUŚ PUCHATEK I PRZYJACIELE\"",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9"
+        ]
+    },
+    "foundingDate": {
+        "value": "2011-01-18",
+        "trueValue": "2011-01-18",
+        "elemId": [
+            "word_1_17"
+        ]
+    },
+    "regon": {
+        "value": "221735130",
+        "trueValue": "221735130",
+        "elemId": [
+            "word_1_33"
+        ]
+    },
+    "email": {
+        "value": "ossowska1",
+        "trueValue": "ossowska1@wp.pl",
+        "elemId": [
+            "word_1_35"
+        ]
+    },
+    "telephone": {
+        "value": "600 850 958",
+        "trueValue": "600 850 958",
+        "elemId": [
+            "word_1_23",
+            "word_1_24",
+            "word_1_25"
+        ]
+    }
+}

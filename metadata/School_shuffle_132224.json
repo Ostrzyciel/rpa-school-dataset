@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "51-215",
+            "trueValue": "51-215",
+            "elemId": [
+                "word_1_38"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Stoczniowa 12a",
+            "trueValue": "ul. Stoczniowa 12a",
+            "elemId": [
+                "word_1_35",
+                "word_1_36",
+                "word_1_37"
+            ]
+        },
+        "addressLocality": {
+            "value": "Wrocław",
+            "trueValue": "Wrocław",
+            "elemId": [
+                "word_1_39"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNE PRZEDSZKOLE BIM BAM BOM 2",
+        "trueValue": "NIEPUBLICZNE PRZEDSZKOLE BIM BAM BOM 2",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8"
+        ]
+    },
+    "foundingDate": {
+        "value": "2016-09-27",
+        "trueValue": "2016-09-27",
+        "elemId": [
+            "word_1_24"
+        ]
+    },
+    "regon": {
+        "value": "365522224",
+        "trueValue": "365522224",
+        "elemId": [
+            "word_1_16"
+        ]
+    },
+    "email": {
+        "value": "biuroQbimbambom.edu.pl",
+        "trueValue": "biuro@bimbambom.edu.pl",
+        "elemId": [
+            "word_1_30"
+        ]
+    },
+    "telephone": {
+        "value": "609 338 612",
+        "trueValue": "609 338 612",
+        "elemId": [
+            "word_1_21",
+            "word_1_22",
+            "word_1_23"
+        ]
+    }
+}

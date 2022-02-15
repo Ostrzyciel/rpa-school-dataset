@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "70-491",
+            "trueValue": "70-491",
+            "elemId": [
+                "word_1_15"
+            ]
+        },
+        "streetAddress": {
+            "value": "al. Wojska Polskiego 128",
+            "trueValue": "al. Wojska Polskiego 128",
+            "elemId": [
+                "word_1_11",
+                "word_1_12",
+                "word_1_13",
+                "word_1_14"
+            ]
+        },
+        "addressLocality": {
+            "value": "Szczecin",
+            "trueValue": "Szczecin",
+            "elemId": [
+                "word_1_16"
+            ]
+        }
+    },
+    "name": {
+        "value": "POLICEALNA SZKOŁA TEB EDUKACJ.",
+        "trueValue": "POLICEALNA SZKOŁA TEB EDUKACJA",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6"
+        ]
+    },
+    "foundingDate": {
+        "value": "2007-06-25",
+        "trueValue": "2007-06-25",
+        "elemId": [
+            "word_1_9"
+        ]
+    },
+    "regon": {
+        "value": "321301500",
+        "trueValue": "321301500",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "email": {
+        "value": "Milena.NalewajGteb-edukacja.pl",
+        "trueValue": "Milena.Nalewaj@teb-edukacja.pl",
+        "elemId": [
+            "word_1_40"
+        ]
+    },
+    "telephone": {
+        "value": "918 884 910",
+        "trueValue": "918 884 910",
+        "elemId": [
+            "word_1_36",
+            "word_1_37",
+            "word_1_38"
+        ]
+    }
+}

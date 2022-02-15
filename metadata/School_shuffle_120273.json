@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "44-335",
+            "trueValue": "44-335",
+            "elemId": [
+                "word_1_34"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. 11 Listopada 12",
+            "trueValue": "ul. 11 Listopada 12",
+            "elemId": [
+                "word_1_30",
+                "word_1_31",
+                "word_1_32",
+                "word_1_33"
+            ]
+        },
+        "addressLocality": {
+            "value": "Jastrzębie-Zdrój",
+            "trueValue": "Jastrzębie-Zdrój",
+            "elemId": [
+                "word_1_35"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNE PRZEDSZKOLE JĘZYKOWE \"SECRET\"",
+        "trueValue": "NIEPUBLICZNE PRZEDSZKOLE JĘZYKOWE \"SECRET\"",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6"
+        ]
+    },
+    "foundingDate": {
+        "value": "2013-09-30",
+        "trueValue": "2013-09-30",
+        "elemId": [
+            "word_1_11"
+        ]
+    },
+    "regon": {
+        "value": "243376978",
+        "trueValue": "243376978",
+        "elemId": [
+            "word_1_12"
+        ]
+    },
+    "email": {
+        "value": "wierzbinska.kasiaQwp.pl",
+        "trueValue": "wierzbinska.kasia@wp.pl",
+        "elemId": [
+            "word_1_13"
+        ]
+    },
+    "telephone": {
+        "value": "795 929 235",
+        "trueValue": "795 929 235",
+        "elemId": [
+            "word_1_17",
+            "word_1_18",
+            "word_1_19"
+        ]
+    }
+}

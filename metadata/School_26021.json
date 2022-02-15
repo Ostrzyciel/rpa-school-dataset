@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "17-220",
+            "trueValue": "17-220",
+            "elemId": [
+                "word_1_28"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Nowa 4",
+            "trueValue": "ul. Nowa 4",
+            "elemId": [
+                "word_1_24",
+                "word_1_25",
+                "word_1_26"
+            ]
+        },
+        "addressLocality": {
+            "value": "Narewka",
+            "trueValue": "Narewka",
+            "elemId": [
+                "word_1_29"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁA PODSTAWOWA W NAREWCE",
+        "trueValue": "SZKOŁA PODSTAWOWA W NAREWCE",
+        "elemId": [
+            "word_1_17",
+            "word_1_18",
+            "word_1_19",
+            "word_1_20"
+        ]
+    },
+    "foundingDate": {
+        "value": "1944-09-01",
+        "trueValue": "1944-09-01",
+        "elemId": [
+            "word_1_27"
+        ]
+    },
+    "regon": {
+        "value": "000272833",
+        "trueValue": "000272833",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "zs.narewkaGinteria.pl",
+        "trueValue": "zs.narewka@interia.pl",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "telephone": {
+        "value": "856 858 087",
+        "trueValue": "856 858 087",
+        "elemId": [
+            "word_1_36",
+            "word_1_37",
+            "word_1_38"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "05-800",
+            "trueValue": "05-800",
+            "elemId": [
+                "word_1_31"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Promyka 49",
+            "trueValue": "ul. Promyka 49",
+            "elemId": [
+                "word_1_28",
+                "word_1_29",
+                "word_1_30"
+            ]
+        },
+        "addressLocality": {
+            "value": "Pruszków",
+            "trueValue": "Pruszków",
+            "elemId": [
+                "word_1_32"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNE MUZYCZNE PRZEDSZKOLE \"SŁONECZKĆ",
+        "trueValue": "NIEPUBLICZNE MUZYCZNE PRZEDSZKOLE \"SŁONECZKO\"",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6"
+        ]
+    },
+    "foundingDate": {
+        "value": "2014-07-28",
+        "trueValue": "2014-07-28",
+        "elemId": [
+            "word_1_15"
+        ]
+    },
+    "regon": {
+        "value": "147368890",
+        "trueValue": "147368890",
+        "elemId": [
+            "word_1_8"
+        ]
+    },
+    "email": {
+        "value": "biuroGsloneczko.pruszkow.pl",
+        "trueValue": "biuro@sloneczko.pruszkow.pl",
+        "elemId": [
+            "word_1_38"
+        ]
+    },
+    "telephone": {
+        "value": "504 411 677",
+        "trueValue": "504 411 677",
+        "elemId": [
+            "word_1_10",
+            "word_1_11",
+            "word_1_12"
+        ]
+    }
+}

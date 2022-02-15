@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "46-100",
+            "trueValue": "46-100",
+            "elemId": [
+                "word_1_34"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Władysława Stanisława Reymonta 56",
+            "trueValue": "ul. Władysława Stanisława Reymonta 56",
+            "elemId": [
+                "word_1_25",
+                "word_1_26",
+                "word_1_27",
+                "word_1_28",
+                "word_1_29"
+            ]
+        },
+        "addressLocality": {
+            "value": "Namysłów",
+            "trueValue": "Namysłów",
+            "elemId": [
+                "word_1_35"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNA SZKOŁA POLICEALNA W NAMYSŁOWIE",
+        "trueValue": "NIEPUBLICZNA SZKOŁA POLICEALNA W NAMYSŁOWIE",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7"
+        ]
+    },
+    "foundingDate": {
+        "value": "2004-09-01",
+        "trueValue": "2004-09-01",
+        "elemId": [
+            "word_1_38"
+        ]
+    },
+    "regon": {
+        "value": "161494402",
+        "trueValue": "161494402",
+        "elemId": [
+            "word_1_16"
+        ]
+    },
+    "email": {
+        "value": "plo.namyslowQwp.pl",
+        "trueValue": "plo.namyslow@wp.pl",
+        "elemId": [
+            "word_1_30"
+        ]
+    },
+    "telephone": {
+        "value": "791 547 678",
+        "trueValue": "791 547 678",
+        "elemId": [
+            "word_1_31",
+            "word_1_32",
+            "word_1_33"
+        ]
+    }
+}

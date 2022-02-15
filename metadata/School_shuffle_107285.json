@@ -1,0 +1,75 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "97-300",
+            "trueValue": "97-300",
+            "elemId": [
+                "word_1_22"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Polna 13/13A",
+            "trueValue": "ul. Polna 13/13A",
+            "elemId": [
+                "word_1_18",
+                "word_1_19",
+                "word_1_20"
+            ]
+        },
+        "addressLocality": {
+            "value": "Piotrków Trybunalski",
+            "trueValue": "Piotrków Trybunalski",
+            "elemId": [
+                "word_1_23",
+                "word_1_24"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNA SZKOŁA POLICEALNA TEB EDUKACJA W PIOTRKOWIE TRYBUNALSKIM",
+        "trueValue": "NIEPUBLICZNA SZKOŁA POLICEALNA TEB EDUKACJA W PIOTRKOWIE TRYBUNALSKIM",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9",
+            "word_1_10"
+        ]
+    },
+    "foundingDate": {
+        "value": "2009-08-30",
+        "trueValue": "2009-08-30",
+        "elemId": [
+            "word_1_31"
+        ]
+    },
+    "regon": {
+        "value": "101539695",
+        "trueValue": "101539695",
+        "elemId": [
+            "word_1_28"
+        ]
+    },
+    "email": {
+        "value": "piotrkowGteb-edukacja.pl",
+        "trueValue": "piotrkow@teb-edukacja.pl",
+        "elemId": [
+            "word_1_26"
+        ]
+    },
+    "telephone": {
+        "value": "447 152 385",
+        "trueValue": "447 152 385",
+        "elemId": [
+            "word_1_33",
+            "word_1_34",
+            "word_1_35"
+        ]
+    }
+}

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../Screenshots/School_shuffle_68372.png"; bbox 0 0 1920 912; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 408 24 1176 42">
+    <p class='ocr_par' id='par_1_1' lang='pol' title="bbox 408 24 1176 42">
+     <span class='ocr_caption' id='line_1_1' title="bbox 408 24 1176 42; baseline 0.001 -1; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 408 29 453 41; x_wconf 92'>RSPO:</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 459 29 505 41; x_wconf 96'>68372</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 552 28 688 42; x_wconf 96'>NIEPUBLICZNE</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 694 28 828 42; x_wconf 96'>PRZEDSZKOLE</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 833 24 902 42; x_wconf 93'>SIÓSTR</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 907 28 1029 42; x_wconf 91'>SALEZJANEK</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1035 28 1052 42; x_wconf 93'>W</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1058 28 1176 42; x_wconf 93'>PIESZYCACH</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 378 102 1237 185">
+    <p class='ocr_par' id='par_1_2' lang='pol' title="bbox 387 102 1225 114">
+     <span class='ocr_line' id='line_1_2' title="bbox 387 102 1225 114; baseline 0 -2; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_9' title='bbox 387 103 411 112; x_wconf 96'>Data</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 415 103 465 112; x_wconf 96'>założenia</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 772 103 803 114; x_wconf 91'>Organ</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 807 103 873 114; x_wconf 96'>prowadzący:</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1156 103 1175 114; x_wconf 92'>Typ</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1179 102 1225 114; x_wconf 92'>placówki</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='pol' title="bbox 388 115 1237 157">
+     <span class='ocr_line' id='line_1_3' title="bbox 388 115 1237 143; baseline 0 -9; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_15' title='bbox 388 115 461 143; x_wconf 95'>1996-04-15</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 772 123 883 134; x_wconf 96'>ZGROMADZENIE</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 888 120 934 134; x_wconf 96'>CÓREK</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 939 123 982 134; x_wconf 76'>MARY!</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 987 123 1113 134; x_wconf 96'>WSPOMOŻYCIELKI</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1157 122 1237 134; x_wconf 96'>Przedszkole</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 772 142 1028 157; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_21' title='bbox 772 142 835 157; x_wconf 93'>(SIOSTRY</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 840 142 930 157; x_wconf 90'>SALEZJANKI)</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 935 143 1028 154; x_wconf 81'>INSPEKTORIA</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='pol' title="bbox 378 157 873 185">
+     <span class='ocr_line' id='line_1_5' title="bbox 378 157 873 185; baseline -0.002 -9.981; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_24' title='bbox 378 157 416 185; x_wconf 93'>Email</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 772 163 873 174; x_wconf 96'>WROCŁAWSKA</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 387 185 802 215">
+    <p class='ocr_par' id='par_1_5' lang='pol' title="bbox 387 185 802 215">
+     <span class='ocr_line' id='line_1_6' title="bbox 387 185 544 200; baseline 0 -3; x_size 22.5; x_descenders 6; x_ascenders 5.5">
+      <span class='ocrx_word' id='word_1_26' title='bbox 387 185 544 200; x_wconf 4'>pieszycepBemw.osw.pl</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 772 206 802 215; baseline 0 0; x_size 22.5; x_descenders 6; x_ascenders 5.5">
+      <span class='ocrx_word' id='word_1_27' title='bbox 772 206 802 215; x_wconf 92'>Adres</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 378 225 880 268">
+    <p class='ocr_par' id='par_1_6' lang='pol' title="bbox 387 225 880 261">
+     <span class='ocr_line' id='line_1_8' title="bbox 387 225 880 242; baseline -0.002 -4; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_28' title='bbox 387 229 421 238; x_wconf 70'>Liczba</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 425 228 468 238; x_wconf 70'>uczniów</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 477 226 493 242; x_wconf 75'>©</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 772 225 786 237; x_wconf 96'>ul.</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 791 216 856 247; x_wconf 96'>Ogrodowa</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 855 216 880 247; x_wconf 93'>48</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 378 237 880 268; baseline -0.002 -9.98; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_34' title='bbox 378 237 412 268; x_wconf 95'>100</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 772 246 817 257; x_wconf 96'>58-250</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 822 246 880 260; x_wconf 92'>Pieszyce</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 378 283 847 324">
+    <p class='ocr_par' id='par_1_7' lang='pol' title="bbox 378 283 847 324">
+     <span class='ocr_line' id='line_1_10' title="bbox 378 283 810 311; baseline -0.009 -8.915; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_37' title='bbox 378 283 426 311; x_wconf 96'>Telefon</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 772 289 810 298; x_wconf 96'>REGON</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 387 309 847 324; baseline -0.009 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_39' title='bbox 387 313 411 324; x_wconf 95'>748</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 416 313 441 324; x_wconf 95'>365</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 445 313 469 324; x_wconf 96'>395</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 772 309 847 320; x_wconf 96'>022000454</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 772 352 992 386">
+    <p class='ocr_par' id='par_1_8' lang='pol' title="bbox 772 352 992 386">
+     <span class='ocr_line' id='line_1_12' title="bbox 772 352 872 361; baseline 0 0; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_43' title='bbox 772 352 806 361; x_wconf 92'>Strona</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 810 352 872 361; x_wconf 49'>internetowa</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 772 371 992 386; baseline 0 -3; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_45' title='bbox 772 371 992 386; x_wconf 51'>http://www.salezjanki.pieszyce.pl</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 356 0 1548 426">
+    <p class='ocr_par' id='par_1_9' lang='pol' title="bbox 356 0 1548 426">
+     <span class='ocr_line' id='line_1_14' title="bbox 356 0 1548 426; baseline 0 486; x_size 177.33333; x_descenders 44.333332; x_ascenders 44.333336">
+      <span class='ocrx_word' id='word_1_46' title='bbox 356 0 1548 426; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

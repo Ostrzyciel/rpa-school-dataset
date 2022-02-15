@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "22-500",
+            "trueValue": "22-500",
+            "elemId": [
+                "word_1_15"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Zamojska 16",
+            "trueValue": "ul. Zamojska 16",
+            "elemId": [
+                "word_1_12",
+                "word_1_13",
+                "word_1_14"
+            ]
+        },
+        "addressLocality": {
+            "value": "Hrubieszów",
+            "trueValue": "Hrubieszów",
+            "elemId": [
+                "word_1_16"
+            ]
+        }
+    },
+    "name": {
+        "value": "POLICEALNA SZKOŁA EDUKACJI INNOWACYJNEJ W HRUBIESZOWIE",
+        "trueValue": "POLICEALNA SZKOŁA EDUKACJI INNOWACYJNEJ W HRUBIESZOWIE",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8"
+        ]
+    },
+    "foundingDate": {
+        "value": "2012-09-11",
+        "trueValue": "2012-09-11",
+        "elemId": [
+            "word_1_30"
+        ]
+    },
+    "regon": {
+        "value": "061480350",
+        "trueValue": "061480350",
+        "elemId": [
+            "word_1_10"
+        ]
+    },
+    "email": {
+        "value": "hrubieszowGsei.edu.pl",
+        "trueValue": "hrubieszow@sei.edu.pl",
+        "elemId": [
+            "word_1_32"
+        ]
+    },
+    "telephone": {
+        "value": "846 965 215",
+        "trueValue": "846 965 215",
+        "elemId": [
+            "word_1_18",
+            "word_1_19",
+            "word_1_20"
+        ]
+    }
+}

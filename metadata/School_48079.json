@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "44-120",
+            "trueValue": "44-120",
+            "elemId": [
+                "word_1_37"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Na Grobli 2",
+            "trueValue": "ul. Na Grobli 2",
+            "elemId": [
+                "word_1_32",
+                "word_1_33",
+                "word_1_34",
+                "word_1_35"
+            ]
+        },
+        "addressLocality": {
+            "value": "Pyskowice",
+            "trueValue": "Pyskowice",
+            "elemId": [
+                "word_1_38"
+            ]
+        }
+    },
+    "name": {
+        "value": "DZIERŻNO SP. Z 0.0. W PYSKOWICACH",
+        "trueValue": "DZIERŻNO SP. Z O.O. W PYSKOWICACH",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8"
+        ]
+    },
+    "foundingDate": {
+        "value": "1995-12-27",
+        "trueValue": "1995-12-27",
+        "elemId": [
+            "word_1_36"
+        ]
+    },
+    "regon": {
+        "value": "243073380",
+        "trueValue": "243073380",
+        "elemId": [
+            "word_1_10"
+        ]
+    },
+    "email": {
+        "value": "dzierznoQneostrada.pl",
+        "trueValue": "dzierzno@neostrada.pl",
+        "elemId": [
+            "word_1_43"
+        ]
+    },
+    "telephone": {
+        "value": "322 332 348",
+        "trueValue": "322 332 348",
+        "elemId": [
+            "word_1_45",
+            "word_1_46",
+            "word_1_47"
+        ]
+    }
+}

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../Screenshots/School_110223.png"; bbox 0 0 1920 920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 409 30 515 42">
+    <p class='ocr_par' id='par_1_1' lang='pol' title="bbox 409 30 515 42">
+     <span class='ocr_line' id='line_1_1' title="bbox 409 30 515 42; baseline 0 0; x_size 16; x_descenders 4; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_1' title='bbox 409 30 454 42; x_wconf 92'>RSPO:</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 460 30 515 42; x_wconf 96'>110223</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 388 104 463 135">
+    <p class='ocr_par' id='par_1_2' lang='pol' title="bbox 388 104 463 135">
+     <span class='ocr_line' id='line_1_2' title="bbox 388 104 426 113; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_3' title='bbox 388 104 426 113; x_wconf 96'>REGON</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 388 124 463 135; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_4' title='bbox 388 124 463 135; x_wconf 96'>271511880</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 388 166 468 198">
+    <p class='ocr_par' id='par_1_3' lang='pol' title="bbox 388 166 468 198">
+     <span class='ocr_line' id='line_1_4' title="bbox 388 166 456 179; baseline 0 -3; x_size 21.25; x_descenders 5.5; x_ascenders 5.25">
+      <span class='ocrx_word' id='word_1_5' title='bbox 388 167 406 179; x_wconf 94'>Typ</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 410 166 456 179; x_wconf 93'>placówki</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 388 187 468 198; baseline 0 0; x_size 21.25; x_descenders 5.5; x_ascenders 5.25">
+      <span class='ocrx_word' id='word_1_7' title='bbox 388 187 468 198; x_wconf 95'>Przedszkole</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 388 229 544 261">
+    <p class='ocr_par' id='par_1_4' lang='pol' title="bbox 388 229 544 261">
+     <span class='ocr_line' id='line_1_6' title="bbox 388 229 489 242; baseline 0 -3; x_size 22.5; x_descenders 6; x_ascenders 5.5">
+      <span class='ocrx_word' id='word_1_8' title='bbox 388 230 419 242; x_wconf 91'>Organ</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 423 229 489 242; x_wconf 96'>prowadzący:</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 388 250 544 261; baseline 0 0; x_size 22.5; x_descenders 6; x_ascenders 5.5">
+      <span class='ocrx_word' id='word_1_10' title='bbox 388 250 435 261; x_wconf 96'>GMINA</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 440 250 544 261; x_wconf 96'>GIERAŁTOWICE</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 388 289 494 324">
+    <p class='ocr_par' id='par_1_5' lang='pol' title="bbox 388 289 494 324">
+     <span class='ocr_caption' id='line_1_8' title="bbox 388 289 494 305; baseline 0 -3; x_size 16; x_descenders 3; x_ascenders 3">
+      <span class='ocrx_word' id='word_1_12' title='bbox 388 292 422 302; x_wconf 96'>Liczba</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 426 292 469 302; x_wconf 92'>uczniów</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 478 289 494 305; x_wconf 76'>©</span>
+     </span>
+     <span class='ocr_caption' id='line_1_9' title="bbox 389 313 412 324; baseline 0 0; x_size 21.5; x_descenders 5.5; x_ascenders 5.5">
+      <span class='ocrx_word' id='word_1_15' title='bbox 389 313 412 324; x_wconf 83'>130</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 562 27 969 42">
+    <p class='ocr_par' id='par_1_6' lang='pol' title="bbox 562 27 969 42">
+     <span class='ocr_line' id='line_1_10' title="bbox 562 27 969 42; baseline 0 0; x_size 20.666666; x_descenders 5.1666665; x_ascenders 5.1666665">
+      <span class='ocrx_word' id='word_1_16' title='bbox 562 27 637 42; x_wconf 96'>GMINNE</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 643 27 777 42; x_wconf 96'>PRZEDSZKOLE</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 783 27 800 42; x_wconf 93'>W</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 806 27 969 42; x_wconf 92'>PRZYSZOWICACH</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 772 99 1235 158">
+    <p class='ocr_par' id='par_1_7' lang='pol' title="bbox 772 99 1235 158">
+     <span class='ocr_line' id='line_1_11' title="bbox 772 99 1235 121; baseline 0 -8; x_size 13.188406; x_descenders 3.1884058; x_ascenders 3.3333335">
+      <span class='ocrx_word' id='word_1_20' title='bbox 772 99 803 121; x_wconf 85'>Adres</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1157 104 1181 113; x_wconf 96'>Data</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1185 104 1235 113; x_wconf 96'>założenia</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 773 124 1232 135; baseline 0 0; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_23' title='bbox 773 124 787 135; x_wconf 96'>ul.</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 793 124 849 135; x_wconf 96'>Parkowa</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 855 124 868 135; x_wconf 90'>11</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1158 124 1232 135; x_wconf 96'>1945-04-23</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 773 144 905 158; baseline 0 -3; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_27' title='bbox 773 144 818 155; x_wconf 90'>44-178</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 823 144 905 158; x_wconf 96'>Przyszowice</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 773 186 983 221">
+    <p class='ocr_par' id='par_1_8' lang='pol' title="bbox 773 186 983 221">
+     <span class='ocr_line' id='line_1_14' title="bbox 773 186 801 196; baseline 0 0; x_size 13.188406; x_descenders 3.1884058; x_ascenders 3.3333335">
+      <span class='ocrx_word' id='word_1_29' title='bbox 773 186 801 196; x_wconf 96'>Email</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 773 207 983 221; baseline 0 -3; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_30' title='bbox 773 207 983 221; x_wconf 82'>przedszkoleprzyszowiceQwp.pl</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 772 249 855 281">
+    <p class='ocr_par' id='par_1_9' lang='pol' title="bbox 772 249 855 281">
+     <span class='ocr_line' id='line_1_16' title="bbox 772 249 811 259; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_31' title='bbox 772 249 811 259; x_wconf 95'>Telefon</span>
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 773 270 855 281; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_32' title='bbox 773 270 797 281; x_wconf 81'>323</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 802 270 824 281; x_wconf 81'>011</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 831 270 855 281; x_wconf 96'>520</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 358 0 1548 368">
+    <p class='ocr_par' id='par_1_10' lang='pol' title="bbox 358 0 1548 368">
+     <span class='ocr_line' id='line_1_18' title="bbox 358 0 1548 368; baseline 0 552; x_size 153.33333; x_descenders 38.333332; x_ascenders 38.333336">
+      <span class='ocrx_word' id='word_1_35' title='bbox 358 0 1548 368; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

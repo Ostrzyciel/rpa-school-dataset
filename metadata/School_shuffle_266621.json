@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "34-460",
+            "trueValue": "34-460",
+            "elemId": [
+                "word_1_34"
+            ]
+        },
+        "streetAddress": {
+            "value": "os. Połoniny 4",
+            "trueValue": "os. Połoniny 4",
+            "elemId": [
+                "word_1_31",
+                "word_1_32",
+                "word_1_33"
+            ]
+        },
+        "addressLocality": {
+            "value": "Szczawnica",
+            "trueValue": "Szczawnica",
+            "elemId": [
+                "word_1_35"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNE PRZEDSZKOLE \"BAJKOWE WZGÓRZE\"",
+        "trueValue": "NIEPUBLICZNE PRZEDSZKOLE \"BAJKOWE WZGÓRZE\"",
+        "elemId": [
+            "word_1_23",
+            "word_1_24",
+            "word_1_25",
+            "word_1_26"
+        ]
+    },
+    "foundingDate": {
+        "value": "2018-02-12",
+        "trueValue": "2018-02-12",
+        "elemId": [
+            "word_1_5"
+        ]
+    },
+    "regon": {
+        "value": "369609086",
+        "trueValue": "369609086",
+        "elemId": [
+            "word_1_40"
+        ]
+    },
+    "email": {
+        "value": "bajkowewzgorze1",
+        "trueValue": "bajkowewzgorze1@gmail.com",
+        "elemId": [
+            "word_1_37"
+        ]
+    },
+    "telephone": {
+        "value": "182 653 131",
+        "trueValue": "182 653 131",
+        "elemId": [
+            "word_1_15",
+            "word_1_16",
+            "word_1_17"
+        ]
+    }
+}

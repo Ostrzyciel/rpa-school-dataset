@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "87-100",
+            "trueValue": "87-100",
+            "elemId": [
+                "word_1_21"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Poznańska 49",
+            "trueValue": "ul. Poznańska 49",
+            "elemId": [
+                "word_1_18",
+                "word_1_19",
+                "word_1_20"
+            ]
+        },
+        "addressLocality": {
+            "value": "Toruń",
+            "trueValue": "Toruń",
+            "elemId": [
+                "word_1_22"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNE PRZEDSZKOLI",
+        "trueValue": "NIEPUBLICZNE PRZEDSZKOLE \"VIOLINEK\"",
+        "elemId": [
+            "word_1_13",
+            "word_1_14"
+        ]
+    },
+    "foundingDate": {
+        "value": "2009-09-24",
+        "trueValue": "2009-09-24",
+        "elemId": [
+            "word_1_12"
+        ]
+    },
+    "regon": {
+        "value": "341350345",
+        "trueValue": "341350345",
+        "elemId": [
+            "word_1_17"
+        ]
+    },
+    "email": {
+        "value": "Organ",
+        "trueValue": "nan",
+        "elemId": [
+            "word_1_23"
+        ]
+    },
+    "telephone": {
+        "value": "506 318 505",
+        "trueValue": "506 318 505",
+        "elemId": [
+            "word_1_4",
+            "word_1_5",
+            "word_1_6"
+        ]
+    }
+}

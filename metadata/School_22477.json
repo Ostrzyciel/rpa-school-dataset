@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "53-339",
+            "trueValue": "53-339",
+            "elemId": [
+                "word_1_30"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Pabianicka 2",
+            "trueValue": "ul. Pabianicka 2",
+            "elemId": [
+                "word_1_26",
+                "word_1_27",
+                "word_1_28"
+            ]
+        },
+        "addressLocality": {
+            "value": "Wrocław",
+            "trueValue": "Wrocław-Krzyki",
+            "elemId": [
+                "word_1_31"
+            ]
+        }
+    },
+    "name": {
+        "value": "\"ABOR\" PRYWATNE LICEUM OGÓLNOKSZTAŁCĄCE WE WROCŁAWIU",
+        "trueValue": "\"ABOR\" PRYWATNE LICEUM OGÓLNOKSZTAŁCĄCE WE WROCŁAWIU",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8"
+        ]
+    },
+    "foundingDate": {
+        "value": "2000-05-23",
+        "trueValue": "2000-05-23",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "regon": {
+        "value": "021981013",
+        "trueValue": "021981013",
+        "elemId": [
+            "word_1_10"
+        ]
+    },
+    "email": {
+        "value": "liceumQabor.com.pl",
+        "trueValue": "liceum@abor.com.pl",
+        "elemId": [
+            "word_1_36"
+        ]
+    },
+    "telephone": {
+        "value": "713 670 246",
+        "trueValue": "713 670 246",
+        "elemId": [
+            "word_1_38",
+            "word_1_39",
+            "word_1_40"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "37-100",
+            "trueValue": "37-100",
+            "elemId": [
+                "word_1_31"
+            ]
+        },
+        "streetAddress": {
+            "value": "189",
+            "trueValue": "189",
+            "elemId": [
+                "word_1_26"
+            ]
+        },
+        "addressLocality": {
+            "value": "Wola Dalsza",
+            "trueValue": "Wola Dalsza",
+            "elemId": [
+                "word_1_24",
+                "word_1_25"
+            ]
+        }
+    },
+    "name": {
+        "value": "PUBLICZNE PRZEDSZKOLE W WOLI DALSZEJ",
+        "trueValue": "PUBLICZNE PRZEDSZKOLE W WOLI DALSZEJ",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7"
+        ]
+    },
+    "foundingDate": {
+        "value": "1972-09-01",
+        "trueValue": "1972-09-01",
+        "elemId": [
+            "word_1_35"
+        ]
+    },
+    "regon": {
+        "value": "690007430",
+        "trueValue": "690007430",
+        "elemId": [
+            "word_1_16"
+        ]
+    },
+    "email": {
+        "value": "zswoladalszaQwp.pl",
+        "trueValue": "zswoladalsza@wp.pl",
+        "elemId": [
+            "word_1_27"
+        ]
+    },
+    "telephone": {
+        "value": "172 242 920",
+        "trueValue": "172 242 920",
+        "elemId": [
+            "word_1_28",
+            "word_1_29",
+            "word_1_30"
+        ]
+    }
+}

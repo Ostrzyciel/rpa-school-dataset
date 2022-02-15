@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "30-611",
+            "trueValue": "30-611",
+            "elemId": [
+                "word_1_35"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Beskidzka 30",
+            "trueValue": "ul. Beskidzka 30",
+            "elemId": [
+                "word_1_32",
+                "word_1_33",
+                "word_1_34"
+            ]
+        },
+        "addressLocality": {
+            "value": "Kraków",
+            "trueValue": "Kraków-Podgórze",
+            "elemId": [
+                "word_1_36"
+            ]
+        }
+    },
+    "name": {
+        "value": "PLACÓWKA KSZTAŁCENIA USTAWICZNEGO - SYLLABUS SZKOŁA JĘZYKÓW OBCYCH",
+        "trueValue": "PLACÓWKA KSZTAŁCENIA USTAWICZNEGO - SYLLABUS SZKOŁA JĘZYKÓW OBCYCH",
+        "elemId": [
+            "word_1_12",
+            "word_1_13",
+            "word_1_14",
+            "word_1_15",
+            "word_1_16",
+            "word_1_17",
+            "word_1_18",
+            "word_1_19"
+        ]
+    },
+    "foundingDate": {
+        "value": "2011-02-17",
+        "trueValue": "2011-02-17",
+        "elemId": [
+            "word_1_9"
+        ]
+    },
+    "regon": {
+        "value": "122706352",
+        "trueValue": "122706352",
+        "elemId": [
+            "word_1_11"
+        ]
+    },
+    "email": {
+        "value": "syllabusQsyllabus.com.pl",
+        "trueValue": "syllabus@syllabus.com.pl",
+        "elemId": [
+            "word_1_42"
+        ]
+    },
+    "telephone": {
+        "value": "126 559 723",
+        "trueValue": "126 559 723",
+        "elemId": [
+            "word_1_38",
+            "word_1_39",
+            "word_1_40"
+        ]
+    }
+}

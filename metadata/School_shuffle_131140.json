@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "87-100",
+            "trueValue": "87-100",
+            "elemId": [
+                "word_1_33"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Dworcowa 5B",
+            "trueValue": "ul. Dworcowa 5B",
+            "elemId": [
+                "word_1_30",
+                "word_1_31",
+                "word_1_32"
+            ]
+        },
+        "addressLocality": {
+            "value": "Toruń",
+            "trueValue": "Toruń",
+            "elemId": [
+                "word_1_34"
+            ]
+        }
+    },
+    "name": {
+        "value": "PRZEDSZKOLE MUZYCZNE NEW ART",
+        "trueValue": "PRZEDSZKOLE MUZYCZNE NEW ART",
+        "elemId": [
+            "word_1_14",
+            "word_1_15",
+            "word_1_16",
+            "word_1_17"
+        ]
+    },
+    "foundingDate": {
+        "value": "2016-07-12",
+        "trueValue": "2016-07-12",
+        "elemId": [
+            "word_1_5"
+        ]
+    },
+    "regon": {
+        "value": "364976740",
+        "trueValue": "364976740",
+        "elemId": [
+            "word_1_11"
+        ]
+    },
+    "email": {
+        "value": "maQnewart.pl",
+        "trueValue": "ma@newart.pl",
+        "elemId": [
+            "word_1_13"
+        ]
+    },
+    "telephone": {
+        "value": "601 081 094",
+        "trueValue": "601 081 094",
+        "elemId": [
+            "word_1_22",
+            "word_1_23",
+            "word_1_24"
+        ]
+    }
+}

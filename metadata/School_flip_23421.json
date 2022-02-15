@@ -1,0 +1,82 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "43-300",
+            "trueValue": "43-300",
+            "elemId": [
+                "word_1_46"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Kamienicka 11A",
+            "trueValue": "ul. Kamienicka 11A",
+            "elemId": [
+                "word_1_38",
+                "word_1_39",
+                "word_1_40"
+            ]
+        },
+        "addressLocality": {
+            "value": "Bielsko-Biała",
+            "trueValue": "Bielsko-Biała",
+            "elemId": [
+                "word_1_47"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁĄ PODSTAWOWA NR 39 DLA DZIECI SŁABOSŁYSZĄCYCH, NIESŁYSZĄCYCH I Z AFAZJĄ IM. MARII GORALOWNY W BIELSKU-BIAŁEJ",
+        "trueValue": "SZKOŁA PODSTAWOWA NR 39 DLA DZIECI SŁABOSŁYSZĄCYCH, NIESŁYSZĄCYCH I Z AFAZJĄ IM. MARII GÓRALÓWNY W BIELSKU-BIAŁEJ",
+        "elemId": [
+            "word_1_1",
+            "word_1_2",
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9",
+            "word_1_10",
+            "word_1_11",
+            "word_1_12",
+            "word_1_13",
+            "word_1_14",
+            "word_1_15",
+            "word_1_16"
+        ]
+    },
+    "foundingDate": {
+        "value": "1999-09-01",
+        "trueValue": "1999-09-01",
+        "elemId": [
+            "word_1_50"
+        ]
+    },
+    "regon": {
+        "value": "070452207",
+        "trueValue": "070452207",
+        "elemId": [
+            "word_1_27"
+        ]
+    },
+    "email": {
+        "value": "sekretariat©sp39.fc.pl",
+        "trueValue": "sekretariat@sp39.fc.pl",
+        "elemId": [
+            "word_1_42"
+        ]
+    },
+    "telephone": {
+        "value": "338 125 308",
+        "trueValue": "338 125 308",
+        "elemId": [
+            "word_1_43",
+            "word_1_44",
+            "word_1_45"
+        ]
+    }
+}

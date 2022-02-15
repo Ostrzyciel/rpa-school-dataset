@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "78-550",
+            "trueValue": "78-550",
+            "elemId": [
+                "word_1_35"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Grunwaldzka 1",
+            "trueValue": "ul. Grunwaldzka 1",
+            "elemId": [
+                "word_1_30",
+                "word_1_31",
+                "word_1_32"
+            ]
+        },
+        "addressLocality": {
+            "value": "Czaplinek",
+            "trueValue": "Czaplinek",
+            "elemId": [
+                "word_1_36"
+            ]
+        }
+    },
+    "name": {
+        "value": "BRANŻOWA SZKOŁA I STOPNIA SPECJALNA NR 1",
+        "trueValue": "BRANŻOWA SZKOŁA I STOPNIA SPECJALNA NR 1",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9"
+        ]
+    },
+    "foundingDate": {
+        "value": "1987-09-01",
+        "trueValue": "1987-09-01",
+        "elemId": [
+            "word_1_39"
+        ]
+    },
+    "regon": {
+        "value": "331356404",
+        "trueValue": "331356404",
+        "elemId": [
+            "word_1_16"
+        ]
+    },
+    "email": {
+        "value": "sekretariat©zspczaplinek.edu.pl",
+        "trueValue": "sekretariat@zspczaplinek.edu.pl",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "telephone": {
+        "value": "943 755 265",
+        "trueValue": "943 755 265",
+        "elemId": [
+            "word_1_23",
+            "word_1_24",
+            "word_1_25"
+        ]
+    }
+}

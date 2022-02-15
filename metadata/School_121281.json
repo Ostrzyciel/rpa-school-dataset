@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "53-149",
+            "trueValue": "53-149",
+            "elemId": [
+                "word_1_30"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Racławicka 101",
+            "trueValue": "ul. Racławicka 101",
+            "elemId": [
+                "word_1_26",
+                "word_1_27",
+                "word_1_28"
+            ]
+        },
+        "addressLocality": {
+            "value": "Wrocław",
+            "trueValue": "Wrocław-Krzyki",
+            "elemId": [
+                "word_1_31"
+            ]
+        }
+    },
+    "name": {
+        "value": "MIĘDZYNARODOWE LICEUM OGÓLNOKSZTAŁCĄCE WE WROCŁAWIU",
+        "trueValue": "MIĘDZYNARODOWE LICEUM OGÓLNOKSZTAŁCĄCE WE WROCŁAWIU",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7"
+        ]
+    },
+    "foundingDate": {
+        "value": "2013-12-16",
+        "trueValue": "2013-12-16",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "regon": {
+        "value": "022323039",
+        "trueValue": "022323039",
+        "elemId": [
+            "word_1_9"
+        ]
+    },
+    "email": {
+        "value": "mloGfem.org.pl",
+        "trueValue": "mlo@fem.org.pl",
+        "elemId": [
+            "word_1_36"
+        ]
+    },
+    "telephone": {
+        "value": "717 822 626",
+        "trueValue": "717 822 626",
+        "elemId": [
+            "word_1_38",
+            "word_1_39",
+            "word_1_40"
+        ]
+    }
+}

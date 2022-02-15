@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "00-389",
+            "trueValue": "00-389",
+            "elemId": [
+                "word_1_33"
+            ]
+        },
+        "streetAddress": {
+            "value": "6 lok. 8",
+            "trueValue": "6 lok. 8",
+            "elemId": [
+                "word_1_30",
+                "word_1_31",
+                "word_1_32"
+            ]
+        },
+        "addressLocality": {
+            "value": "Warszawa",
+            "trueValue": "Warszawa",
+            "elemId": [
+                "word_1_34"
+            ]
+        }
+    },
+    "name": {
+        "value": "OŚRODEK USŁUG PEDAGOGICZNYCH I SOCJALNYCH ZNP",
+        "trueValue": "OŚRODEK USŁUG PEDAGOGICZNYCH I SOCJALNYCH ZNP",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8"
+        ]
+    },
+    "foundingDate": {
+        "value": "2002-03-21",
+        "trueValue": "2002-03-21",
+        "elemId": [
+            "word_1_18"
+        ]
+    },
+    "regon": {
+        "value": "146316023",
+        "trueValue": "146316023",
+        "elemId": [
+            "word_1_15"
+        ]
+    },
+    "email": {
+        "value": "Organ",
+        "trueValue": "nan",
+        "elemId": [
+            "word_1_9"
+        ]
+    },
+    "telephone": {
+        "value": "228 261 011",
+        "trueValue": "228 261 011",
+        "elemId": [
+            "word_1_25",
+            "word_1_26",
+            "word_1_27"
+        ]
+    }
+}

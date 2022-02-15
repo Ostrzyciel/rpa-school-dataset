@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "17-200",
+            "trueValue": "17-200",
+            "elemId": [
+                "word_1_30"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. 3 Maja 27",
+            "trueValue": "ul. 3 Maja 27",
+            "elemId": [
+                "word_1_25",
+                "word_1_26",
+                "word_1_27",
+                "word_1_28"
+            ]
+        },
+        "addressLocality": {
+            "value": "Hajnówka",
+            "trueValue": "Hajnówka",
+            "elemId": [
+                "word_1_31"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁA PODSTAWOWA SPECJALNA W HAJNÓWCE",
+        "trueValue": "SZKOŁA PODSTAWOWA SPECJALNA W HAJNÓWCE",
+        "elemId": [
+            "word_1_17",
+            "word_1_18",
+            "word_1_19",
+            "word_1_20",
+            "word_1_21"
+        ]
+    },
+    "foundingDate": {
+        "value": "1964-09-01",
+        "trueValue": "1964-09-01",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "regon": {
+        "value": "052202619",
+        "trueValue": "052202619",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "©sosw.hajnowka.pl",
+        "trueValue": "sekretariat@sosw.hajnowka.pl",
+        "elemId": [
+            "word_1_37"
+        ]
+    },
+    "telephone": {
+        "value": "856 796 960",
+        "trueValue": "856 796 960",
+        "elemId": [
+            "word_1_39",
+            "word_1_40",
+            "word_1_41"
+        ]
+    }
+}

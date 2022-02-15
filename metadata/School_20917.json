@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "54-029",
+            "trueValue": "54-029",
+            "elemId": [
+                "word_1_28"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Kielecka 51a",
+            "trueValue": "ul. Kielecka 51a",
+            "elemId": [
+                "word_1_24",
+                "word_1_25",
+                "word_1_26"
+            ]
+        },
+        "addressLocality": {
+            "value": "Wrocław",
+            "trueValue": "Wrocław-Fabryczna",
+            "elemId": [
+                "word_1_29"
+            ]
+        }
+    },
+    "name": {
+        "value": "MŁODZIEŻOWY OŚRODEK SOCJOTERAPII NR 2",
+        "trueValue": "MŁODZIEŻOWY OŚRODEK SOCJOTERAPII NR 2",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7"
+        ]
+    },
+    "foundingDate": {
+        "value": "1991-06-05",
+        "trueValue": "1991-06-05",
+        "elemId": [
+            "word_1_27"
+        ]
+    },
+    "regon": {
+        "value": "930522170",
+        "trueValue": "930522170",
+        "elemId": [
+            "word_1_9"
+        ]
+    },
+    "email": {
+        "value": "mosQwroclawskaedukacja.pl",
+        "trueValue": "sekretariat.mos@wroclawskaedukacja.pl",
+        "elemId": [
+            "word_1_35"
+        ]
+    },
+    "telephone": {
+        "value": "717 986 745",
+        "trueValue": "717 986 745",
+        "elemId": [
+            "word_1_37",
+            "word_1_38",
+            "word_1_39"
+        ]
+    }
+}

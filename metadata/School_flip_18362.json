@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "33-300",
+            "trueValue": "33-300",
+            "elemId": [
+                "word_1_43"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Królowej Jadwigi 29",
+            "trueValue": "ul. Królowej Jadwigi 29",
+            "elemId": [
+                "word_1_34",
+                "word_1_35",
+                "word_1_36",
+                "word_1_37"
+            ]
+        },
+        "addressLocality": {
+            "value": "Nowy Sącz",
+            "trueValue": "Nowy Sącz",
+            "elemId": [
+                "word_1_44",
+                "word_1_45"
+            ]
+        }
+    },
+    "name": {
+        "value": "BRANŻOWA SZKOŁA I STOPNIA NR 2",
+        "trueValue": "BRANŻOWA SZKOŁA I STOPNIA NR 2",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8"
+        ]
+    },
+    "foundingDate": {
+        "value": "1983-09-19",
+        "trueValue": "1983-09-19",
+        "elemId": [
+            "word_1_49"
+        ]
+    },
+    "regon": {
+        "value": "492901845",
+        "trueValue": "492901845",
+        "elemId": [
+            "word_1_17"
+        ]
+    },
+    "email": {
+        "value": "zs2Qedu.nowysacz.pl",
+        "trueValue": "zs2@edu.nowysacz.pl",
+        "elemId": [
+            "word_1_46"
+        ]
+    },
+    "telephone": {
+        "value": "184 400 290",
+        "trueValue": "184 400 290",
+        "elemId": [
+            "word_1_40",
+            "word_1_41",
+            "word_1_42"
+        ]
+    }
+}

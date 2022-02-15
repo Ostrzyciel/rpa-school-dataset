@@ -1,0 +1,79 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "41-807",
+            "trueValue": "41-807",
+            "elemId": [
+                "word_1_47"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Lipowa 11",
+            "trueValue": "ul. Lipowa 11",
+            "elemId": [
+                "word_1_44",
+                "word_1_45",
+                "word_1_46"
+            ]
+        },
+        "addressLocality": {
+            "value": "Zabrze",
+            "trueValue": "Zabrze",
+            "elemId": [
+                "word_1_48"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNA SZKOŁA PODSTAWOWA \"POD SKRZYDŁAMI\" IM. MICHAŁA ARCHANIOŁA W ZABRZU Z ODDZIAŁEM PRZEDSZKOLNYM",
+        "trueValue": "NIEPUBLICZNA SZKOŁA PODSTAWOWA \"POD SKRZYDŁAMI\" IM. MICHAŁA ARCHANIOŁA W ZABRZU Z ODDZIAŁEM PRZEDSZKOLNYM",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9",
+            "word_1_10",
+            "word_1_11",
+            "word_1_13",
+            "word_1_14",
+            "word_1_15",
+            "word_1_16"
+        ]
+    },
+    "foundingDate": {
+        "value": "2017-09-27",
+        "trueValue": "2017-09-27",
+        "elemId": [
+            "word_1_25"
+        ]
+    },
+    "regon": {
+        "value": "368374770",
+        "trueValue": "368374770",
+        "elemId": [
+            "word_1_36"
+        ]
+    },
+    "email": {
+        "value": "sekretariat©podskrzydlami.edu.pl",
+        "trueValue": "sekretariat@podskrzydlami.edu.pl",
+        "elemId": [
+            "word_1_23"
+        ]
+    },
+    "telephone": {
+        "value": "693 336 661",
+        "trueValue": "693 336 661",
+        "elemId": [
+            "word_1_29",
+            "word_1_30",
+            "word_1_31"
+        ]
+    }
+}

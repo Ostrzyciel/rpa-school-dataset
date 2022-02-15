@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "97-350",
+            "trueValue": "97-350",
+            "elemId": [
+                "word_1_27"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Warszawska 22A",
+            "trueValue": "ul. Warszawska 22A",
+            "elemId": [
+                "word_1_24",
+                "word_1_25",
+                "word_1_26"
+            ]
+        },
+        "addressLocality": {
+            "value": "Gorzkowice",
+            "trueValue": "Gorzkowice",
+            "elemId": [
+                "word_1_28"
+            ]
+        }
+    },
+    "name": {
+        "value": "OŚRODEK KURSÓW I SZKOLEŃ W GORZKOWICACH",
+        "trueValue": "OŚRODEK KURSÓW I SZKOLEŃ W GORZKOWICACH",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8"
+        ]
+    },
+    "foundingDate": {
+        "value": "2020-05-06",
+        "trueValue": "2020-05-06",
+        "elemId": [
+            "word_1_31"
+        ]
+    },
+    "regon": {
+        "value": "386365870",
+        "trueValue": "386365870",
+        "elemId": [
+            "word_1_22"
+        ]
+    },
+    "email": {
+        "value": "Organ",
+        "trueValue": "nan",
+        "elemId": [
+            "word_1_9"
+        ]
+    },
+    "telephone": {
+        "value": "604 416 195",
+        "trueValue": "604 416 195",
+        "elemId": [
+            "word_1_33",
+            "word_1_34",
+            "word_1_35"
+        ]
+    }
+}

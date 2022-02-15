@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "87-400",
+            "trueValue": "87-400",
+            "elemId": [
+                "word_1_26"
+            ]
+        },
+        "streetAddress": {
+            "value": "32",
+            "trueValue": "32",
+            "elemId": [
+                "word_1_24"
+            ]
+        },
+        "addressLocality": {
+            "value": "Nowogród",
+            "trueValue": "Nowogród",
+            "elemId": [
+                "word_1_27"
+            ]
+        }
+    },
+    "name": {
+        "value": "GMINNE PRZEDSZKOLE W NOWOGRODZIE",
+        "trueValue": "GMINNE PRZEDSZKOLE W NOWOGRODZIE",
+        "elemId": [
+            "word_1_16",
+            "word_1_17",
+            "word_1_18",
+            "word_1_19"
+        ]
+    },
+    "foundingDate": {
+        "value": "2017-03-30",
+        "trueValue": "2017-03-30",
+        "elemId": [
+            "word_1_25"
+        ]
+    },
+    "regon": {
+        "value": "368042039",
+        "trueValue": "368042039",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "nowoszkolQwp.pl",
+        "trueValue": "nowoszkol@wp.pl",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "telephone": {
+        "value": "566 838 422",
+        "trueValue": "566 838 422",
+        "elemId": [
+            "word_1_31",
+            "word_1_32",
+            "word_1_33"
+        ]
+    }
+}

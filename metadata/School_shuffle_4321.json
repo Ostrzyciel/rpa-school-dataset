@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "20-205",
+            "trueValue": "20-205",
+            "elemId": [
+                "word_1_26"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Towarowa 25",
+            "trueValue": "ul. Towarowa 25",
+            "elemId": [
+                "word_1_23",
+                "word_1_24",
+                "word_1_25"
+            ]
+        },
+        "addressLocality": {
+            "value": "Lublin",
+            "trueValue": "Lublin",
+            "elemId": [
+                "word_1_27"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNE PRZEDSZKOLE\" ICIK\" W LUBLINIE",
+        "trueValue": "NIEPUBLICZNE PRZEDSZKOLE \"KOGUCIK\" W LUBLINIE",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7"
+        ]
+    },
+    "foundingDate": {
+        "value": "2012-08-23",
+        "trueValue": "2012-08-23",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "regon": {
+        "value": "061448374",
+        "trueValue": "061448374",
+        "elemId": [
+            "word_1_11"
+        ]
+    },
+    "email": {
+        "value": "biuro.kogucikQgmail.com",
+        "trueValue": "biuro.kogucik@gmail.com",
+        "elemId": [
+            "word_1_9"
+        ]
+    },
+    "telephone": {
+        "value": "790 870 999",
+        "trueValue": "790 870 999",
+        "elemId": [
+            "word_1_16",
+            "word_1_17",
+            "word_1_18"
+        ]
+    }
+}

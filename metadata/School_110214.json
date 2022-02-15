@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "44-186",
+            "trueValue": "44-186",
+            "elemId": [
+                "word_1_28"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Powstańców Śląskich 41",
+            "trueValue": "ul. Powstańców Śląskich 41",
+            "elemId": [
+                "word_1_23",
+                "word_1_24",
+                "word_1_25",
+                "word_1_26"
+            ]
+        },
+        "addressLocality": {
+            "value": "Gierałtowice",
+            "trueValue": "Gierałtowice",
+            "elemId": [
+                "word_1_29"
+            ]
+        }
+    },
+    "name": {
+        "value": "GMINNE PRZEDSZKOLE W GIERAŁTOWICACH",
+        "trueValue": "GMINNE PRZEDSZKOLE W GIERAŁTOWICACH",
+        "elemId": [
+            "word_1_16",
+            "word_1_17",
+            "word_1_18",
+            "word_1_19"
+        ]
+    },
+    "foundingDate": {
+        "value": "1933-09-01",
+        "trueValue": "1933-09-01",
+        "elemId": [
+            "word_1_27"
+        ]
+    },
+    "regon": {
+        "value": "271511874",
+        "trueValue": "271511874",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "przedszkolegieraltowiceQwp.pl",
+        "trueValue": "przedszkolegieraltowice@wp.pl",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "telephone": {
+        "value": "323 011 570",
+        "trueValue": "323 011 570",
+        "elemId": [
+            "word_1_36",
+            "word_1_37",
+            "word_1_38"
+        ]
+    }
+}

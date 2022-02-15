@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "87-645",
+            "trueValue": "87-645",
+            "elemId": [
+                "word_1_30"
+            ]
+        },
+        "streetAddress": {
+            "value": "57",
+            "trueValue": "57",
+            "elemId": [
+                "word_1_28"
+            ]
+        },
+        "addressLocality": {
+            "value": "Działyń",
+            "trueValue": "Działyń",
+            "elemId": [
+                "word_1_27"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁA PODSTAWOWA IM. STEFANA ŻEROMSKIEGO W DZIAŁYNIU",
+        "trueValue": "SZKOŁA PODSTAWOWA IM. STEFANA ŻEROMSKIEGO W DZIAŁYNIU",
+        "elemId": [
+            "word_1_17",
+            "word_1_18",
+            "word_1_19",
+            "word_1_20",
+            "word_1_21",
+            "word_1_22",
+            "word_1_23"
+        ]
+    },
+    "foundingDate": {
+        "value": "1964-09-01",
+        "trueValue": "1964-09-01",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "regon": {
+        "value": "001138723",
+        "trueValue": "001138723",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "zsdzialynwp.pl",
+        "trueValue": "zsdzialyn@wp.pl",
+        "elemId": [
+            "word_1_33"
+        ]
+    },
+    "telephone": {
+        "value": "542 601 603",
+        "trueValue": "542 601 603",
+        "elemId": [
+            "word_1_35",
+            "word_1_36",
+            "word_1_37"
+        ]
+    }
+}

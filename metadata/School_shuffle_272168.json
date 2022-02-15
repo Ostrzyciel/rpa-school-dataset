@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "25-305",
+            "trueValue": "25-305",
+            "elemId": [
+                "word_1_28"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Wesoła 19 lok. 3",
+            "trueValue": "ul. Wesoła 19 lok. 3",
+            "elemId": [
+                "word_1_23",
+                "word_1_24",
+                "word_1_25",
+                "word_1_26",
+                "word_1_27"
+            ]
+        },
+        "addressLocality": {
+            "value": "Kielce",
+            "trueValue": "Kielce",
+            "elemId": [
+                "word_1_29"
+            ]
+        }
+    },
+    "name": {
+        "value": "PLACÓWKA KSZTAŁCENIA USTAWICZNEGO „KONSORCJUM NAUKOWO-EDUKACYJNE”",
+        "trueValue": "PLACÓWKA KSZTAŁCENIA USTAWICZNEGO „KONSORCJUM NAUKOWO-EDUKACYJNE”",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7"
+        ]
+    },
+    "foundingDate": {
+        "value": "2019-07-16",
+        "trueValue": "2019-07-16",
+        "elemId": [
+            "word_1_40"
+        ]
+    },
+    "regon": {
+        "value": "383990827",
+        "trueValue": "383990827",
+        "elemId": [
+            "word_1_13"
+        ]
+    },
+    "email": {
+        "value": "sekretariat©konsorcjum.edu.pl",
+        "trueValue": "sekretariat@konsorcjum.edu.pl",
+        "elemId": [
+            "word_1_12"
+        ]
+    },
+    "telephone": {
+        "value": "413 308 800",
+        "trueValue": "413 308 800",
+        "elemId": [
+            "word_1_20",
+            "word_1_21",
+            "word_1_22"
+        ]
+    }
+}

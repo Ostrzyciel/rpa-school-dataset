@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "41-902",
+            "trueValue": "41-902",
+            "elemId": [
+                "word_1_33"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Generała Niedźwiadka Okulickiego 12b",
+            "trueValue": "ul. Generała Niedźwiadka-Okulickiego 12b",
+            "elemId": [
+                "word_1_28",
+                "word_1_29",
+                "word_1_30",
+                "word_1_31",
+                "word_1_32"
+            ]
+        },
+        "addressLocality": {
+            "value": "Bytom",
+            "trueValue": "Bytom",
+            "elemId": [
+                "word_1_34"
+            ]
+        }
+    },
+    "name": {
+        "value": "PRZEDSZKOLE MIEJSKIE NR 24 W BYTOMIU",
+        "trueValue": "PRZEDSZKOLE MIEJSKIE NR 24 W BYTOMIU",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8"
+        ]
+    },
+    "foundingDate": {
+        "value": "1991-03-31",
+        "trueValue": "1991-03-31",
+        "elemId": [
+            "word_1_15"
+        ]
+    },
+    "regon": {
+        "value": "271068670",
+        "trueValue": "271068670",
+        "elemId": [
+            "word_1_26"
+        ]
+    },
+    "email": {
+        "value": "przedszkole24Gonet.eu",
+        "trueValue": "przedszkole24@onet.eu",
+        "elemId": [
+            "word_1_20"
+        ]
+    },
+    "telephone": {
+        "value": "327 875 158",
+        "trueValue": "327 875 158",
+        "elemId": [
+            "word_1_10",
+            "word_1_11",
+            "word_1_12"
+        ]
+    }
+}

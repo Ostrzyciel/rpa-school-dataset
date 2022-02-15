@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "44-177",
+            "trueValue": "44-177",
+            "elemId": [
+                "word_1_24"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Dworska 31",
+            "trueValue": "ul. Dworska 31",
+            "elemId": [
+                "word_1_21",
+                "word_1_22",
+                "word_1_23"
+            ]
+        },
+        "addressLocality": {
+            "value": "Paniówki",
+            "trueValue": "Paniówki",
+            "elemId": [
+                "word_1_25"
+            ]
+        }
+    },
+    "name": {
+        "value": "GMINNE PRZEDSZKOLE W PANIÓWKACH",
+        "trueValue": "GMINNE PRZEDSZKOLE W PANIÓWKACH",
+        "elemId": [
+            "word_1_16",
+            "word_1_17",
+            "word_1_18",
+            "word_1_19"
+        ]
+    },
+    "foundingDate": {
+        "value": "1992-09-01",
+        "trueValue": "1992-09-01",
+        "elemId": [
+            "word_1_32"
+        ]
+    },
+    "regon": {
+        "value": "270096249",
+        "trueValue": "270096249",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "Organ",
+        "trueValue": "nan",
+        "elemId": [
+            "word_1_8"
+        ]
+    },
+    "telephone": {
+        "value": "323 011 510",
+        "trueValue": "323 011 510",
+        "elemId": [
+            "word_1_27",
+            "word_1_28",
+            "word_1_29"
+        ]
+    }
+}

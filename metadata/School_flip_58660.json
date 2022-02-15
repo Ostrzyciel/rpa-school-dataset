@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "91-473",
+            "trueValue": "91-473",
+            "elemId": [
+                "word_1_32"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. dr. Władysława Biegańskiego 19",
+            "trueValue": "ul. dr. Władysława Biegańskiego 19",
+            "elemId": [
+                "word_1_23",
+                "word_1_24",
+                "word_1_25",
+                "word_1_26",
+                "word_1_27"
+            ]
+        },
+        "addressLocality": {
+            "value": "Łódź",
+            "trueValue": "Łódź-Bałuty",
+            "elemId": [
+                "word_1_33"
+            ]
+        }
+    },
+    "name": {
+        "value": "\"PERSPEKTYWA\" STUDIUM NAUCZANIA KURSOWEGO",
+        "trueValue": "\"PERSPEKTYWA\" STUDIUM NAUCZANIA KURSOWEGO",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6"
+        ]
+    },
+    "foundingDate": {
+        "value": "2003-07-29",
+        "trueValue": "2003-07-29",
+        "elemId": [
+            "word_1_37"
+        ]
+    },
+    "regon": {
+        "value": "101489610",
+        "trueValue": "101489610",
+        "elemId": [
+            "word_1_12"
+        ]
+    },
+    "email": {
+        "value": "perspektywaGop.pl",
+        "trueValue": "perspektywa@op.pl",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "telephone": {
+        "value": "426 573 875",
+        "trueValue": "426 573 875",
+        "elemId": [
+            "word_1_29",
+            "word_1_30",
+            "word_1_31"
+        ]
+    }
+}

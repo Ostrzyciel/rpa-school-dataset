@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "44-196",
+            "trueValue": "44-196",
+            "elemId": [
+                "word_1_28"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Aleja Lipowa 12",
+            "trueValue": "ul. Aleja Lipowa 12",
+            "elemId": [
+                "word_1_23",
+                "word_1_24",
+                "word_1_25",
+                "word_1_26"
+            ]
+        },
+        "addressLocality": {
+            "value": "Knurów",
+            "trueValue": "Knurów",
+            "elemId": [
+                "word_1_29"
+            ]
+        }
+    },
+    "name": {
+        "value": "MIEJSKIE OGNISKO PRACY POZASZKOLNEJ W KNUROWIE",
+        "trueValue": "MIEJSKIE OGNISKO PRACY POZASZKOLNEJ W KNUROWIE",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8"
+        ]
+    },
+    "foundingDate": {
+        "value": "1993-01-01",
+        "trueValue": "1993-01-01",
+        "elemId": [
+            "word_1_27"
+        ]
+    },
+    "regon": {
+        "value": "272075263",
+        "trueValue": "272075263",
+        "elemId": [
+            "word_1_10"
+        ]
+    },
+    "email": {
+        "value": "moppGknurow.edu.pl",
+        "trueValue": "mopp@knurow.edu.pl",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "telephone": {
+        "value": "322 352 713",
+        "trueValue": "322 352 713",
+        "elemId": [
+            "word_1_36",
+            "word_1_37",
+            "word_1_38"
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "78-520",
+            "trueValue": "78-520",
+            "elemId": [
+                "word_1_35"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. I Dywizji Wojska Polskiego 8",
+            "trueValue": "ul. I Dywizji Wojska Polskiego 8",
+            "elemId": [
+                "word_1_27",
+                "word_1_28",
+                "word_1_29",
+                "word_1_30",
+                "word_1_31",
+                "word_1_32"
+            ]
+        },
+        "addressLocality": {
+            "value": "Złocieniec",
+            "trueValue": "Złocieniec",
+            "elemId": [
+                "word_1_36"
+            ]
+        }
+    },
+    "name": {
+        "value": "INTERNAT ZESPOŁU SZKÓŁ PONADGIMNAZJALNYCH IM. GEN.WŁ. ANDERSA",
+        "trueValue": "INTERNAT ZESPOŁU SZKÓŁ PONADGIMNAZJALNYCH IM. GEN.WŁ. ANDERSA",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9"
+        ]
+    },
+    "foundingDate": {
+        "value": "1960-09-01",
+        "trueValue": "1960-09-01",
+        "elemId": [
+            "word_1_39"
+        ]
+    },
+    "regon": {
+        "value": "321297951",
+        "trueValue": "321297951",
+        "elemId": [
+            "word_1_16"
+        ]
+    },
+    "email": {
+        "value": "zsp.andersQwp.pl",
+        "trueValue": "zsp.anders@wp.pl",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "telephone": {
+        "value": "943 671 835",
+        "trueValue": "943 671 835",
+        "elemId": [
+            "word_1_20",
+            "word_1_21",
+            "word_1_22"
+        ]
+    }
+}

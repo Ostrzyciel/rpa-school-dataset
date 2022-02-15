@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "05-420",
+            "trueValue": "05-420",
+            "elemId": [
+                "word_1_31"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Puszkina 25",
+            "trueValue": "ul. Puszkina 25",
+            "elemId": [
+                "word_1_28",
+                "word_1_29",
+                "word_1_30"
+            ]
+        },
+        "addressLocality": {
+            "value": "Józefów",
+            "trueValue": "Józefów",
+            "elemId": [
+                "word_1_32"
+            ]
+        }
+    },
+    "name": {
+        "value": "PRZEDSZKOLE KRASNOLUDKÓW",
+        "trueValue": "PRZEDSZKOLE KRASNOLUDKÓW",
+        "elemId": [
+            "word_1_15",
+            "word_1_16"
+        ]
+    },
+    "foundingDate": {
+        "value": "2007-09-28",
+        "trueValue": "2007-09-28",
+        "elemId": [
+            "word_1_7"
+        ]
+    },
+    "regon": {
+        "value": "146391579",
+        "trueValue": "146391579",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "biuroGnaszekrasnale.pl",
+        "trueValue": "biuro@naszekrasnale.pl",
+        "elemId": [
+            "word_1_18"
+        ]
+    },
+    "telephone": {
+        "value": "502 962 739",
+        "trueValue": "502 962 739",
+        "elemId": [
+            "word_1_9",
+            "word_1_10",
+            "word_1_11"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "68-100",
+            "trueValue": "68-100",
+            "elemId": [
+                "word_1_9"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Jana Pawła Il 19",
+            "trueValue": "ul. Jana Pawła II 19",
+            "elemId": [
+                "word_1_4",
+                "word_1_5",
+                "word_1_6",
+                "word_1_7",
+                "word_1_8"
+            ]
+        },
+        "addressLocality": {
+            "value": "Żagań",
+            "trueValue": "Żagań",
+            "elemId": [
+                "word_1_10"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNE PRZEDSZKOLE \"WESOŁE BOBERKI\"",
+        "trueValue": "NIEPUBLICZNE PRZEDSZKOLE \"WESOŁE BOBERKI\"",
+        "elemId": [
+            "word_1_20",
+            "word_1_21",
+            "word_1_22",
+            "word_1_23"
+        ]
+    },
+    "foundingDate": {
+        "value": "2018-09-14",
+        "trueValue": "2018-09-14",
+        "elemId": [
+            "word_1_26"
+        ]
+    },
+    "regon": {
+        "value": "381315493",
+        "trueValue": "381315493",
+        "elemId": [
+            "word_1_19"
+        ]
+    },
+    "email": {
+        "value": "wesoleboberki©gmail.com",
+        "trueValue": "wesoleboberki@gmail.com",
+        "elemId": [
+            "word_1_36"
+        ]
+    },
+    "telephone": {
+        "value": "684 446 829",
+        "trueValue": "684 446 829",
+        "elemId": [
+            "word_1_32",
+            "word_1_33",
+            "word_1_34"
+        ]
+    }
+}

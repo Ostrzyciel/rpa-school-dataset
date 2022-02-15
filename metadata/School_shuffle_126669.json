@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "43-300",
+            "trueValue": "43-300",
+            "elemId": [
+                "word_1_12"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. 3 Maja 108",
+            "trueValue": "ul. 3 Maja 108",
+            "elemId": [
+                "word_1_8",
+                "word_1_9",
+                "word_1_10",
+                "word_1_11"
+            ]
+        },
+        "addressLocality": {
+            "value": "Ustroń",
+            "trueValue": "Ustroń",
+            "elemId": [
+                "word_1_13"
+            ]
+        }
+    },
+    "name": {
+        "value": "PLACÓWKA KSZTAŁCENIA USTAWICZNEGO \"LEŚNIK\"",
+        "trueValue": "PLACÓWKA KSZTAŁCENIA USTAWICZNEGO \"LEŚNIK\"",
+        "elemId": [
+            "word_1_16",
+            "word_1_17",
+            "word_1_18",
+            "word_1_19"
+        ]
+    },
+    "foundingDate": {
+        "value": "1998-11-03",
+        "trueValue": "1998-11-03",
+        "elemId": [
+            "word_1_31"
+        ]
+    },
+    "regon": {
+        "value": "360630765",
+        "trueValue": "360630765",
+        "elemId": [
+            "word_1_15"
+        ]
+    },
+    "email": {
+        "value": "Organ",
+        "trueValue": "nan",
+        "elemId": [
+            "word_1_20"
+        ]
+    },
+    "telephone": {
+        "value": "338 543 521",
+        "trueValue": "338 543 521",
+        "elemId": [
+            "word_1_4",
+            "word_1_5",
+            "word_1_6"
+        ]
+    }
+}

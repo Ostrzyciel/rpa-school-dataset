@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "95-040",
+            "trueValue": "95-040",
+            "elemId": [
+                "word_1_25"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Korczaka 5",
+            "trueValue": "ul. Korczaka 5",
+            "elemId": [
+                "word_1_21",
+                "word_1_22",
+                "word_1_23"
+            ]
+        },
+        "addressLocality": {
+            "value": "Koluszki",
+            "trueValue": "Koluszki",
+            "elemId": [
+                "word_1_26"
+            ]
+        }
+    },
+    "name": {
+        "value": "PORADNIA PSYCHOLOGICZNO-PEDAGOGICZNA W KOLUSZKACH",
+        "trueValue": "PORADNIA PSYCHOLOGICZNO-PEDAGOGICZNA W KOLUSZKACH",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6"
+        ]
+    },
+    "foundingDate": {
+        "value": "1977-04-01",
+        "trueValue": "1977-04-01",
+        "elemId": [
+            "word_1_24"
+        ]
+    },
+    "regon": {
+        "value": "001045855",
+        "trueValue": "001045855",
+        "elemId": [
+            "word_1_8"
+        ]
+    },
+    "email": {
+        "value": "pppkoluszkiGinteria.pl",
+        "trueValue": "pppkoluszki@interia.pl",
+        "elemId": [
+            "word_1_31"
+        ]
+    },
+    "telephone": {
+        "value": "447 141 454",
+        "trueValue": "447 141 454",
+        "elemId": [
+            "word_1_33",
+            "word_1_34",
+            "word_1_35"
+        ]
+    }
+}

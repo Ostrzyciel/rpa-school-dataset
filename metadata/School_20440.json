@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "50-208",
+            "trueValue": "50-208",
+            "elemId": [
+                "word_1_26"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Stanisława Dubois 5",
+            "trueValue": "ul. Stanisława Dubois 5",
+            "elemId": [
+                "word_1_21",
+                "word_1_22",
+                "word_1_23",
+                "word_1_24"
+            ]
+        },
+        "addressLocality": {
+            "value": "Wrocław",
+            "trueValue": "Wrocław-Śródmieście",
+            "elemId": [
+                "word_1_27"
+            ]
+        }
+    },
+    "name": {
+        "value": "MŁODZIEŻOWY DOM KULTURY ŚRÓDMIEŚCIE",
+        "trueValue": "MŁODZIEŻOWY DOM KULTURY ŚRÓDMIEŚCIE",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6"
+        ]
+    },
+    "foundingDate": {
+        "value": "1977-01-01",
+        "trueValue": "1977-01-01",
+        "elemId": [
+            "word_1_25"
+        ]
+    },
+    "regon": {
+        "value": "000704758",
+        "trueValue": "000704758",
+        "elemId": [
+            "word_1_8"
+        ]
+    },
+    "email": {
+        "value": "sekretariat©mdksr.wroc.pl",
+        "trueValue": "sekretariat@mdksr.wroc.pl",
+        "elemId": [
+            "word_1_32"
+        ]
+    },
+    "telephone": {
+        "value": "717 986 744",
+        "trueValue": "717 986 744",
+        "elemId": [
+            "word_1_34",
+            "word_1_35",
+            "word_1_36"
+        ]
+    }
+}

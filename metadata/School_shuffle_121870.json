@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "34-332",
+            "trueValue": "34-332",
+            "elemId": [
+                "word_1_24"
+            ]
+        },
+        "streetAddress": {
+            "value": "675",
+            "trueValue": "675",
+            "elemId": [
+                "word_1_21"
+            ]
+        },
+        "addressLocality": {
+            "value": "Koszarawa",
+            "trueValue": "Koszarawa",
+            "elemId": [
+                "word_1_20"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNA SZKOŁA PODSTAWOWA FUNDACJI KRÓLOWEJ ŚWIĘTEJ JADWIGI W KOSZARAWIE BYSTREJ",
+        "trueValue": "NIEPUBLICZNA SZKOŁA PODSTAWOWA FUNDACJI KRÓLOWEJ ŚWIĘTEJ JADWIGI W KOSZARAWIE BYSTREJ",
+        "elemId": [
+            "word_1_1",
+            "word_1_2",
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9",
+            "word_1_12"
+        ]
+    },
+    "foundingDate": {
+        "value": "2001-08-31",
+        "trueValue": "2001-08-31",
+        "elemId": [
+            "word_1_39"
+        ]
+    },
+    "regon": {
+        "value": "243484171",
+        "trueValue": "243484171",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "email": {
+        "value": "biurommsQ©szkolamontessori.com.pl",
+        "trueValue": "biuromms@szkolamontessori.com.pl",
+        "elemId": [
+            "word_1_36"
+        ]
+    },
+    "telephone": {
+        "value": "334 454 533",
+        "trueValue": "334 454 533",
+        "elemId": [
+            "word_1_27",
+            "word_1_28",
+            "word_1_29"
+        ]
+    }
+}

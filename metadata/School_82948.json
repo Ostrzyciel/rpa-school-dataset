@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "87-400",
+            "trueValue": "87-400",
+            "elemId": [
+                "word_1_27"
+            ]
+        },
+        "streetAddress": {
+            "value": "32",
+            "trueValue": "32",
+            "elemId": [
+                "word_1_25"
+            ]
+        },
+        "addressLocality": {
+            "value": "Nowogród",
+            "trueValue": "Nowogród",
+            "elemId": [
+                "word_1_24"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁA PODSTAWOWA W NOWOGRODZIE",
+        "trueValue": "SZKOŁA PODSTAWOWA W NOWOGRODZIE",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6"
+        ]
+    },
+    "foundingDate": {
+        "value": "1996-01-01",
+        "trueValue": "1996-01-01",
+        "elemId": [
+            "word_1_26"
+        ]
+    },
+    "regon": {
+        "value": "001210981",
+        "trueValue": "001210981",
+        "elemId": [
+            "word_1_8"
+        ]
+    },
+    "email": {
+        "value": "nowoszkolQwp.pl",
+        "trueValue": "nowoszkol@wp.pl",
+        "elemId": [
+            "word_1_33"
+        ]
+    },
+    "telephone": {
+        "value": "566 838 422",
+        "trueValue": "566 838 422",
+        "elemId": [
+            "word_1_35",
+            "word_1_36",
+            "word_1_37"
+        ]
+    }
+}

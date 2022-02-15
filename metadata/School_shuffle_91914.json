@@ -1,0 +1,76 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "41-200",
+            "trueValue": "41-200",
+            "elemId": [
+                "word_1_25"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Wawel 2",
+            "trueValue": "ul. Wawel 2",
+            "elemId": [
+                "word_1_22",
+                "word_1_23",
+                "word_1_24"
+            ]
+        },
+        "addressLocality": {
+            "value": "Sosnowiec",
+            "trueValue": "Sosnowiec",
+            "elemId": [
+                "word_1_26"
+            ]
+        }
+    },
+    "name": {
+        "value": "PAŃSTWOWA SZKOŁA MUZYCZNA I STOPNIA IM. JANA KIEPURY W SOSNOWCU",
+        "trueValue": "PAŃSTWOWA SZKOŁA MUZYCZNA I STOPNIA IM. JANA KIEPURY W SOSNOWCU",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9",
+            "word_1_10",
+            "word_1_11",
+            "word_1_12"
+        ]
+    },
+    "foundingDate": {
+        "value": "1946-07-01",
+        "trueValue": "1946-07-01",
+        "elemId": [
+            "word_1_36"
+        ]
+    },
+    "regon": {
+        "value": "240076773",
+        "trueValue": "240076773",
+        "elemId": [
+            "word_1_20"
+        ]
+    },
+    "email": {
+        "value": "sekretariatGzsmsosnowiec.pl",
+        "trueValue": "sekretariat@zsmsosnowiec.pl",
+        "elemId": [
+            "word_1_46"
+        ]
+    },
+    "telephone": {
+        "value": "322 663 795",
+        "trueValue": "322 663 795",
+        "elemId": [
+            "word_1_48",
+            "word_1_49",
+            "word_1_50"
+        ]
+    }
+}

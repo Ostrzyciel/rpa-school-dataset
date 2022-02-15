@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "78-500",
+            "trueValue": "78-500",
+            "elemId": [
+                "word_1_33"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Złocieniecka 25",
+            "trueValue": "ul. Złocieniecka 25",
+            "elemId": [
+                "word_1_25",
+                "word_1_26",
+                "word_1_27"
+            ]
+        },
+        "addressLocality": {
+            "value": "Drawsko Pomorskie",
+            "trueValue": "Drawsko Pomorskie",
+            "elemId": [
+                "word_1_34",
+                "word_1_35"
+            ]
+        }
+    },
+    "name": {
+        "value": "LICEUM OGÓLNOKSZTAŁCĄCE SPECJALNE",
+        "trueValue": "LICEUM OGÓLNOKSZTAŁCĄCE SPECJALNE",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5"
+        ]
+    },
+    "foundingDate": {
+        "value": "2019-09-01",
+        "trueValue": "2019-09-01",
+        "elemId": [
+            "word_1_38"
+        ]
+    },
+    "regon": {
+        "value": "384270319",
+        "trueValue": "384270319",
+        "elemId": [
+            "word_1_14"
+        ]
+    },
+    "email": {
+        "value": "sekretariatQzpetbobrowo.dlaedu.pl",
+        "trueValue": "sekretariat@zpetbobrowo.dlaedu.pl",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "telephone": {
+        "value": "943 671 463",
+        "trueValue": "943 671 463",
+        "elemId": [
+            "word_1_30",
+            "word_1_31",
+            "word_1_32"
+        ]
+    }
+}

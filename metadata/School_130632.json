@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "50-540",
+            "trueValue": "50-540",
+            "elemId": [
+                "word_1_30"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Orzechowa 62",
+            "trueValue": "ul. Orzechowa 62",
+            "elemId": [
+                "word_1_26",
+                "word_1_27",
+                "word_1_28"
+            ]
+        },
+        "addressLocality": {
+            "value": "Wrocław",
+            "trueValue": "Wrocław-Krzyki",
+            "elemId": [
+                "word_1_31"
+            ]
+        }
+    },
+    "name": {
+        "value": "MANDO EDUSEC\"",
+        "trueValue": "\"KOMANDO EDUSEC\"",
+        "elemId": [
+            "word_1_3",
+            "word_1_4"
+        ]
+    },
+    "foundingDate": {
+        "value": "2016-04-20",
+        "trueValue": "2016-04-20",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "regon": {
+        "value": "364282210",
+        "trueValue": "364282210",
+        "elemId": [
+            "word_1_6"
+        ]
+    },
+    "email": {
+        "value": "biuroQedusec.com.pl",
+        "trueValue": "biuro@edusec.com.pl",
+        "elemId": [
+            "word_1_36"
+        ]
+    },
+    "telephone": {
+        "value": "883 374 445",
+        "trueValue": "883 374 445",
+        "elemId": [
+            "word_1_38",
+            "word_1_39",
+            "word_1_40"
+        ]
+    }
+}

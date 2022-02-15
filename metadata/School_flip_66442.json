@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "78-500",
+            "trueValue": "78-500",
+            "elemId": [
+                "word_1_31"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Sybiraków 4 lok. 22",
+            "trueValue": "ul. Sybiraków 4 lok. 22",
+            "elemId": [
+                "word_1_22",
+                "word_1_23",
+                "word_1_24",
+                "word_1_25",
+                "word_1_26"
+            ]
+        },
+        "addressLocality": {
+            "value": "Drawsko Pomorskie",
+            "trueValue": "Drawsko Pomorskie",
+            "elemId": [
+                "word_1_32",
+                "word_1_33"
+            ]
+        }
+    },
+    "name": {
+        "value": "\"BHP-SZKOLENIA-OBSŁUGA-NADZÓR\" JÓZEF CHOROBA",
+        "trueValue": "\"BHP-SZKOLENIA-OBSŁUGA-NADZÓR\" JÓZEF CHOROBA",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5"
+        ]
+    },
+    "foundingDate": {
+        "value": "2002-09-18",
+        "trueValue": "2002-09-18",
+        "elemId": [
+            "word_1_37"
+        ]
+    },
+    "regon": {
+        "value": "321293628",
+        "trueValue": "321293628",
+        "elemId": [
+            "word_1_11"
+        ]
+    },
+    "email": {
+        "value": "szkoleniabhpQtlen.pl",
+        "trueValue": "szkoleniabhp@tlen.pl",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "telephone": {
+        "value": "600 757 862",
+        "trueValue": "600 757 862",
+        "elemId": [
+            "word_1_28",
+            "word_1_29",
+            "word_1_30"
+        ]
+    }
+}

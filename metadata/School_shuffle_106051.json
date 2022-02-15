@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "26-422",
+            "trueValue": "26-422",
+            "elemId": [
+                "word_1_73"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Platanowa 1",
+            "trueValue": "ul. Platanowa 1",
+            "elemId": [
+                "word_1_69",
+                "word_1_70",
+                "word_1_71"
+            ]
+        },
+        "addressLocality": {
+            "value": "Borkowice",
+            "trueValue": "Borkowice",
+            "elemId": [
+                "word_1_74"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNA SZKOŁA PODSTAWOWA SPECJALNA W BORKOWICACH",
+        "trueValue": "NIEPUBLICZNA SZKOŁA PODSTAWOWA SPECJALNA W BORKOWICACH",
+        "elemId": [
+            "word_1_44",
+            "word_1_45",
+            "word_1_46",
+            "word_1_47",
+            "word_1_48",
+            "word_1_49"
+        ]
+    },
+    "foundingDate": {
+        "value": "2011-05-04",
+        "trueValue": "2011-05-04",
+        "elemId": [
+            "word_1_79"
+        ]
+    },
+    "regon": {
+        "value": "146467696",
+        "trueValue": "146467696",
+        "elemId": [
+            "word_1_72"
+        ]
+    },
+    "email": {
+        "value": "nsoswQwp.pl",
+        "trueValue": "nsos-w@wp.pl",
+        "elemId": [
+            "word_1_65"
+        ]
+    },
+    "telephone": {
+        "value": "486 752 088",
+        "trueValue": "486 752 088",
+        "elemId": [
+            "word_1_59",
+            "word_1_60",
+            "word_1_61"
+        ]
+    }
+}

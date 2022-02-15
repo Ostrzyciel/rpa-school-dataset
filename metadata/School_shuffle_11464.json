@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "21-400",
+            "trueValue": "21-400",
+            "elemId": [
+                "word_1_36"
+            ]
+        },
+        "streetAddress": {
+            "value": "os. Leona Klimeckiego 14",
+            "trueValue": "os. Leona Klimeckiego 14",
+            "elemId": [
+                "word_1_32",
+                "word_1_33",
+                "word_1_34",
+                "word_1_35"
+            ]
+        },
+        "addressLocality": {
+            "value": "Łuków",
+            "trueValue": "Łuków",
+            "elemId": [
+                "word_1_37"
+            ]
+        }
+    },
+    "name": {
+        "value": "PRZEDSZKOLE MIEJSKIE NR 4 FANTAZJA W ŁUKOWIE",
+        "trueValue": "PRZEDSZKOLE MIEJSKIE NR 4 FANTAZJA W ŁUKOWIE",
+        "elemId": [
+            "word_1_18",
+            "word_1_19",
+            "word_1_20",
+            "word_1_21",
+            "word_1_22",
+            "word_1_23",
+            "word_1_24"
+        ]
+    },
+    "foundingDate": {
+        "value": "1997-03-07",
+        "trueValue": "1997-03-07",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "regon": {
+        "value": "710005427",
+        "trueValue": "710005427",
+        "elemId": [
+            "word_1_39"
+        ]
+    },
+    "email": {
+        "value": "lukow.pl",
+        "trueValue": "p4@um.lukow.pl",
+        "elemId": [
+            "word_1_5"
+        ]
+    },
+    "telephone": {
+        "value": "257 983 221",
+        "trueValue": "257 983 221",
+        "elemId": [
+            "word_1_7",
+            "word_1_8",
+            "word_1_9"
+        ]
+    }
+}

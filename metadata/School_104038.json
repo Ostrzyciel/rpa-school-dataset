@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "95-080",
+            "trueValue": "95-080",
+            "elemId": [
+                "word_1_34"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Pułaskiego 10",
+            "trueValue": "ul. Pułaskiego 10",
+            "elemId": [
+                "word_1_30",
+                "word_1_31",
+                "word_1_32"
+            ]
+        },
+        "addressLocality": {
+            "value": "Tuszyn",
+            "trueValue": "Tuszyn",
+            "elemId": [
+                "word_1_35"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNE PRZEDSZKOLE JĘZYKOWO-SPORTOWE WINNERS I W TUSZYNIE",
+        "trueValue": "NIEPUBLICZNE PRZEDSZKOLE JĘZYKOWO-SPORTOWE WINNERS I W TUSZYNIE",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9"
+        ]
+    },
+    "foundingDate": {
+        "value": "2012-12-08",
+        "trueValue": "2012-12-03",
+        "elemId": [
+            "word_1_33"
+        ]
+    },
+    "regon": {
+        "value": "101516441",
+        "trueValue": "101516441",
+        "elemId": [
+            "word_1_11"
+        ]
+    },
+    "email": {
+        "value": "ignatowicz1Qwp.pl",
+        "trueValue": "katarzyna.ignatowicz1@wp.pl",
+        "elemId": [
+            "word_1_41"
+        ]
+    },
+    "telephone": {
+        "value": "538 447 007",
+        "trueValue": "538 447 007",
+        "elemId": [
+            "word_1_43",
+            "word_1_44",
+            "word_1_45"
+        ]
+    }
+}

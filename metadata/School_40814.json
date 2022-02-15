@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "87-645",
+            "trueValue": "87-645",
+            "elemId": [
+                "word_1_30"
+            ]
+        },
+        "streetAddress": {
+            "value": "62",
+            "trueValue": "62",
+            "elemId": [
+                "word_1_28"
+            ]
+        },
+        "addressLocality": {
+            "value": "Klonowo",
+            "trueValue": "Klonowo",
+            "elemId": [
+                "word_1_27"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁA PODSTAWOWA IM. POWSTAŃCÓW STYCZNIOWYCH W KLONOWIE",
+        "trueValue": "SZKOŁA PODSTAWOWA IM. POWSTAŃCÓW STYCZNIOWYCH W KLONOWIE",
+        "elemId": [
+            "word_1_17",
+            "word_1_18",
+            "word_1_19",
+            "word_1_20",
+            "word_1_21",
+            "word_1_22",
+            "word_1_23"
+        ]
+    },
+    "foundingDate": {
+        "value": "1967-09-01",
+        "trueValue": "1967-09-01",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "regon": {
+        "value": "001138686",
+        "trueValue": "001138686",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "sp_klonGinteria.pl",
+        "trueValue": "sp_klon@interia.pl",
+        "elemId": [
+            "word_1_33"
+        ]
+    },
+    "telephone": {
+        "value": "542 801 992",
+        "trueValue": "542 801 992",
+        "elemId": [
+            "word_1_35",
+            "word_1_36",
+            "word_1_37"
+        ]
+    }
+}

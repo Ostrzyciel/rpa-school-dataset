@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "05-480",
+            "trueValue": "05-480",
+            "elemId": [
+                "word_1_32"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Częstochowska 71",
+            "trueValue": "ul. Częstochowska 71",
+            "elemId": [
+                "word_1_29",
+                "word_1_30",
+                "word_1_31"
+            ]
+        },
+        "addressLocality": {
+            "value": "Otwock Mały",
+            "trueValue": "Otwock Mały",
+            "elemId": [
+                "word_1_33",
+                "word_1_34"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNE PRZEDSZKOLE \"PLASTUŚ",
+        "trueValue": "NIEPUBLICZNE PRZEDSZKOLE \"PLASTUŚ\"",
+        "elemId": [
+            "word_1_16",
+            "word_1_17",
+            "word_1_18"
+        ]
+    },
+    "foundingDate": {
+        "value": "2012-08-30",
+        "trueValue": "2012-08-30",
+        "elemId": [
+            "word_1_25"
+        ]
+    },
+    "regon": {
+        "value": "146294497",
+        "trueValue": "146294497",
+        "elemId": [
+            "word_1_27"
+        ]
+    },
+    "email": {
+        "value": "bozena.zelazkoGwp.pl",
+        "trueValue": "bozena.zelazko@wp.pl",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "telephone": {
+        "value": "227 809 942",
+        "trueValue": "227 809 942",
+        "elemId": [
+            "word_1_22",
+            "word_1_23",
+            "word_1_24"
+        ]
+    }
+}

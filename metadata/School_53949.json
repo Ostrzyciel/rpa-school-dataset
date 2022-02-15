@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "87-645",
+            "trueValue": "87-645",
+            "elemId": [
+                "word_1_27"
+            ]
+        },
+        "streetAddress": {
+            "value": "178",
+            "trueValue": "178",
+            "elemId": [
+                "word_1_25"
+            ]
+        },
+        "addressLocality": {
+            "value": "Zbójno",
+            "trueValue": "Zbójno",
+            "elemId": [
+                "word_1_28"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁA PODSTAWOWA W ZBÓJNIE",
+        "trueValue": "SZKOŁA PODSTAWOWA W ZBÓJNIE",
+        "elemId": [
+            "word_1_17",
+            "word_1_18",
+            "word_1_19",
+            "word_1_20"
+        ]
+    },
+    "foundingDate": {
+        "value": "1945-09-01",
+        "trueValue": "1945-09-01",
+        "elemId": [
+            "word_1_26"
+        ]
+    },
+    "regon": {
+        "value": "000271271",
+        "trueValue": "000271271",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "zbojno-szkolaQwp.pl",
+        "trueValue": "zbojno-szkola@wp.pl",
+        "elemId": [
+            "word_1_33"
+        ]
+    },
+    "telephone": {
+        "value": "542 606 006",
+        "trueValue": "542 606 006",
+        "elemId": [
+            "word_1_35",
+            "word_1_36",
+            "word_1_37"
+        ]
+    }
+}

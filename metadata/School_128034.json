@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "87-400",
+            "trueValue": "87-400",
+            "elemId": [
+                "word_1_23"
+            ]
+        },
+        "streetAddress": {
+            "value": "85",
+            "trueValue": "85",
+            "elemId": [
+                "word_1_22"
+            ]
+        },
+        "addressLocality": {
+            "value": "Wrocki",
+            "trueValue": "Wrocki",
+            "elemId": [
+                "word_1_21"
+            ]
+        }
+    },
+    "name": {
+        "value": "GMINNE PRZEDSZKOLE WE WROCKACH",
+        "trueValue": "GMINNE PRZEDSZKOLE WE WROCKACH",
+        "elemId": [
+            "word_1_16",
+            "word_1_17",
+            "word_1_18",
+            "word_1_19"
+        ]
+    },
+    "foundingDate": {
+        "value": "2015-04-29",
+        "trueValue": "2015-04-29",
+        "elemId": [
+            "word_1_31"
+        ]
+    },
+    "regon": {
+        "value": "362066493",
+        "trueValue": "362066493",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "Organ",
+        "trueValue": "nan",
+        "elemId": [
+            "word_1_8"
+        ]
+    },
+    "telephone": {
+        "value": "566 836 912",
+        "trueValue": "566 836 912",
+        "elemId": [
+            "word_1_26",
+            "word_1_27",
+            "word_1_28"
+        ]
+    }
+}

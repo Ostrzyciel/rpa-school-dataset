@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../temp/School_flip_21115.png"; bbox 0 0 1920 956; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 462 27 787 42">
+    <p class='ocr_par' id='par_1_1' lang='pol' title="bbox 462 27 787 42">
+     <span class='ocr_caption' id='line_1_1' title="bbox 462 27 787 42; baseline 0 0; x_size 20.666666; x_descenders 5.1666665; x_ascenders 5.1666665">
+      <span class='ocrx_word' id='word_1_1' title='bbox 462 27 563 42; x_wconf 93'>AKADEMIA</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 569 27 685 42; x_wconf 92'>EDUKACYNA</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 691 27 787 42; x_wconf 91'>HUMANEO</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 299 103 1380 221">
+    <p class='ocr_par' id='par_1_2' lang='pol' title="bbox 632 103 1337 116">
+     <span class='ocr_line' id='line_1_2' title="bbox 632 103 1337 116; baseline 0 -3; x_size 18; x_descenders 3; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_4' title='bbox 632 104 650 116; x_wconf 96'>Typ</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 654 103 700 116; x_wconf 96'>placówki</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 965 104 996 116; x_wconf 84'>Organ</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1000 103 1066 116; x_wconf 95'>prowadzący:</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1298 103 1337 113; x_wconf 96'>Telefon</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='pol' title="bbox 300 114 1380 158">
+     <span class='ocr_line' id='line_1_3' title="bbox 300 114 1380 145; baseline 0 -10; x_size 22.554348; x_descenders 5.5; x_ascenders 5.6847825">
+      <span class='ocrx_word' id='word_1_9' title='bbox 300 124 374 135; x_wconf 94'>122671240</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 632 124 717 138; x_wconf 93'>Niepubliczna</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 722 124 785 138; x_wconf 93'>placówka</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 789 123 866 135; x_wconf 92'>oświatowo-</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 965 114 1037 145; x_wconf 91'>HUMANEO</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1299 124 1322 135; x_wconf 96'>185</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1327 124 1351 135; x_wconf 96'>477</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1356 124 1380 135; x_wconf 96'>070</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 632 143 863 158; baseline 0 -3; x_size 22.554348; x_descenders 5.5; x_ascenders 5.6847825">
+      <span class='ocrx_word' id='word_1_17' title='bbox 632 144 728 158; x_wconf 96'>wychowawcza</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 726 134 737 165; x_wconf 96'>w</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 748 144 807 158; x_wconf 95'>systemie</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 812 143 863 158; x_wconf 96'>oświaty</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='pol' title="bbox 299 162 994 184">
+     <span class='ocr_line' id='line_1_5' title="bbox 299 162 994 184; baseline 0 -8; x_size 13.224984; x_descenders 3.2249844; x_ascenders 3.333333">
+      <span class='ocrx_word' id='word_1_21' title='bbox 299 162 329 184; x_wconf 96'>Adres</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 965 166 994 176; x_wconf 92'>Email</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='pol' title="bbox 299 187 1090 201">
+     <span class='ocr_line' id='line_1_6' title="bbox 299 187 1090 201; baseline -0.003 -3; x_size 22.554348; x_descenders 5.5; x_ascenders 5.6847825">
+      <span class='ocrx_word' id='word_1_23' title='bbox 299 187 313 198; x_wconf 92'>ul.</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 319 187 386 198; x_wconf 96'>Bolesława</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 392 187 495 201; x_wconf 96'>Limanowskiego</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 499 187 508 198; x_wconf 76'>4</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 632 187 666 196; x_wconf 93'>Strona</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 670 187 732 196; x_wconf 63'>intemetowa</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 965 187 1090 201; x_wconf 41'>biuroQhumaneo.pl</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='pol' title="bbox 299 207 750 221">
+     <span class='ocr_line' id='line_1_7' title="bbox 299 207 750 221; baseline 0 -3; x_size 22.554348; x_descenders 5.5; x_ascenders 5.6847825">
+      <span class='ocrx_word' id='word_1_30' title='bbox 299 207 344 218; x_wconf 86'>33-300</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 349 207 386 221; x_wconf 96'>Nowy</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 390 207 422 221; x_wconf 96'>Sącz</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 632 207 750 221; x_wconf 52'>http://humaneo.pl</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 299 250 377 281">
+    <p class='ocr_par' id='par_1_7' lang='pol' title="bbox 299 250 377 281">
+     <span class='ocr_line' id='line_1_8' title="bbox 299 250 377 259; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_34' title='bbox 299 250 323 259; x_wconf 96'>Data</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 326 250 377 259; x_wconf 94'>założenia</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 299 270 373 281; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_36' title='bbox 299 270 373 281; x_wconf 94'>2011-03-23</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 268 0 1638 324">
+    <p class='ocr_par' id='par_1_8' lang='pol' title="bbox 268 0 1638 324">
+     <span class='ocr_line' id='line_1_10' title="bbox 268 0 1638 324; baseline 0 632; x_size 134.66666; x_descenders 33.666664; x_ascenders 33.666668">
+      <span class='ocrx_word' id='word_1_37' title='bbox 268 0 1638 324; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

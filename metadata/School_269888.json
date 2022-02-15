@@ -1,0 +1,69 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "51-616",
+            "trueValue": "51-616",
+            "elemId": [
+                "word_1_30"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Parkowa 18-26",
+            "trueValue": "ul. Parkowa 18-26",
+            "elemId": [
+                "word_1_26",
+                "word_1_27",
+                "word_1_28"
+            ]
+        },
+        "addressLocality": {
+            "value": "Wrocław",
+            "trueValue": "Wrocław-Śródmieście",
+            "elemId": [
+                "word_1_31"
+            ]
+        }
+    },
+    "name": {
+        "value": "\"PROFESJA\" CENTRUM SZKOLENIOWE",
+        "trueValue": "\"PROFESJA\" CENTRUM SZKOLENIOWE",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5"
+        ]
+    },
+    "foundingDate": {
+        "value": "2018-11-15",
+        "trueValue": "2018-11-15",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "regon": {
+        "value": "381826029",
+        "trueValue": "381826029",
+        "elemId": [
+            "word_1_7"
+        ]
+    },
+    "email": {
+        "value": "magdakaluzaGpoczta.fm",
+        "trueValue": "magdakaluza@poczta.fm",
+        "elemId": [
+            "word_1_33"
+        ]
+    },
+    "telephone": {
+        "value": "661 156 835",
+        "trueValue": "661 156 835",
+        "elemId": [
+            "word_1_35",
+            "word_1_36",
+            "word_1_37"
+        ]
+    }
+}

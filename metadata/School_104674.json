@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "87-400",
+            "trueValue": "87-400",
+            "elemId": [
+                "word_1_32"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Marii Konopnickiej 15",
+            "trueValue": "ul. Marii Konopnickiej 15",
+            "elemId": [
+                "word_1_27",
+                "word_1_28",
+                "word_1_29",
+                "word_1_30"
+            ]
+        },
+        "addressLocality": {
+            "value": "Golub-Dobrzyń",
+            "trueValue": "Golub-Dobrzyń",
+            "elemId": [
+                "word_1_33"
+            ]
+        }
+    },
+    "name": {
+        "value": "BRANŻOWA SZKOŁA I STOPNIA SPEC,",
+        "trueValue": "BRANŻOWA SZKOŁA I STOPNIA SPECJALNA",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7"
+        ]
+    },
+    "foundingDate": {
+        "value": "1994-09-01",
+        "trueValue": "1994-09-01",
+        "elemId": [
+            "word_1_31"
+        ]
+    },
+    "regon": {
+        "value": "870267904",
+        "trueValue": "870267904",
+        "elemId": [
+            "word_1_9"
+        ]
+    },
+    "email": {
+        "value": "zssgolubGpoczta.onet.pl",
+        "trueValue": "zssgolub@poczta.onet.pl",
+        "elemId": [
+            "word_1_38"
+        ]
+    },
+    "telephone": {
+        "value": "566 832 553",
+        "trueValue": "566 832 553",
+        "elemId": [
+            "word_1_40",
+            "word_1_41",
+            "word_1_42"
+        ]
+    }
+}

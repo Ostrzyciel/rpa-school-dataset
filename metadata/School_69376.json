@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "87-410",
+            "trueValue": "87-410",
+            "elemId": [
+                "word_1_33"
+            ]
+        },
+        "streetAddress": {
+            "value": "53",
+            "trueValue": "53",
+            "elemId": [
+                "word_1_31"
+            ]
+        },
+        "addressLocality": {
+            "value": "Wielkie Rychnowo",
+            "trueValue": "Wielkie Rychnowo",
+            "elemId": [
+                "word_1_29",
+                "word_1_30"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁA PODSTAWOWA IM. JANUSZA KORCZAKA W WIELKIM RYCHNOWIE",
+        "trueValue": "SZKOŁA PODSTAWOWA IM. JANUSZA KORCZAKA W WIELKIM RYCHNOWIE",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9",
+            "word_1_10"
+        ]
+    },
+    "foundingDate": {
+        "value": "1950-09-01",
+        "trueValue": "1950-09-01",
+        "elemId": [
+            "word_1_32"
+        ]
+    },
+    "regon": {
+        "value": "001224397",
+        "trueValue": "001224397",
+        "elemId": [
+            "word_1_12"
+        ]
+    },
+    "email": {
+        "value": "sprychnowoGpoczta.onet.pl",
+        "trueValue": "sprychnowo@poczta.onet.pl",
+        "elemId": [
+            "word_1_40"
+        ]
+    },
+    "telephone": {
+        "value": "566 842 111",
+        "trueValue": "566 842 111",
+        "elemId": [
+            "word_1_42",
+            "word_1_43",
+            "word_1_44"
+        ]
+    }
+}

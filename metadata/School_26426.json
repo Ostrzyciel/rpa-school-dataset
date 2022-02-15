@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "17-230",
+            "trueValue": "17-230",
+            "elemId": [
+                "word_1_27"
+            ]
+        },
+        "streetAddress": {
+            "value": "park Dyrekcyjny 1A",
+            "trueValue": "park Dyrekcyjny 1A",
+            "elemId": [
+                "word_1_23",
+                "word_1_24",
+                "word_1_25"
+            ]
+        },
+        "addressLocality": {
+            "value": "Białowieża",
+            "trueValue": "Białowieża",
+            "elemId": [
+                "word_1_28"
+            ]
+        }
+    },
+    "name": {
+        "value": "TECHNIKUM LEŚNE W BIAŁOWIEŻY",
+        "trueValue": "TECHNIKUM LEŚNE W BIAŁOWIEŻY",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6"
+        ]
+    },
+    "foundingDate": {
+        "value": "1951-10-15",
+        "trueValue": "1951-10-15",
+        "elemId": [
+            "word_1_26"
+        ]
+    },
+    "regon": {
+        "value": "052207516",
+        "trueValue": "052207516",
+        "elemId": [
+            "word_1_8"
+        ]
+    },
+    "email": {
+        "value": "dyrektorGitl.bialowieza.pl",
+        "trueValue": "dyrektor@tl.bialowieza.pl",
+        "elemId": [
+            "word_1_33"
+        ]
+    },
+    "telephone": {
+        "value": "856 812 404",
+        "trueValue": "856 812 404",
+        "elemId": [
+            "word_1_35",
+            "word_1_36",
+            "word_1_37"
+        ]
+    }
+}

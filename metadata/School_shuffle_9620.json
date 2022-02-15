@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "76-200",
+            "trueValue": "76-200",
+            "elemId": [
+                "word_1_35"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Stefana Jaracza 18a",
+            "trueValue": "ul. Stefana Jaracza 18a",
+            "elemId": [
+                "word_1_31",
+                "word_1_32",
+                "word_1_33",
+                "word_1_34"
+            ]
+        },
+        "addressLocality": {
+            "value": "Słupsk",
+            "trueValue": "Słupsk",
+            "elemId": [
+                "word_1_36"
+            ]
+        }
+    },
+    "name": {
+        "value": "PEDAGOGICZNA BIBLIOTEKA WOJEWÓDZKA W SŁUPSKU",
+        "trueValue": "PEDAGOGICZNA BIBLIOTEKA WOJEWÓDZKA W SŁUPSKU",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7"
+        ]
+    },
+    "foundingDate": {
+        "value": "1976-11-01",
+        "trueValue": "1976-11-01",
+        "elemId": [
+            "word_1_26"
+        ]
+    },
+    "regon": {
+        "value": "000786549",
+        "trueValue": "000786549",
+        "elemId": [
+            "word_1_23"
+        ]
+    },
+    "email": {
+        "value": "sekretariat©pbw.slupsk.pl",
+        "trueValue": "sekretariat@pbw.slupsk.pl",
+        "elemId": [
+            "word_1_9"
+        ]
+    },
+    "telephone": {
+        "value": "598 422 705",
+        "trueValue": "598 422 705",
+        "elemId": [
+            "word_1_11",
+            "word_1_12",
+            "word_1_13"
+        ]
+    }
+}

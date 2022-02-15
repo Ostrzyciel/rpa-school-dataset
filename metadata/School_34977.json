@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "95-040",
+            "trueValue": "95-040",
+            "elemId": [
+                "word_1_33"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Kościuszki 16",
+            "trueValue": "ul. Kościuszki 16",
+            "elemId": [
+                "word_1_29",
+                "word_1_30",
+                "word_1_31"
+            ]
+        },
+        "addressLocality": {
+            "value": "Koluszki",
+            "trueValue": "Koluszki",
+            "elemId": [
+                "word_1_34"
+            ]
+        }
+    },
+    "name": {
+        "value": "I LICEUM OGÓLNOKSZTAŁCĄCE IM. HENRYKA SIENKIEWICZA W KOLUSZKACH",
+        "trueValue": "I LICEUM OGÓLNOKSZTAŁCĄCE IM. HENRYKA SIENKIEWICZA W KOLUSZKACH",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9",
+            "word_1_10"
+        ]
+    },
+    "foundingDate": {
+        "value": "1932-09-01",
+        "trueValue": "1932-09-01",
+        "elemId": [
+            "word_1_32"
+        ]
+    },
+    "regon": {
+        "value": "000233595",
+        "trueValue": "000233595",
+        "elemId": [
+            "word_1_12"
+        ]
+    },
+    "email": {
+        "value": "1o1_koluszkiGpoczta.onet.pl",
+        "trueValue": "lo1_koluszki@poczta.onet.pl",
+        "elemId": [
+            "word_1_39"
+        ]
+    },
+    "telephone": {
+        "value": "447 141 489",
+        "trueValue": "447 141 489",
+        "elemId": [
+            "word_1_41",
+            "word_1_42",
+            "word_1_43"
+        ]
+    }
+}

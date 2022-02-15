@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "95-040",
+            "trueValue": "95-040",
+            "elemId": [
+                "word_1_30"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Budowlanych 8",
+            "trueValue": "ul. Budowlanych 8",
+            "elemId": [
+                "word_1_26",
+                "word_1_27",
+                "word_1_28"
+            ]
+        },
+        "addressLocality": {
+            "value": "Koluszki",
+            "trueValue": "Koluszki",
+            "elemId": [
+                "word_1_31"
+            ]
+        }
+    },
+    "name": {
+        "value": "II LICEUM OGÓLNOKSZTAŁCĄCE W KOLUSZKACH",
+        "trueValue": "II LICEUM OGÓLNOKSZTAŁCĄCE W KOLUSZKACH",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7"
+        ]
+    },
+    "foundingDate": {
+        "value": "2007-09-01",
+        "trueValue": "2007-09-01",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "regon": {
+        "value": "100409708",
+        "trueValue": "100409708",
+        "elemId": [
+            "word_1_9"
+        ]
+    },
+    "email": {
+        "value": "zsp2kolGitlen.pl",
+        "trueValue": "zsp2kol@tlen.pl",
+        "elemId": [
+            "word_1_36"
+        ]
+    },
+    "telephone": {
+        "value": "447 140 734",
+        "trueValue": "447 140 734",
+        "elemId": [
+            "word_1_38",
+            "word_1_39",
+            "word_1_40"
+        ]
+    }
+}

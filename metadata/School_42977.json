@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "44-190",
+            "trueValue": "44-190",
+            "elemId": [
+                "word_1_33"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Szpitalna 8",
+            "trueValue": "ul. Szpitalna 8",
+            "elemId": [
+                "word_1_29",
+                "word_1_30",
+                "word_1_31"
+            ]
+        },
+        "addressLocality": {
+            "value": "Knurów",
+            "trueValue": "Knurów",
+            "elemId": [
+                "word_1_34"
+            ]
+        }
+    },
+    "name": {
+        "value": "KOMPANIJNY OŚRODEK SZKOLENIA W KNUROWIE",
+        "trueValue": "KOMPANIJNY OŚRODEK SZKOLENIA W KNUROWIE",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7"
+        ]
+    },
+    "foundingDate": {
+        "value": "2007-08-24",
+        "trueValue": "2007-08-24",
+        "elemId": [
+            "word_1_32"
+        ]
+    },
+    "regon": {
+        "value": "243072072",
+        "trueValue": "243072072",
+        "elemId": [
+            "word_1_9"
+        ]
+    },
+    "email": {
+        "value": "sekretariat",
+        "trueValue": "sekretariat@kos.edu.pl",
+        "elemId": [
+            "word_1_39"
+        ]
+    },
+    "telephone": {
+        "value": "322 366 200",
+        "trueValue": "322 366 200",
+        "elemId": [
+            "word_1_42",
+            "word_1_43",
+            "word_1_44"
+        ]
+    }
+}

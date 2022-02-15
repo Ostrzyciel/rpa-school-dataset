@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "17-207",
+            "trueValue": "17-207",
+            "elemId": [
+                "word_1_24"
+            ]
+        },
+        "streetAddress": {
+            "value": "64",
+            "trueValue": "64",
+            "elemId": [
+                "word_1_23"
+            ]
+        },
+        "addressLocality": {
+            "value": "Czyże",
+            "trueValue": "Czyże",
+            "elemId": [
+                "word_1_25"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁA PODSTAWOWA W CZYŻACH",
+        "trueValue": "SZKOŁA PODSTAWOWA W CZYŻACH",
+        "elemId": [
+            "word_1_17",
+            "word_1_18",
+            "word_1_19",
+            "word_1_20"
+        ]
+    },
+    "foundingDate": {
+        "value": "1975-12-15",
+        "trueValue": "1975-12-15",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "regon": {
+        "value": "000562991",
+        "trueValue": "000562991",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "zsczyzeQwp.pl",
+        "trueValue": "zsczyze@wp.pl",
+        "elemId": [
+            "word_1_27"
+        ]
+    },
+    "telephone": {
+        "value": "856 813 514",
+        "trueValue": "856 813 514",
+        "elemId": [
+            "word_1_29",
+            "word_1_30",
+            "word_1_31"
+        ]
+    }
+}

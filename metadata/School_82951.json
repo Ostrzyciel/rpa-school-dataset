@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "87-400",
+            "trueValue": "87-400",
+            "elemId": [
+                "word_1_29"
+            ]
+        },
+        "streetAddress": {
+            "value": "42",
+            "trueValue": "42",
+            "elemId": [
+                "word_1_27"
+            ]
+        },
+        "addressLocality": {
+            "value": "Ostrowite",
+            "trueValue": "Ostrowite",
+            "elemId": [
+                "word_1_26"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁA PODSTAWOWA W OSTROWITEM IM.TADEUSZA JĘDRYCZKI",
+        "trueValue": "SZKOŁA PODSTAWOWA W OSTROWITEM IM.TADEUSZA JĘDRYCZKI",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8"
+        ]
+    },
+    "foundingDate": {
+        "value": "1996-01-01",
+        "trueValue": "1996-01-01",
+        "elemId": [
+            "word_1_28"
+        ]
+    },
+    "regon": {
+        "value": "001210952",
+        "trueValue": "001210952",
+        "elemId": [
+            "word_1_10"
+        ]
+    },
+    "email": {
+        "value": "spostrowiteQwp.pl",
+        "trueValue": "spostrowite@wp.pl",
+        "elemId": [
+            "word_1_32"
+        ]
+    },
+    "telephone": {
+        "value": "566 836 227",
+        "trueValue": "566 836 227",
+        "elemId": [
+            "word_1_34",
+            "word_1_35",
+            "word_1_36"
+        ]
+    }
+}

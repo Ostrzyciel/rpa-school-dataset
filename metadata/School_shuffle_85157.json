@@ -1,0 +1,81 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "99-300",
+            "trueValue": "99-300",
+            "elemId": [
+                "word_1_53"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. 29 Listopada 27",
+            "trueValue": "ul. 29 Listopada 27",
+            "elemId": [
+                "word_1_47",
+                "word_1_48",
+                "word_1_49",
+                "word_1_50"
+            ]
+        },
+        "addressLocality": {
+            "value": "Kutno",
+            "trueValue": "Kutno",
+            "elemId": [
+                "word_1_54"
+            ]
+        }
+    },
+    "name": {
+        "value": "OŚRODEK REHABILITACYJNO-EDUKACYJNO-WYCHOWAWCZY \"NIEZABUDKA\" POLSKIEGO STOWARZYSZENIA NA RZECZ OSÓB Z NIEPEŁNOSPRAWNOŚCIĄ INTELEKTUALNĄ KOŁO W KUTNIE",
+        "trueValue": "OŚRODEK REHABILITACYJNO-EDUKACYJNO-WYCHOWAWCZY \"NIEZABUDKA\" POLSKIEGO STOWARZYSZENIA NA RZECZ OSÓB Z NIEPEŁNOSPRAWNOŚCIĄ INTELEKTUALNĄ KOŁO W KUTNIE",
+        "elemId": [
+            "word_1_1",
+            "word_1_2",
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9",
+            "word_1_10",
+            "word_1_11",
+            "word_1_12",
+            "word_1_13",
+            "word_1_14"
+        ]
+    },
+    "foundingDate": {
+        "value": "1992-01-01",
+        "trueValue": "1992-01-01",
+        "elemId": [
+            "word_1_45"
+        ]
+    },
+    "regon": {
+        "value": "101500339",
+        "trueValue": "101500339",
+        "elemId": [
+            "word_1_25"
+        ]
+    },
+    "email": {
+        "value": "niezabudkaGpoczta.onet.pl",
+        "trueValue": "orew.niezabudka@poczta.onet.pl",
+        "elemId": [
+            "word_1_23"
+        ]
+    },
+    "telephone": {
+        "value": "242 533 427",
+        "trueValue": "242 533 427",
+        "elemId": [
+            "word_1_35",
+            "word_1_36",
+            "word_1_37"
+        ]
+    }
+}

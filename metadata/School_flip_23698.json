@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "43-300",
+            "trueValue": "43-300",
+            "elemId": [
+                "word_1_34"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Emilii Plater 3",
+            "trueValue": "ul. Emilii Plater 3",
+            "elemId": [
+                "word_1_26",
+                "word_1_27",
+                "word_1_28",
+                "word_1_29"
+            ]
+        },
+        "addressLocality": {
+            "value": "Bielsko-Biała",
+            "trueValue": "Bielsko-Biała",
+            "elemId": [
+                "word_1_35"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁA PODSTAWOWA NR 4 W BIELSKU-BIAŁEJ",
+        "trueValue": "SZKOŁA PODSTAWOWA NR 4 W BIELSKU-BIAŁEJ",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8"
+        ]
+    },
+    "foundingDate": {
+        "value": "1995-08-29",
+        "trueValue": "1995-08-29",
+        "elemId": [
+            "word_1_38"
+        ]
+    },
+    "regon": {
+        "value": "070575849",
+        "trueValue": "070575849",
+        "elemId": [
+            "word_1_17"
+        ]
+    },
+    "email": {
+        "value": "sp4Qcuw.bielsko.pl",
+        "trueValue": "sp4@mzo.bielsko.pl",
+        "elemId": [
+            "word_1_30"
+        ]
+    },
+    "telephone": {
+        "value": "338 124 497",
+        "trueValue": "338 124 497",
+        "elemId": [
+            "word_1_31",
+            "word_1_32",
+            "word_1_33"
+        ]
+    }
+}

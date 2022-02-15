@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "66-440",
+            "trueValue": "66-440",
+            "elemId": [
+                "word_1_30"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Poznańska 1",
+            "trueValue": "ul. Poznańska 1",
+            "elemId": [
+                "word_1_25",
+                "word_1_26",
+                "word_1_27"
+            ]
+        },
+        "addressLocality": {
+            "value": "Skwierzyna",
+            "trueValue": "Skwierzyna",
+            "elemId": [
+                "word_1_31"
+            ]
+        }
+    },
+    "name": {
+        "value": "LICEUM OGÓLNOKSZTAŁCACE DLA DOROSŁYCH",
+        "trueValue": "LICEUM OGÓLNOKSZTAŁCACE DLA DOROSŁYCH",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6"
+        ]
+    },
+    "foundingDate": {
+        "value": "1900-09-01",
+        "trueValue": "1900-09-01",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "regon": {
+        "value": "080282424",
+        "trueValue": "080282424",
+        "elemId": [
+            "word_1_13"
+        ]
+    },
+    "email": {
+        "value": "zstQzst.skwierzyna.pl",
+        "trueValue": "zst@zst.skwierzyna.pl",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "telephone": {
+        "value": "957 170 112",
+        "trueValue": "957 170 112",
+        "elemId": [
+            "word_1_18",
+            "word_1_19",
+            "word_1_20"
+        ]
+    }
+}

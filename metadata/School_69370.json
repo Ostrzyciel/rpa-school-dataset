@@ -1,0 +1,77 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "87-410",
+            "trueValue": "87-410",
+            "elemId": [
+                "word_1_35"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Jana Pawła Il 2",
+            "trueValue": "ul. Jana Pawła II 2",
+            "elemId": [
+                "word_1_29",
+                "word_1_30",
+                "word_1_31",
+                "word_1_32",
+                "word_1_33"
+            ]
+        },
+        "addressLocality": {
+            "value": "Kowalewo Pomorskie",
+            "trueValue": "Kowalewo Pomorskie",
+            "elemId": [
+                "word_1_36",
+                "word_1_37"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁA PODSTAWOWA IM. MARII KONOPNICKIEJ W KOWALEWIE POMORSKIM",
+        "trueValue": "SZKOŁA PODSTAWOWA IM. MARII KONOPNICKIEJ W KOWALEWIE POMORSKIM",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9",
+            "word_1_10"
+        ]
+    },
+    "foundingDate": {
+        "value": "1961-09-01",
+        "trueValue": "1961-09-01",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "regon": {
+        "value": "000263828",
+        "trueValue": "000263828",
+        "elemId": [
+            "word_1_12"
+        ]
+    },
+    "email": {
+        "value": "szpod13Ginteria.pl",
+        "trueValue": "szpod13@interia.pl",
+        "elemId": [
+            "word_1_42"
+        ]
+    },
+    "telephone": {
+        "value": "566 840 185",
+        "trueValue": "566 840 185",
+        "elemId": [
+            "word_1_44",
+            "word_1_45",
+            "word_1_46"
+        ]
+    }
+}

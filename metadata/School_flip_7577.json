@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "37-114",
+            "trueValue": "37-114",
+            "elemId": [
+                "word_1_37"
+            ]
+        },
+        "streetAddress": {
+            "value": "400",
+            "trueValue": "400",
+            "elemId": [
+                "word_1_30"
+            ]
+        },
+        "addressLocality": {
+            "value": "Białobrzegi",
+            "trueValue": "Białobrzegi",
+            "elemId": [
+                "word_1_29"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁA PODSTAWOWA NR 1 IM. TADEUSZA KOŚCIUSZKI W BIAŁOBRZEGACH",
+        "trueValue": "SZKOŁA PODSTAWOWA NR 1 IM. TADEUSZA KOŚCIUSZKI W BIAŁOBRZEGACH",
+        "elemId": [
+            "word_1_1",
+            "word_1_2",
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9"
+        ]
+    },
+    "foundingDate": {
+        "value": "1873-09-01",
+        "trueValue": "1873-09-01",
+        "elemId": [
+            "word_1_41"
+        ]
+    },
+    "regon": {
+        "value": "001131810",
+        "trueValue": "001131810",
+        "elemId": [
+            "word_1_18"
+        ]
+    },
+    "email": {
+        "value": "spbialobrzegi1",
+        "trueValue": "spbialobrzegi1@interia.pl",
+        "elemId": [
+            "word_1_32"
+        ]
+    },
+    "telephone": {
+        "value": "172 245 279",
+        "trueValue": "172 245 279",
+        "elemId": [
+            "word_1_34",
+            "word_1_35",
+            "word_1_36"
+        ]
+    }
+}

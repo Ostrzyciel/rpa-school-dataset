@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "School_shuffle_109107.png"; bbox 0 0 1920 912; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 408 28 1088 42">
+    <p class='ocr_par' id='par_1_1' lang='pol' title="bbox 408 28 1088 42">
+     <span class='ocr_line' id='line_1_1' title="bbox 408 28 1088 42; baseline 0.001 -1; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 408 29 453 41; x_wconf 92'>RSPO:</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 459 29 515 41; x_wconf 96'>109107</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 561 28 697 42; x_wconf 96'>NIEPUBLICZNE</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 703 28 837 42; x_wconf 96'>PRZEDSZKOLE</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 843 28 952 42; x_wconf 96'>SPECJALNE</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 958 28 1021 42; x_wconf 96'>DOBRY</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1027 28 1088 42; x_wconf 96'>START</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 377 91 1231 157">
+    <p class='ocr_par' id='par_1_2' lang='pol' title="bbox 377 91 1231 157">
+     <span class='ocr_caption' id='line_1_2' title="bbox 377 91 1194 122; baseline 0 -10; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_8' title='bbox 377 91 417 122; x_wconf 90'>Adres</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 772 91 810 122; x_wconf 94'>Telefon</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1157 103 1194 112; x_wconf 96'>REGON</span>
+     </span>
+     <span class='ocr_caption' id='line_1_3' title="bbox 387 120 1231 134; baseline 0 0; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_11' title='bbox 387 122 401 134; x_wconf 95'>ul.</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 406 120 476 134; x_wconf 95'>Żołnierska</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 480 123 496 134; x_wconf 96'>27</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 772 123 796 134; x_wconf 95'>895</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 801 123 825 134; x_wconf 93'>330</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 830 123 854 134; x_wconf 90'>532</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1156 123 1231 134; x_wconf 94'>281469549</span>
+     </span>
+     <span class='ocr_caption' id='line_1_4' title="bbox 388 142 485 157; baseline 0 -3; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_18' title='bbox 388 143 432 154; x_wconf 96'>10-560</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 437 142 485 157; x_wconf 95'>Olsztyn</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 387 166 952 331">
+    <p class='ocr_par' id='par_1_3' lang='pol' title="bbox 387 166 849 218">
+     <span class='ocr_line' id='line_1_5' title="bbox 772 166 849 175; baseline 0 0; x_size 22.6875; x_descenders 5.5; x_ascenders 5.7291665">
+      <span class='ocrx_word' id='word_1_20' title='bbox 772 166 796 175; x_wconf 95'>Data</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 799 166 849 175; x_wconf 96'>założenia</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 387 183 844 199; baseline 0.004 -4; x_size 22.6875; x_descenders 5.5; x_ascenders 5.7291665">
+      <span class='ocrx_word' id='word_1_22' title='bbox 387 186 421 195; x_wconf 80'>Liczba</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 425 185 468 195; x_wconf 80'>uczniów</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 477 183 493 199; x_wconf 84'>©</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 772 186 844 197; x_wconf 92'>2012-12-11</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 387 207 403 218; baseline 0 0; x_size 22.6875; x_descenders 5.5; x_ascenders 5.7291665">
+      <span class='ocrx_word' id='word_1_26' title='bbox 387 207 403 218; x_wconf 94'>37</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='pol' title="bbox 387 229 952 326">
+     <span class='ocr_line' id='line_1_8' title="bbox 772 229 800 238; baseline 0 0; x_size 22.6875; x_descenders 5.5; x_ascenders 5.7291665">
+      <span class='ocrx_word' id='word_1_27' title='bbox 772 229 800 238; x_wconf 94'>Email</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 387 248 912 263; baseline 0.002 -4; x_size 18; x_descenders 3; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_28' title='bbox 387 250 418 261; x_wconf 91'>Organ</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 422 250 486 261; x_wconf 96'>prowadzący:</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 772 248 912 263; x_wconf 65'>orewQpoczta.onet.pl</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 387 267 705 281; baseline 0 0; x_size 22.6875; x_descenders 5.5; x_ascenders 5.7291665">
+      <span class='ocrx_word' id='word_1_31' title='bbox 387 270 445 281; x_wconf 95'>POLSKIE</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 450 270 576 281; x_wconf 96'>STOWARZYSZENIE</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 581 270 601 281; x_wconf 94'>NA</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 605 270 650 281; x_wconf 94'>RZECZ</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 654 267 692 281; x_wconf 96'>OSÓB</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 697 270 705 281; x_wconf 96'>Z</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 387 287 872 304; baseline 0 -3; x_size 22.6875; x_descenders 5.5; x_ascenders 5.7291665">
+      <span class='ocrx_word' id='word_1_37' title='bbox 387 287 561 304; x_wconf 87'>NIEPEŁNOSPRAWNOŚCIĄ</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 565 290 679 304; x_wconf 96'>INTELEKTUALNĄ</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 684 290 720 301; x_wconf 88'>KOŁO</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 725 290 738 301; x_wconf 0'>W</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 772 292 872 301; x_wconf 54'>Stronainternetowa</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 387 300 952 331; baseline 0.004 -10; x_size 22.6875; x_descenders 5.5; x_ascenders 5.7291665">
+      <span class='ocrx_word' id='word_1_42' title='bbox 387 300 464 331; x_wconf 88'>OLSZTYNIE</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 772 311 952 326; x_wconf 60'>http://www.psoni.olsztyn.pl</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 387 352 468 384">
+    <p class='ocr_par' id='par_1_5' lang='pol' title="bbox 387 352 468 384">
+     <span class='ocr_line' id='line_1_13' title="bbox 387 352 455 364; baseline 0 -2; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_44' title='bbox 387 353 406 364; x_wconf 88'>Typ</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 409 352 455 364; x_wconf 88'>placówki</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 387 372 468 384; baseline 0 0; x_size 16; x_descenders 4; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_46' title='bbox 387 372 468 384; x_wconf 96'>Przedszkole</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 356 0 1548 428">
+    <p class='ocr_par' id='par_1_6' lang='pol' title="bbox 356 0 1548 428">
+     <span class='ocr_line' id='line_1_15' title="bbox 356 0 1548 428; baseline 0 484; x_size 178.66666; x_descenders 44.666664; x_ascenders 44.666668">
+      <span class='ocrx_word' id='word_1_47' title='bbox 356 0 1548 428; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

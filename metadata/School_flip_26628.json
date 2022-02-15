@@ -1,0 +1,79 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "33-300",
+            "trueValue": "33-300",
+            "elemId": [
+                "word_1_43"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Jagiellońska 63",
+            "trueValue": "ul. Jagiellońska 63",
+            "elemId": [
+                "word_1_34",
+                "word_1_35",
+                "word_1_36"
+            ]
+        },
+        "addressLocality": {
+            "value": "Nowy Sącz",
+            "trueValue": "Nowy Sącz",
+            "elemId": [
+                "word_1_44",
+                "word_1_45"
+            ]
+        }
+    },
+    "name": {
+        "value": "AKADEMICKA SZKOŁA PODSTAWOWA Z ODDZIAŁAMI DWUJĘZYCZNYMI IM.KRÓLA BOLESŁAWA CHROBREGO W NOWYM SĄCZU",
+        "trueValue": "AKADEMICKA SZKOŁA PODSTAWOWA Z ODDZIAŁAMI DWUJĘZYCZNYMI IM.KRÓLA BOLESŁAWA CHROBREGO W NOWYM SĄCZU",
+        "elemId": [
+            "word_1_1",
+            "word_1_2",
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9",
+            "word_1_10",
+            "word_1_11",
+            "word_1_12"
+        ]
+    },
+    "foundingDate": {
+        "value": "2011-09-26",
+        "trueValue": "2011-09-26",
+        "elemId": [
+            "word_1_48"
+        ]
+    },
+    "regon": {
+        "value": "122680629",
+        "trueValue": "122680629",
+        "elemId": [
+            "word_1_23"
+        ]
+    },
+    "email": {
+        "value": "©akademickie.eu",
+        "trueValue": "sekretariat@akademickie.eu",
+        "elemId": [
+            "word_1_39"
+        ]
+    },
+    "telephone": {
+        "value": "184 423 106",
+        "trueValue": "184 423 106",
+        "elemId": [
+            "word_1_40",
+            "word_1_41",
+            "word_1_42"
+        ]
+    }
+}

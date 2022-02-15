@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "91-232",
+            "trueValue": "91-232",
+            "elemId": [
+                "word_1_35"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Spadkowa 11",
+            "trueValue": "ul. Spadkowa 11",
+            "elemId": [
+                "word_1_29",
+                "word_1_30",
+                "word_1_31"
+            ]
+        },
+        "addressLocality": {
+            "value": "Łódź",
+            "trueValue": "Łódź-Bałuty",
+            "elemId": [
+                "word_1_36"
+            ]
+        }
+    },
+    "name": {
+        "value": "MŁODZIEŻOWY OŚRODEK SOCJOTERAPII NR 2",
+        "trueValue": "MŁODZIEŻOWY OŚRODEK SOCJOTERAPII NR 2",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7"
+        ]
+    },
+    "foundingDate": {
+        "value": "1973-09-01",
+        "trueValue": "1973-09-01",
+        "elemId": [
+            "word_1_40"
+        ]
+    },
+    "regon": {
+        "value": "000222775",
+        "trueValue": "000222775",
+        "elemId": [
+            "word_1_14"
+        ]
+    },
+    "email": {
+        "value": "biuroQmos2lodz.pl",
+        "trueValue": "biuro@mos2lodz.pl",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "telephone": {
+        "value": "426 527 893",
+        "trueValue": "426 527 893",
+        "elemId": [
+            "word_1_23",
+            "word_1_24",
+            "word_1_25"
+        ]
+    }
+}

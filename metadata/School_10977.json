@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "87-400",
+            "trueValue": "87-400",
+            "elemId": [
+                "word_1_33"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Stefana Żeromskiego 11",
+            "trueValue": "ul. Stefana Żeromskiego 11",
+            "elemId": [
+                "word_1_28",
+                "word_1_29",
+                "word_1_30",
+                "word_1_31"
+            ]
+        },
+        "addressLocality": {
+            "value": "Golub-Dobrzyń",
+            "trueValue": "Golub-Dobrzyń",
+            "elemId": [
+                "word_1_34"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁA PODSTAWOWA NR 2 IM. ORŁA BIAŁEGO",
+        "trueValue": "SZKOŁA PODSTAWOWA NR 2 IM. ORŁA BIAŁEGO",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9"
+        ]
+    },
+    "foundingDate": {
+        "value": "1999-09-01",
+        "trueValue": "1999-09-01",
+        "elemId": [
+            "word_1_32"
+        ]
+    },
+    "regon": {
+        "value": "000267594",
+        "trueValue": "000267594",
+        "elemId": [
+            "word_1_11"
+        ]
+    },
+    "email": {
+        "value": "zsmGgolub-dobrzyn.pl",
+        "trueValue": "zsm@golub-dobrzyn.pl",
+        "elemId": [
+            "word_1_39"
+        ]
+    },
+    "telephone": {
+        "value": "566 832 026",
+        "trueValue": "566 832 026",
+        "elemId": [
+            "word_1_41",
+            "word_1_42",
+            "word_1_43"
+        ]
+    }
+}

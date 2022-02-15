@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../Screenshots/School_shuffle_121870.png"; bbox 0 0 1920 912; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 561 14 1455 36">
+    <p class='ocr_par' id='par_1_1' lang='pol' title="bbox 561 14 1455 36">
+     <span class='ocr_line' id='line_1_1' title="bbox 561 14 1455 36; baseline 0 -4; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 561 18 700 32; x_wconf 96'>NIEPUBLICZNA</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 706 18 780 32; x_wconf 96'>SZKOŁA</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 786 18 923 32; x_wconf 96'>PODSTAWOWA</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 929 18 1022 32; x_wconf 96'>FUNDACJI</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1028 14 1130 32; x_wconf 96'>KRÓLOWEJ</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1136 14 1217 36; x_wconf 96'>ŚWIĘTEJ</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1223 18 1301 32; x_wconf 96'>JADWIGI</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1308 18 1325 32; x_wconf 93'>W</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1331 18 1455 32; x_wconf 92'>KOSZARAWIE</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 561 25 644 56; x_wconf 96'>BYSTREJ</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 408 25 644 56">
+    <p class='ocr_par' id='par_1_2' lang='pol' title="bbox 408 25 644 56">
+     <span class='ocr_line' id='line_1_2' title="bbox 408 25 644 56; baseline 0 -15; x_size 16; x_descenders 4; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_10' title='bbox 408 29 453 41; x_wconf 92'>RSPO:</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 459 29 514 41; x_wconf 96'>121870</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 387 93 1289 198">
+    <p class='ocr_par' id='par_1_3' lang='pol' title="bbox 387 93 1225 122">
+     <span class='ocr_line' id='line_1_3' title="bbox 387 93 1225 122; baseline 0 -10; x_size 21.25; x_descenders 5.5; x_ascenders 5.25">
+      <span class='ocrx_word' id='word_1_13' title='bbox 387 103 421 112; x_wconf 86'>Liczba</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 425 102 468 112; x_wconf 86'>uczniów</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 477 100 493 116; x_wconf 84'>©</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 763 93 802 122; x_wconf 93'>Adres</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1156 103 1175 114; x_wconf 96'>Typ</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1179 103 1225 114; x_wconf 84'>placówki</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='pol' title="bbox 388 122 1289 154">
+     <span class='ocr_line' id='line_1_4' title="bbox 388 122 1289 137; baseline -0.001 -2; x_size 21.25; x_descenders 5.5; x_ascenders 5.25">
+      <span class='ocrx_word' id='word_1_19' title='bbox 388 124 412 135; x_wconf 95'>520</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 772 123 844 134; x_wconf 95'>Koszarawa</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 849 123 874 134; x_wconf 95'>675</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1156 122 1200 134; x_wconf 92'>Szkoła</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1205 123 1289 137; x_wconf 96'>podstawowa</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 772 143 894 154; baseline 0 0; x_size 21.25; x_descenders 5.5; x_ascenders 5.25">
+      <span class='ocrx_word' id='word_1_24' title='bbox 772 143 817 154; x_wconf 95'>34-332</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 822 143 894 154; x_wconf 96'>Koszarawa</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='pol' title="bbox 387 167 426 176">
+     <span class='ocr_line' id='line_1_6' title="bbox 387 167 426 176; baseline 0 0; x_size 21.25; x_descenders 5.5; x_ascenders 5.25">
+      <span class='ocrx_word' id='word_1_26' title='bbox 387 167 426 176; x_wconf 90'>Telefon</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='pol' title="bbox 387 186 872 198">
+     <span class='ocr_line' id='line_1_7' title="bbox 387 186 872 198; baseline 0 -3; x_size 21.25; x_descenders 5.5; x_ascenders 5.25">
+      <span class='ocrx_word' id='word_1_27' title='bbox 387 187 412 198; x_wconf 95'>334</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 416 187 441 198; x_wconf 96'>454</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 446 187 469 198; x_wconf 94'>533</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 772 186 806 195; x_wconf 69'>Strona</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 810 186 872 195; x_wconf 96'>internetowa</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 772 205 1016 220">
+    <p class='ocr_par' id='par_1_7' lang='pol' title="bbox 772 205 1016 220">
+     <span class='ocr_caption' id='line_1_8' title="bbox 772 205 1016 220; baseline 0 -3; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_32' title='bbox 772 205 1016 220; x_wconf 63'>http://www.szkolamontessori.com.pl</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 387 230 1054 346">
+    <p class='ocr_par' id='par_1_8' lang='pol' title="bbox 387 230 1054 346">
+     <span class='ocr_line' id='line_1_9' title="bbox 387 230 425 239; baseline 0 0; x_size 23; x_descenders 5.5; x_ascenders 5.8333335">
+      <span class='ocrx_word' id='word_1_33' title='bbox 387 230 425 239; x_wconf 96'>REGON</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 387 249 800 261; baseline 0 0; x_size 23; x_descenders 5.5; x_ascenders 5.8333335">
+      <span class='ocrx_word' id='word_1_34' title='bbox 387 250 460 261; x_wconf 96'>243484171</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 772 249 800 258; x_wconf 89'>Email</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 772 268 1020 283; baseline 0 -3; x_size 23; x_descenders 5.5; x_ascenders 5.8333335">
+      <span class='ocrx_word' id='word_1_36' title='bbox 772 268 1020 283; x_wconf 23'>biurommsQ©szkolamontessori.com.pl</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 387 293 465 302; baseline 0 0; x_size 23; x_descenders 5.5; x_ascenders 5.8333335">
+      <span class='ocrx_word' id='word_1_37' title='bbox 387 293 411 302; x_wconf 96'>Data</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 415 293 465 302; x_wconf 96'>założenia</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 387 312 870 324; baseline -0.006 0; x_size 23; x_descenders 5.5; x_ascenders 5.8333335">
+      <span class='ocrx_word' id='word_1_39' title='bbox 387 313 460 324; x_wconf 95'>2001-08-31</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 772 312 803 323; x_wconf 65'>Organ</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 807 312 870 323; x_wconf 70'>prowadzący.</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 772 329 1054 346; baseline 0 -3; x_size 23; x_descenders 5.5; x_ascenders 5.8333335">
+      <span class='ocrx_word' id='word_1_42' title='bbox 772 332 847 343; x_wconf 96'>FUNDACJA</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 852 329 927 343; x_wconf 96'>KRÓLOWEJ</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 932 329 991 346; x_wconf 95'>ŚWIĘTEJ</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 996 332 1054 343; x_wconf 96'>JADWIGI</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 356 0 1548 386">
+    <p class='ocr_par' id='par_1_9' lang='pol' title="bbox 356 0 1548 386">
+     <span class='ocr_line' id='line_1_15' title="bbox 356 0 1548 386; baseline 0 526; x_size 160; x_descenders 40; x_ascenders 40">
+      <span class='ocrx_word' id='word_1_46' title='bbox 356 0 1548 386; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

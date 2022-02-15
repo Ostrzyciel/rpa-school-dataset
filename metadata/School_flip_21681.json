@@ -1,0 +1,79 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "33-300",
+            "trueValue": "33-300",
+            "elemId": [
+                "word_1_48"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Szwedzka 17",
+            "trueValue": "ul. Szwedzka 17",
+            "elemId": [
+                "word_1_40",
+                "word_1_41",
+                "word_1_42"
+            ]
+        },
+        "addressLocality": {
+            "value": "Nowy Sącz",
+            "trueValue": "Nowy Sącz",
+            "elemId": [
+                "word_1_49",
+                "word_1_50"
+            ]
+        }
+    },
+    "name": {
+        "value": "BRANŻOWA SZKOŁA I STOPNIA NR 5 IM. ZENONA REMIEGO W NOWYM SĄCZU",
+        "trueValue": "BRANŻOWA SZKOŁA I STOPNIA NR 5 IM. ZENONA REMIEGO W NOWYM SĄCZU",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9",
+            "word_1_10",
+            "word_1_11",
+            "word_1_12",
+            "word_1_13",
+            "word_1_14"
+        ]
+    },
+    "foundingDate": {
+        "value": "1965-09-01",
+        "trueValue": "1965-09-01",
+        "elemId": [
+            "word_1_54"
+        ]
+    },
+    "regon": {
+        "value": "492903212",
+        "trueValue": "492903212",
+        "elemId": [
+            "word_1_23"
+        ]
+    },
+    "email": {
+        "value": "zsbnsQwp.pl",
+        "trueValue": "zsbns@wp.pl",
+        "elemId": [
+            "word_1_51"
+        ]
+    },
+    "telephone": {
+        "value": "185 477 018",
+        "trueValue": "185 477 018",
+        "elemId": [
+            "word_1_45",
+            "word_1_46",
+            "word_1_47"
+        ]
+    }
+}

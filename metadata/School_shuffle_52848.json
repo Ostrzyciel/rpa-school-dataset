@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "26-600",
+            "trueValue": "26-600",
+            "elemId": [
+                "word_1_11"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Marywilska 4B",
+            "trueValue": "ul. Marywilska 4B",
+            "elemId": [
+                "word_1_8",
+                "word_1_9",
+                "word_1_10"
+            ]
+        },
+        "addressLocality": {
+            "value": "Radom",
+            "trueValue": "Radom",
+            "elemId": [
+                "word_1_12"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNY OŚRODEK KSZTAŁCENIA USTAWICZNEGO \"EDUKACJ.",
+        "trueValue": "NIEPUBLICZNY OŚRODEK KSZTAŁCENIA USTAWICZNEGO \"EDUKACJA\"",
+        "elemId": [
+            "word_1_15",
+            "word_1_16",
+            "word_1_17",
+            "word_1_18",
+            "word_1_19"
+        ]
+    },
+    "foundingDate": {
+        "value": "2004-04-22",
+        "trueValue": "2004-04-22",
+        "elemId": [
+            "word_1_32"
+        ]
+    },
+    "regon": {
+        "value": "146374003",
+        "trueValue": "146374003",
+        "elemId": [
+            "word_1_14"
+        ]
+    },
+    "email": {
+        "value": "biuroGedukacjarad.pl",
+        "trueValue": "biuro@edukacjarad.pl",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "telephone": {
+        "value": "500 242 291",
+        "trueValue": "500 242 291",
+        "elemId": [
+            "word_1_34",
+            "word_1_35",
+            "word_1_36"
+        ]
+    }
+}

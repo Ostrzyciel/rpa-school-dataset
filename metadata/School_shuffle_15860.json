@@ -1,0 +1,76 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "37-500",
+            "trueValue": "37-500",
+            "elemId": [
+                "word_1_35"
+            ]
+        },
+        "streetAddress": {
+            "value": "os. Osiedle im. Wincentego Witosa 18",
+            "trueValue": "os. Osiedle im. Wincentego Witosa 18",
+            "elemId": [
+                "word_1_29",
+                "word_1_30",
+                "word_1_31",
+                "word_1_32",
+                "word_1_33",
+                "word_1_34"
+            ]
+        },
+        "addressLocality": {
+            "value": "Jarosław",
+            "trueValue": "Jarosław",
+            "elemId": [
+                "word_1_36"
+            ]
+        }
+    },
+    "name": {
+        "value": "OŚRODEK REHABILITACYJNO-EDUKACYJNO-WYCHOWAWCZY IM. KRYSTYNY RAJTAR W JAROSŁAWIU",
+        "trueValue": "OŚRODEK REHABILITACYJNO-EDUKACYJNO-WYCHOWAWCZY IM. KRYSTYNY RAJTAR W JAROSŁAWIU",
+        "elemId": [
+            "word_1_18",
+            "word_1_19",
+            "word_1_20",
+            "word_1_21",
+            "word_1_22",
+            "word_1_23",
+            "word_1_3"
+        ]
+    },
+    "foundingDate": {
+        "value": "1993-03-12",
+        "trueValue": "1993-03-12",
+        "elemId": [
+            "word_1_52"
+        ]
+    },
+    "regon": {
+        "value": "180890103",
+        "trueValue": "180890103",
+        "elemId": [
+            "word_1_16"
+        ]
+    },
+    "email": {
+        "value": "orew.witosaQpsoni-jaroslaw.org.pl",
+        "trueValue": "orew.witosa@psoni-jaroslaw.org.pl",
+        "elemId": [
+            "word_1_54"
+        ]
+    },
+    "telephone": {
+        "value": "166 271 487",
+        "trueValue": "166 271 487",
+        "elemId": [
+            "word_1_26",
+            "word_1_27",
+            "word_1_28"
+        ]
+    }
+}

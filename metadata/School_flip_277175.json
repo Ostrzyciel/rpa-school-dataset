@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "33-300",
+            "trueValue": "33-300",
+            "elemId": [
+                "word_1_30"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Rynek 16",
+            "trueValue": "ul. Rynek 16",
+            "elemId": [
+                "word_1_23",
+                "word_1_24",
+                "word_1_25"
+            ]
+        },
+        "addressLocality": {
+            "value": "Nowy Sącz",
+            "trueValue": "Nowy Sącz",
+            "elemId": [
+                "word_1_31",
+                "word_1_32"
+            ]
+        }
+    },
+    "name": {
+        "value": "CENTRUM SZKOLENIOWO-EDUKACYJNE SMART INSTYTUT",
+        "trueValue": "CENTRUM SZKOLENIOWO-EDUKACYJNE SMART INSTYTUT",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6"
+        ]
+    },
+    "foundingDate": {
+        "value": "2021-02-19",
+        "trueValue": "2021-02-19",
+        "elemId": [
+            "word_1_36"
+        ]
+    },
+    "regon": {
+        "value": "388237827",
+        "trueValue": "388237827",
+        "elemId": [
+            "word_1_12"
+        ]
+    },
+    "email": {
+        "value": "biuroQsmartinstytut.pl",
+        "trueValue": "biuro@smartinstytut.pl",
+        "elemId": [
+            "word_1_33"
+        ]
+    },
+    "telephone": {
+        "value": "604 626 567",
+        "trueValue": "604 626 567",
+        "elemId": [
+            "word_1_27",
+            "word_1_28",
+            "word_1_29"
+        ]
+    }
+}

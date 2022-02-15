@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../Screenshots/School_shuffle_93191.png"; bbox 0 0 1920 912; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 408 30 502 42">
+    <p class='ocr_par' id='par_1_1' lang='pol' title="bbox 408 30 502 42">
+     <span class='ocr_line' id='line_1_1' title="bbox 408 30 502 42; baseline 0 0; x_size 16; x_descenders 4; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_1' title='bbox 408 30 449 42; x_wconf 90'>RSPO:</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 458 30 502 42; x_wconf 96'>93191</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 387 104 542 138">
+    <p class='ocr_par' id='par_1_2' lang='pol' title="bbox 387 104 542 138">
+     <span class='ocr_line' id='line_1_2' title="bbox 387 104 487 113; baseline 0 0; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_3' title='bbox 387 104 421 113; x_wconf 93'>Strona</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 425 104 487 113; x_wconf 69'>intemetowa</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 387 123 542 138; baseline 0 -3; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_5' title='bbox 387 123 542 138; x_wconf 55'>http://muzyczna.lodz.pl</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 387 167 558 201">
+    <p class='ocr_par' id='par_1_3' lang='pol' title="bbox 387 167 558 201">
+     <span class='ocr_line' id='line_1_4' title="bbox 387 167 416 176; baseline 0 0; x_size 24.25; x_descenders 5.5; x_ascenders 6.25">
+      <span class='ocrx_word' id='word_1_6' title='bbox 387 167 416 176; x_wconf 50'>Email</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 387 186 558 201; baseline 0 -3; x_size 24.25; x_descenders 5.5; x_ascenders 6.25">
+      <span class='ocrx_word' id='word_1_7' title='bbox 387 186 558 201; x_wconf 67'>szkolaQmuzycznalodz.pl</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 387 230 668 281">
+    <p class='ocr_par' id='par_1_4' lang='pol' title="bbox 387 230 668 281">
+     <span class='ocr_line' id='line_1_6' title="bbox 387 230 486 241; baseline 0.02 -2; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_8' title='bbox 387 230 418 241; x_wconf 91'>Organ</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 422 230 486 241; x_wconf 96'>prowadzący:</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 387 250 668 261; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_10' title='bbox 387 250 495 261; x_wconf 96'>MINISTERSTWO</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 500 250 561 261; x_wconf 96'>KULTURY</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 566 250 568 261; x_wconf 91'>I</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 573 250 668 261; x_wconf 96'>DZIEDZICTWA</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 387 270 489 281; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_14' title='bbox 387 270 489 281; x_wconf 96'>NARODOWEGO</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 387 313 417 322">
+    <p class='ocr_par' id='par_1_5' lang='pol' title="bbox 387 313 417 322">
+     <span class='ocr_line' id='line_1_9' title="bbox 387 313 417 322; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_15' title='bbox 387 313 417 322; x_wconf 94'>Adres</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 387 332 469 364">
+    <p class='ocr_par' id='par_1_6' lang='pol' title="bbox 387 332 469 364">
+     <span class='ocr_line' id='line_1_10' title="bbox 387 332 464 347; baseline 0 -3; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_16' title='bbox 387 332 401 344; x_wconf 93'>ul.</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 407 333 443 347; x_wconf 93'>Rojna</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 448 333 464 344; x_wconf 96'>20</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 387 353 469 364; baseline 0 0; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_19' title='bbox 387 353 433 364; x_wconf 96'>91-134</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 437 353 469 364; x_wconf 87'>Łódź</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 551 24 1075 46">
+    <p class='ocr_par' id='par_1_7' lang='pol' title="bbox 551 24 1075 46">
+     <span class='ocr_caption' id='line_1_12' title="bbox 551 24 1075 46; baseline 0 -4; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_21' title='bbox 551 24 756 46; x_wconf 91'>OGÓLNOKSZTAŁCĄCA</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 762 28 837 42; x_wconf 96'>SZKOŁA</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 843 28 950 42; x_wconf 96'>MUZYCZNA</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 956 28 959 42; x_wconf 95'>I</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 966 28 992 42; x_wconf 95'>ST.</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 999 28 1016 42; x_wconf 96'>W</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1021 28 1075 42; x_wconf 96'>ŁODZI</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 771 104 846 135">
+    <p class='ocr_par' id='par_1_8' lang='pol' title="bbox 771 104 846 135">
+     <span class='ocr_line' id='line_1_13' title="bbox 772 104 810 113; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_28' title='bbox 772 104 810 113; x_wconf 96'>REGON</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 771 124 846 135; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_29' title='bbox 771 124 846 135; x_wconf 95'>472897970</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 772 166 1070 201">
+    <p class='ocr_par' id='par_1_9' lang='pol' title="bbox 772 166 1070 201">
+     <span class='ocr_line' id='line_1_15' title="bbox 772 166 840 178; baseline 0 -2; x_size 12.933333; x_descenders 2.9333332; x_ascenders 3.3333335">
+      <span class='ocrx_word' id='word_1_30' title='bbox 772 167 790 178; x_wconf 95'>Typ</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 794 166 840 178; x_wconf 96'>placówki</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 772 186 1070 201; baseline 0 -3; x_size 24.25; x_descenders 5.5; x_ascenders 6.25">
+      <span class='ocrx_word' id='word_1_32' title='bbox 772 186 890 201; x_wconf 96'>Ogólnokształcąca</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 895 186 938 198; x_wconf 96'>szkoła</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 942 190 1009 201; x_wconf 96'>muzyczna</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1014 187 1016 198; x_wconf 92'>I</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1021 187 1070 201; x_wconf 96'>stopnia</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 771 230 854 261">
+    <p class='ocr_par' id='par_1_10' lang='pol' title="bbox 771 230 854 261">
+     <span class='ocr_line' id='line_1_17' title="bbox 772 230 810 239; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_37' title='bbox 772 230 810 239; x_wconf 96'>Telefon</span>
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 771 250 854 261; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_38' title='bbox 771 250 796 261; x_wconf 96'>426</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 801 250 825 261; x_wconf 89'>110</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 830 250 854 261; x_wconf 89'>169</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 772 293 849 324">
+    <p class='ocr_par' id='par_1_11' lang='pol' title="bbox 772 293 849 324">
+     <span class='ocr_line' id='line_1_19' title="bbox 772 293 849 302; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_41' title='bbox 772 293 796 302; x_wconf 96'>Data</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 799 293 849 302; x_wconf 96'>założenia</span>
+     </span>
+     <span class='ocr_line' id='line_1_20' title="bbox 772 313 844 324; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_43' title='bbox 772 313 844 324; x_wconf 96'>1991-09-01</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_12' title="bbox 1156 101 1262 136">
+    <p class='ocr_par' id='par_1_12' lang='pol' title="bbox 1156 101 1262 136">
+     <span class='ocr_line' id='line_1_21' title="bbox 1157 101 1262 117; baseline 0 -4; x_size 22.5; x_descenders 6; x_ascenders 5.5">
+      <span class='ocrx_word' id='word_1_44' title='bbox 1157 104 1190 113; x_wconf 93'>Liczba</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 1194 103 1238 113; x_wconf 96'>uczniów</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1246 101 1262 117; x_wconf 87'>©</span>
+     </span>
+     <span class='ocr_line' id='line_1_22' title="bbox 1156 125 1179 136; baseline 0 0; x_size 22.5; x_descenders 6; x_ascenders 5.5">
+      <span class='ocrx_word' id='word_1_47' title='bbox 1156 125 1179 136; x_wconf 96'>201</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_13' title="bbox 356 0 1548 408">
+    <p class='ocr_par' id='par_1_13' lang='pol' title="bbox 356 0 1548 408">
+     <span class='ocr_line' id='line_1_23' title="bbox 356 0 1548 408; baseline 0 504; x_size 169.33333; x_descenders 42.333332; x_ascenders 42.333336">
+      <span class='ocrx_word' id='word_1_48' title='bbox 356 0 1548 408; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

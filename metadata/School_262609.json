@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "87-400",
+            "trueValue": "87-400",
+            "elemId": [
+                "word_1_26"
+            ]
+        },
+        "streetAddress": {
+            "value": "7",
+            "trueValue": "7",
+            "elemId": [
+                "word_1_24"
+            ]
+        },
+        "addressLocality": {
+            "value": "Gałczewo",
+            "trueValue": "Gałczewo",
+            "elemId": [
+                "word_1_23"
+            ]
+        }
+    },
+    "name": {
+        "value": "GMINNE PRZEDSZKOLE W GAŁCZEWIE",
+        "trueValue": "GMINNE PRZEDSZKOLE W GAŁCZEWIE",
+        "elemId": [
+            "word_1_16",
+            "word_1_17",
+            "word_1_18",
+            "word_1_19"
+        ]
+    },
+    "foundingDate": {
+        "value": "2017-03-30",
+        "trueValue": "2017-03-30",
+        "elemId": [
+            "word_1_25"
+        ]
+    },
+    "regon": {
+        "value": "368041815",
+        "trueValue": "368041815",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "gimnazjumgalczewoQop.pl",
+        "trueValue": "gimnazjumgalczewo@op.pl",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "telephone": {
+        "value": "566 836 400",
+        "trueValue": "566 836 400",
+        "elemId": [
+            "word_1_31",
+            "word_1_32",
+            "word_1_33"
+        ]
+    }
+}

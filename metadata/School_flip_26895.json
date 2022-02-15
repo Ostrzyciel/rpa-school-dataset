@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "66-440",
+            "trueValue": "66-440",
+            "elemId": [
+                "word_1_31"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Mickiewicza 26",
+            "trueValue": "ul. Mickiewicza 26",
+            "elemId": [
+                "word_1_26",
+                "word_1_27",
+                "word_1_28"
+            ]
+        },
+        "addressLocality": {
+            "value": "Skwierzyna",
+            "trueValue": "Skwierzyna",
+            "elemId": [
+                "word_1_32"
+            ]
+        }
+    },
+    "name": {
+        "value": "ZESPÓŁ EDUKACYJNY",
+        "trueValue": "ZESPÓŁ EDUKACYJNY",
+        "elemId": [
+            "word_1_3",
+            "word_1_4"
+        ]
+    },
+    "foundingDate": {
+        "value": "2002-07-05",
+        "trueValue": "2002-07-05",
+        "elemId": [
+            "word_1_35"
+        ]
+    },
+    "regon": {
+        "value": "211237782",
+        "trueValue": "211237782",
+        "elemId": [
+            "word_1_11"
+        ]
+    },
+    "email": {
+        "value": "sp_skwierzynaQpoczta.onet.pl",
+        "trueValue": "sp_skwierzyna@poczta.onet.pl",
+        "elemId": [
+            "word_1_30"
+        ]
+    },
+    "telephone": {
+        "value": "957 170 035",
+        "trueValue": "957 170 035",
+        "elemId": [
+            "word_1_19",
+            "word_1_20",
+            "word_1_21"
+        ]
+    }
+}

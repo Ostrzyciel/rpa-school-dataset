@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "83-032",
+            "trueValue": "83-032",
+            "elemId": [
+                "word_1_31"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Szkolna 6",
+            "trueValue": "ul. Szkolna 6",
+            "elemId": [
+                "word_1_28",
+                "word_1_29",
+                "word_1_30"
+            ]
+        },
+        "addressLocality": {
+            "value": "Pszczółki",
+            "trueValue": "Pszczółki",
+            "elemId": [
+                "word_1_32"
+            ]
+        }
+    },
+    "name": {
+        "value": "PRZEDSZKOLE GMINNE \"PSZCZÓŁKA MAJA\" W PSZCZÓŁKACH",
+        "trueValue": "PRZEDSZKOLE GMINNE \"PSZCZÓŁKA MAJA\" W PSZCZÓŁKACH",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8"
+        ]
+    },
+    "foundingDate": {
+        "value": "1988-09-01",
+        "trueValue": "1988-09-01",
+        "elemId": [
+            "word_1_11"
+        ]
+    },
+    "regon": {
+        "value": "190581699",
+        "trueValue": "190581699",
+        "elemId": [
+            "word_1_18"
+        ]
+    },
+    "email": {
+        "value": "przedszkolepszczolkaGinteria.pl",
+        "trueValue": "przedszkolepszczolka@interia.pl",
+        "elemId": [
+            "word_1_16"
+        ]
+    },
+    "telephone": {
+        "value": "586 829 146",
+        "trueValue": "586 829 146",
+        "elemId": [
+            "word_1_24",
+            "word_1_25",
+            "word_1_26"
+        ]
+    }
+}

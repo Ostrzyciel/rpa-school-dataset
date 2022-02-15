@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../Screenshots/School_105189.png"; bbox 0 0 1920 920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 409 24 1036 46">
+    <p class='ocr_par' id='par_1_1' lang='pol' title="bbox 409 24 1036 46">
+     <span class='ocr_caption' id='line_1_1' title="bbox 409 24 1036 46; baseline 0.002 -5; x_size 20.451612; x_descenders 5.1129031; x_ascenders 5.1129031">
+      <span class='ocrx_word' id='word_1_1' title='bbox 409 29 454 41; x_wconf 92'>RSPO:</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 460 29 515 41; x_wconf 96'>105189</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 562 24 671 42; x_wconf 96'>BRANŻOWA</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 676 27 751 42; x_wconf 96'>SZKOŁA</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 757 27 761 42; x_wconf 94'>I</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 767 27 851 42; x_wconf 96'>STOPNIA</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 857 27 884 42; x_wconf 96'>IM.</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 891 27 954 42; x_wconf 96'>LECHA</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 958 27 1036 46; x_wconf 96'>WAŁĘSY</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 380 98 1235 343">
+    <p class='ocr_par' id='par_1_2' lang='pol' title="bbox 380 98 1235 343">
+     <span class='ocr_line' id='line_1_2' title="bbox 380 98 1235 120; baseline 0 -8; x_size 13.233392; x_descenders 3.233392; x_ascenders 3.3333335">
+      <span class='ocrx_word' id='word_1_10' title='bbox 380 98 426 120; x_wconf 95'>REGON</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 772 98 803 120; x_wconf 86'>Adres</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1157 103 1181 112; x_wconf 96'>Data</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1185 103 1235 112; x_wconf 96'>założenia</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 388 122 1230 137; baseline 0 -3; x_size 22.51; x_descenders 5.5; x_ascenders 5.6700001">
+      <span class='ocrx_word' id='word_1_14' title='bbox 388 123 463 134; x_wconf 95'>871668634</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 773 123 783 134; x_wconf 96'>ul.</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 811 132 813 134; x_wconf 96'>św.</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 818 122 874 137; x_wconf 96'>Mikołaja</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 879 123 886 134; x_wconf 96'>6</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1158 123 1230 134; x_wconf 96'>1978-09-01</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 773 143 966 154; baseline 0 0; x_size 22.51; x_descenders 5.5; x_ascenders 5.6700001">
+      <span class='ocrx_word' id='word_1_20' title='bbox 773 143 818 154; x_wconf 96'>87-410</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 823 143 890 154; x_wconf 96'>Kowalewo</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 895 143 966 154; x_wconf 95'>Pomorskie</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 388 165 456 178; baseline 0 -3; x_size 18; x_descenders 3; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_23' title='bbox 388 166 406 178; x_wconf 96'>Typ</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 410 165 456 178; x_wconf 96'>placówki</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 388 185 872 200; baseline -0.004 -3; x_size 22.51; x_descenders 5.5; x_ascenders 5.6700001">
+      <span class='ocrx_word' id='word_1_25' title='bbox 388 186 453 197; x_wconf 96'>Branżowa</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 458 185 500 197; x_wconf 90'>szkoła</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 505 186 508 197; x_wconf 79'>I</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 513 186 561 200; x_wconf 96'>stopnia</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 773 186 806 195; x_wconf 87'>Strona</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 811 186 872 195; x_wconf 87'>Internetowa</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 773 206 1079 220; baseline 0 -3; x_size 22.51; x_descenders 5.5; x_ascenders 5.6700001">
+      <span class='ocrx_word' id='word_1_31' title='bbox 773 206 1079 220; x_wconf 68'>http://www.zskowalewo.golub-dobrzyn.com.pl</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 388 228 489 241; baseline 0 -3; x_size 18; x_descenders 3; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_32' title='bbox 388 229 419 241; x_wconf 86'>Organ</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 423 228 489 241; x_wconf 92'>prowadzący:</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 388 246 801 260; baseline -0.005 0; x_size 22.51; x_descenders 5.5; x_ascenders 5.6700001">
+      <span class='ocrx_word' id='word_1_34' title='bbox 388 249 443 260; x_wconf 93'>POWIAT</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 447 246 615 260; x_wconf 90'>GOLUBSKO-DOBRZYŃSKI</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 773 248 801 258; x_wconf 95'>Email</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 773 269 1086 283; baseline 0 -3; x_size 22.51; x_descenders 5.5; x_ascenders 5.6700001">
+      <span class='ocrx_word' id='word_1_37' title='bbox 763 259 843 290; x_wconf 37'>sekretariat</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 844 269 1086 283; x_wconf 25'>©zskowalewo.golub-dobrzyn.com.pl</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 388 289 494 305; baseline 0 -4; x_size 19; x_descenders 4; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_39' title='bbox 388 291 422 301; x_wconf 91'>Liczba</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 426 291 469 301; x_wconf 91'>uczniów</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 478 289 494 305; x_wconf 71'>©</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 388 311 811 324; baseline 0 -3; x_size 18; x_descenders 3; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_42' title='bbox 388 313 404 324; x_wconf 93'>88</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 772 311 811 321; x_wconf 95'>Telefon</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 773 332 855 343; baseline 0 0; x_size 22.51; x_descenders 5.5; x_ascenders 5.6700001">
+      <span class='ocrx_word' id='word_1_44' title='bbox 773 332 797 343; x_wconf 96'>566</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 802 332 824 343; x_wconf 95'>841</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 831 332 855 343; x_wconf 90'>503</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 358 0 1548 386">
+    <p class='ocr_par' id='par_1_3' lang='pol' title="bbox 358 0 1548 386">
+     <span class='ocr_line' id='line_1_14' title="bbox 358 0 1548 386; baseline 0 534; x_size 160; x_descenders 40; x_ascenders 40">
+      <span class='ocrx_word' id='word_1_47' title='bbox 358 0 1548 386; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

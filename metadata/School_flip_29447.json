@@ -1,0 +1,76 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "33-300",
+            "trueValue": "33-300",
+            "elemId": [
+                "word_1_41"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Jagiellońska 84",
+            "trueValue": "ul. Jagiellońska 84",
+            "elemId": [
+                "word_1_36",
+                "word_1_37",
+                "word_1_38"
+            ]
+        },
+        "addressLocality": {
+            "value": "Nowy Sącz",
+            "trueValue": "Nowy Sącz",
+            "elemId": [
+                "word_1_42",
+                "word_1_43"
+            ]
+        }
+    },
+    "name": {
+        "value": "BRANŻOWA SZKOŁA I STOPNIA NR 1 W NOWYM SĄCZU",
+        "trueValue": "BRANŻOWA SZKOŁA I STOPNIA NR 1 W NOWYM SĄCZU",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9",
+            "word_1_10",
+            "word_1_11"
+        ]
+    },
+    "foundingDate": {
+        "value": "1952-08-01",
+        "trueValue": "1952-08-01",
+        "elemId": [
+            "word_1_47"
+        ]
+    },
+    "regon": {
+        "value": "492911520",
+        "trueValue": "492911520",
+        "elemId": [
+            "word_1_18"
+        ]
+    },
+    "email": {
+        "value": "sekretariat©zsnr1.pl",
+        "trueValue": "sekretariat@zsnr1.pl",
+        "elemId": [
+            "word_1_44"
+        ]
+    },
+    "telephone": {
+        "value": "184 486 850",
+        "trueValue": "184 486 850",
+        "elemId": [
+            "word_1_29",
+            "word_1_30",
+            "word_1_31"
+        ]
+    }
+}

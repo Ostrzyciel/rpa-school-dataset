@@ -1,0 +1,69 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "66-440",
+            "trueValue": "66-440",
+            "elemId": [
+                "word_1_30"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Mickiewicza 3",
+            "trueValue": "ul. Mickiewicza 3",
+            "elemId": [
+                "word_1_25",
+                "word_1_26",
+                "word_1_27"
+            ]
+        },
+        "addressLocality": {
+            "value": "Skwierzyna",
+            "trueValue": "Skwierzyna",
+            "elemId": [
+                "word_1_31"
+            ]
+        }
+    },
+    "name": {
+        "value": "CENTRUM KSZTAŁCENIA ZAWODOWEGO",
+        "trueValue": "CENTRUM KSZTAŁCENIA ZAWODOWEGO",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5"
+        ]
+    },
+    "foundingDate": {
+        "value": "1997-05-20",
+        "trueValue": "1997-05-20",
+        "elemId": [
+            "word_1_34"
+        ]
+    },
+    "regon": {
+        "value": "211178170",
+        "trueValue": "211178170",
+        "elemId": [
+            "word_1_12"
+        ]
+    },
+    "email": {
+        "value": "zstQzst.skwierzyna.pl",
+        "trueValue": "zst@zst.skwierzyna.pl",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "telephone": {
+        "value": "957 170 112",
+        "trueValue": "957 170 112",
+        "elemId": [
+            "word_1_18",
+            "word_1_19",
+            "word_1_20"
+        ]
+    }
+}

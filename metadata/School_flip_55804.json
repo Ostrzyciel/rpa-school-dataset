@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "66-440",
+            "trueValue": "66-440",
+            "elemId": [
+                "word_1_35"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Mickiewicza 1",
+            "trueValue": "ul. Mickiewicza 1",
+            "elemId": [
+                "word_1_27",
+                "word_1_28",
+                "word_1_29"
+            ]
+        },
+        "addressLocality": {
+            "value": "Skwierzyna",
+            "trueValue": "Skwierzyna",
+            "elemId": [
+                "word_1_36"
+            ]
+        }
+    },
+    "name": {
+        "value": "LICEUM OGÓLNOKSZTAŁCĄCE IM. IRENY SENDLER",
+        "trueValue": "LICEUM OGÓLNOKSZTAŁCĄCE IM. IRENY SENDLER",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7"
+        ]
+    },
+    "foundingDate": {
+        "value": "1945-09-01",
+        "trueValue": "1945-09-01",
+        "elemId": [
+            "word_1_39"
+        ]
+    },
+    "regon": {
+        "value": "000231722",
+        "trueValue": "000231722",
+        "elemId": [
+            "word_1_16"
+        ]
+    },
+    "email": {
+        "value": "zstQzst.skwierzyna.pl",
+        "trueValue": "zst@zst.skwierzyna.pl",
+        "elemId": [
+            "word_1_31"
+        ]
+    },
+    "telephone": {
+        "value": "957 170 112",
+        "trueValue": "957 170 112",
+        "elemId": [
+            "word_1_32",
+            "word_1_33",
+            "word_1_34"
+        ]
+    }
+}

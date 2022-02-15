@@ -1,0 +1,75 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "32-600",
+            "trueValue": "32-600",
+            "elemId": [
+                "word_1_46"
+            ]
+        },
+        "streetAddress": {
+            "value": "rynek Główny 8",
+            "trueValue": "rynek Główny 8",
+            "elemId": [
+                "word_1_40",
+                "word_1_41",
+                "word_1_42"
+            ]
+        },
+        "addressLocality": {
+            "value": "Oświęcim",
+            "trueValue": "Oświęcim",
+            "elemId": [
+                "word_1_47"
+            ]
+        }
+    },
+    "name": {
+        "value": "OŚRODEK SZKOLENIOWY CENTRUM NAUKI I BIZNESU \"ŻAK' W OŚWIĘCIMIU",
+        "trueValue": "OŚRODEK SZKOLENIOWY CENTRUM NAUKI I BIZNESU \"ŻAK' W OŚWIĘCIMIU",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9",
+            "word_1_10",
+            "word_1_11"
+        ]
+    },
+    "foundingDate": {
+        "value": "2009-09-21",
+        "trueValue": "2009-09-21",
+        "elemId": [
+            "word_1_17"
+        ]
+    },
+    "regon": {
+        "value": "122676622",
+        "trueValue": "122676622",
+        "elemId": [
+            "word_1_35"
+        ]
+    },
+    "email": {
+        "value": "oswiecimQzak.edu.pl",
+        "trueValue": "oswiecim@zak.edu.pl",
+        "elemId": [
+            "word_1_24"
+        ]
+    },
+    "telephone": {
+        "value": "338 440 587",
+        "trueValue": "338 440 587",
+        "elemId": [
+            "word_1_43",
+            "word_1_44",
+            "word_1_45"
+        ]
+    }
+}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../Screenshots/School_shuffle_128379.png"; bbox 0 0 1920 912; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 408 28 1203 42">
+    <p class='ocr_par' id='par_1_1' lang='pol' title="bbox 408 28 1203 42">
+     <span class='ocr_line' id='line_1_1' title="bbox 408 28 1203 42; baseline 0.001 -1; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 408 29 453 41; x_wconf 92'>RSPO:</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 459 29 514 41; x_wconf 96'>128379</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 561 28 706 42; x_wconf 96'>PODKARPACKIE</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 712 28 804 42; x_wconf 96'>CENTRUM</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 811 28 941 42; x_wconf 96'>KSZTAŁCENIA</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 947 28 1096 42; x_wconf 96'>USTAWICZNEGO</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1102 28 1119 42; x_wconf 96'>W</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1125 28 1203 42; x_wconf 96'>SANOKU</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 377 91 1273 144">
+    <p class='ocr_par' id='par_1_2' lang='pol' title="bbox 377 91 1273 137">
+     <span class='ocr_caption' id='line_1_2' title="bbox 377 91 1185 122; baseline 0 -10; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_9' title='bbox 377 91 425 122; x_wconf 96'>REGON</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 772 91 810 122; x_wconf 93'>Telefon</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1157 103 1185 112; x_wconf 87'>Email</span>
+     </span>
+     <span class='ocr_caption' id='line_1_3' title="bbox 387 113 1273 144; baseline 0 -10; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_12' title='bbox 387 113 461 144; x_wconf 83'>362259660</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 772 123 796 134; x_wconf 82'>134</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 801 123 823 134; x_wconf 94'>631</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 830 123 854 134; x_wconf 94'>242</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1156 122 1273 137; x_wconf 90'>zsmsanokawp.pl</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 387 165 998 200">
+    <p class='ocr_par' id='par_1_3' lang='pol' title="bbox 387 165 998 200">
+     <span class='ocr_line' id='line_1_4' title="bbox 387 165 870 177; baseline 0.002 -2; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_17' title='bbox 387 166 405 177; x_wconf 93'>Typ</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 409 165 455 177; x_wconf 93'>placówki</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 772 166 803 177; x_wconf 92'>Organ</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 807 166 870 177; x_wconf 96'>prowadzący:</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 388 183 998 200; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_21' title='bbox 388 185 450 197; x_wconf 95'>Placówka</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 456 185 532 197; x_wconf 95'>Kształcenia</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 537 186 630 200; x_wconf 93'>Ustawicznego</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 634 192 638 193; x_wconf 93'>-</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 643 186 665 197; x_wconf 94'>bez</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 670 185 705 197; x_wconf 95'>szkół</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 772 183 886 197; x_wconf 95'>WOJEWÓDZTWO</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 891 186 998 197; x_wconf 96'>PODKARPACKIE</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 378 219 849 247">
+    <p class='ocr_par' id='par_1_4' lang='pol' title="bbox 378 219 849 247">
+     <span class='ocr_line' id='line_1_6' title="bbox 378 219 849 247; baseline 0 -9; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_29' title='bbox 378 219 416 247; x_wconf 96'>Adres</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 772 229 795 238; x_wconf 96'>Data</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 799 229 849 238; x_wconf 96'>założenia</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 387 248 846 280">
+    <p class='ocr_par' id='par_1_5' lang='pol' title="bbox 387 248 846 280">
+     <span class='ocr_line' id='line_1_7' title="bbox 387 248 846 263; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_32' title='bbox 387 248 398 260; x_wconf 96'>ul.</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 407 248 501 263; x_wconf 96'>Konarskiego</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 488 241 502 269; x_wconf 96'>3</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 772 249 846 260; x_wconf 96'>2015-06-29</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 387 268 478 280; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_36' title='bbox 387 269 432 280; x_wconf 96'>38-500</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 437 268 478 280; x_wconf 96'>Sanok</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 356 0 1548 324">
+    <p class='ocr_par' id='par_1_6' lang='pol' title="bbox 356 0 1548 324">
+     <span class='ocr_line' id='line_1_9' title="bbox 356 0 1548 324; baseline 0 588; x_size 134.66666; x_descenders 33.666664; x_ascenders 33.666668">
+      <span class='ocrx_word' id='word_1_38' title='bbox 356 0 1548 324; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

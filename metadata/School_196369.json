@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "87-400",
+            "trueValue": "87-400",
+            "elemId": [
+                "word_1_27"
+            ]
+        },
+        "streetAddress": {
+            "value": "7",
+            "trueValue": "7",
+            "elemId": [
+                "word_1_26"
+            ]
+        },
+        "addressLocality": {
+            "value": "Gałczewo",
+            "trueValue": "Gałczewo",
+            "elemId": [
+                "word_1_25"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁA PODSTAWOWA W GA ŁCZEWIE IM.MIKOŁAJA KOPERNIKA",
+        "trueValue": "SZKOŁA PODSTAWOWA W GA ŁCZEWIE IM.MIKOŁAJA KOPERNIKA",
+        "elemId": [
+            "word_1_17",
+            "word_1_18",
+            "word_1_19",
+            "word_1_20",
+            "word_1_21",
+            "word_1_22",
+            "word_1_23"
+        ]
+    },
+    "foundingDate": {
+        "value": "2017-03-30",
+        "trueValue": "2017-03-30",
+        "elemId": [
+            "word_1_35"
+        ]
+    },
+    "regon": {
+        "value": "367993382",
+        "trueValue": "367993382",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "Organ",
+        "trueValue": "nan",
+        "elemId": [
+            "word_1_9"
+        ]
+    },
+    "telephone": {
+        "value": "566 836 400",
+        "trueValue": "566 836 400",
+        "elemId": [
+            "word_1_30",
+            "word_1_31",
+            "word_1_32"
+        ]
+    }
+}

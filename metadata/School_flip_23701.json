@@ -1,0 +1,76 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "43-300",
+            "trueValue": "43-300",
+            "elemId": [
+                "word_1_37"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Józefa Piłsudskiego 47",
+            "trueValue": "ul. Józefa Piłsudskiego 47",
+            "elemId": [
+                "word_1_29",
+                "word_1_30",
+                "word_1_31",
+                "word_1_32"
+            ]
+        },
+        "addressLocality": {
+            "value": "Bielsko-Biała",
+            "trueValue": "Bielsko-Biała",
+            "elemId": [
+                "word_1_38"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁA PODSTAWOWA NR 9 IM. TADEUSZA KOŚCIUSZKI W BIELSKU-BIAŁEJ",
+        "trueValue": "SZKOŁA PODSTAWOWA NR 9 IM. TADEUSZA KOŚCIUSZKI W BIELSKU-BIAŁEJ",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9",
+            "word_1_10",
+            "word_1_11"
+        ]
+    },
+    "foundingDate": {
+        "value": "1989-08-29",
+        "trueValue": "1989-08-29",
+        "elemId": [
+            "word_1_41"
+        ]
+    },
+    "regon": {
+        "value": "070575890",
+        "trueValue": "070575890",
+        "elemId": [
+            "word_1_20"
+        ]
+    },
+    "email": {
+        "value": "sp9Qcuw.bielsko-biala.pl",
+        "trueValue": "sp9@cuw.bielsko-biala.pl",
+        "elemId": [
+            "word_1_33"
+        ]
+    },
+    "telephone": {
+        "value": "338 122 612",
+        "trueValue": "338 122 612",
+        "elemId": [
+            "word_1_34",
+            "word_1_35",
+            "word_1_36"
+        ]
+    }
+}

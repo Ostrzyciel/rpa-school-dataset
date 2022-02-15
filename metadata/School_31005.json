@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "53-526",
+            "trueValue": "53-526",
+            "elemId": [
+                "word_1_31"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Wincentego Stysia 16a",
+            "trueValue": "ul. Wincentego Stysia 16a",
+            "elemId": [
+                "word_1_26",
+                "word_1_27",
+                "word_1_28",
+                "word_1_29"
+            ]
+        },
+        "addressLocality": {
+            "value": "Wrocław",
+            "trueValue": "Wrocław-Krzyki",
+            "elemId": [
+                "word_1_32"
+            ]
+        }
+    },
+    "name": {
+        "value": "MŁODZIEŻOWE CENTRUM EDUKACYJNE \"SILESIUS'",
+        "trueValue": "MŁODZIEŻOWE CENTRUM EDUKACYJNE \"SILESIUS\"",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6"
+        ]
+    },
+    "foundingDate": {
+        "value": "2003-09-12",
+        "trueValue": "2003-09-12",
+        "elemId": [
+            "word_1_30"
+        ]
+    },
+    "regon": {
+        "value": "021985399",
+        "trueValue": "021985399",
+        "elemId": [
+            "word_1_8"
+        ]
+    },
+    "email": {
+        "value": "angelusQsilesius.org.pl",
+        "trueValue": "angelus@silesius.org.pl",
+        "elemId": [
+            "word_1_37"
+        ]
+    },
+    "telephone": {
+        "value": "713 380 793",
+        "trueValue": "713 380 793",
+        "elemId": [
+            "word_1_39",
+            "word_1_40",
+            "word_1_41"
+        ]
+    }
+}

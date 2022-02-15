@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "10-560",
+            "trueValue": "10-560",
+            "elemId": [
+                "word_1_18"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Żołnierska 27",
+            "trueValue": "ul. Żołnierska 27",
+            "elemId": [
+                "word_1_11",
+                "word_1_12",
+                "word_1_13"
+            ]
+        },
+        "addressLocality": {
+            "value": "Olsztyn",
+            "trueValue": "Olsztyn",
+            "elemId": [
+                "word_1_19"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNE PRZEDSZKOLE SPECJALNE DOBRY START",
+        "trueValue": "NIEPUBLICZNE PRZEDSZKOLE SPECJALNE DOBRY START",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7"
+        ]
+    },
+    "foundingDate": {
+        "value": "2012-12-11",
+        "trueValue": "2012-12-11",
+        "elemId": [
+            "word_1_25"
+        ]
+    },
+    "regon": {
+        "value": "281469549",
+        "trueValue": "281469549",
+        "elemId": [
+            "word_1_17"
+        ]
+    },
+    "email": {
+        "value": "orewQpoczta.onet.pl",
+        "trueValue": "orew@poczta.onet.pl",
+        "elemId": [
+            "word_1_30"
+        ]
+    },
+    "telephone": {
+        "value": "895 330 532",
+        "trueValue": "895 330 532",
+        "elemId": [
+            "word_1_14",
+            "word_1_15",
+            "word_1_16"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "88-200",
+            "trueValue": "88-200",
+            "elemId": [
+                "word_1_30"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Brzeska 64",
+            "trueValue": "ul. Brzeska 64",
+            "elemId": [
+                "word_1_27",
+                "word_1_28",
+                "word_1_29"
+            ]
+        },
+        "addressLocality": {
+            "value": "Radziejów",
+            "trueValue": "Radziejów",
+            "elemId": [
+                "word_1_31"
+            ]
+        }
+    },
+    "name": {
+        "value": "OŚRODEK SZKOLENIA ZAWODOWEGO CENTRUM EDUKACYJNE OŚWIATA",
+        "trueValue": "OŚRODEK SZKOLENIA ZAWODOWEGO CENTRUM EDUKACYJNE OŚWIATA",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8"
+        ]
+    },
+    "foundingDate": {
+        "value": "1996-04-04",
+        "trueValue": "1996-04-04",
+        "elemId": [
+            "word_1_19"
+        ]
+    },
+    "regon": {
+        "value": "341327062",
+        "trueValue": "341327062",
+        "elemId": [
+            "word_1_26"
+        ]
+    },
+    "email": {
+        "value": "Organ",
+        "trueValue": "nan",
+        "elemId": [
+            "word_1_32"
+        ]
+    },
+    "telephone": {
+        "value": "542 852 994",
+        "trueValue": "542 852 994",
+        "elemId": [
+            "word_1_21",
+            "word_1_22",
+            "word_1_23"
+        ]
+    }
+}

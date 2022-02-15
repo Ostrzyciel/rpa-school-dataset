@@ -1,0 +1,69 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "08-111",
+            "trueValue": "08-111",
+            "elemId": [
+                "word_1_14"
+            ]
+        },
+        "streetAddress": {
+            "value": "38",
+            "trueValue": "38",
+            "elemId": [
+                "word_1_13"
+            ]
+        },
+        "addressLocality": {
+            "value": "lzdebki-Kosny",
+            "trueValue": "Izdebki-Kosny",
+            "elemId": [
+                "word_1_12"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNA SZKOŁA PODSTAWOWA W IZDEBKACH-KOSNACH",
+        "trueValue": "NIEPUBLICZNA SZKOŁA PODSTAWOWA W IZDEBKACH-KOSNACH",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7"
+        ]
+    },
+    "foundingDate": {
+        "value": "2008-08-28",
+        "trueValue": "2008-08-28",
+        "elemId": [
+            "word_1_10"
+        ]
+    },
+    "regon": {
+        "value": "146458065",
+        "trueValue": "146458065",
+        "elemId": [
+            "word_1_18"
+        ]
+    },
+    "email": {
+        "value": "kosnyGinteria.pl",
+        "trueValue": "kosny@interia.pl",
+        "elemId": [
+            "word_1_20"
+        ]
+    },
+    "telephone": {
+        "value": "256 426 411",
+        "trueValue": "256 426 411",
+        "elemId": [
+            "word_1_26",
+            "word_1_27",
+            "word_1_28"
+        ]
+    }
+}

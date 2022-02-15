@@ -1,0 +1,69 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "54-151",
+            "trueValue": "54-151",
+            "elemId": [
+                "word_1_27"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Pilczycka 25",
+            "trueValue": "ul. Pilczycka 25",
+            "elemId": [
+                "word_1_23",
+                "word_1_24",
+                "word_1_25"
+            ]
+        },
+        "addressLocality": {
+            "value": "Wrocław",
+            "trueValue": "Wrocław-Fabryczna",
+            "elemId": [
+                "word_1_28"
+            ]
+        }
+    },
+    "name": {
+        "value": "\"PIASTUSIOWA CHATKA II\"",
+        "trueValue": "\"PIASTUSIOWA CHATKA II\"",
+        "elemId": [
+            "word_1_17",
+            "word_1_18",
+            "word_1_19"
+        ]
+    },
+    "foundingDate": {
+        "value": "2020-08-24",
+        "trueValue": "2020-08-24",
+        "elemId": [
+            "word_1_26"
+        ]
+    },
+    "regon": {
+        "value": "386930642",
+        "trueValue": "386930642",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "piastusiowa.chatkaQgmail.com",
+        "trueValue": "piastusiowa.chatka@gmail.com",
+        "elemId": [
+            "word_1_33"
+        ]
+    },
+    "telephone": {
+        "value": "662 216 621",
+        "trueValue": "662 216 621",
+        "elemId": [
+            "word_1_35",
+            "word_1_36",
+            "word_1_37"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "34-300",
+            "trueValue": "34-300",
+            "elemId": [
+                "word_1_7"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Zielona 1",
+            "trueValue": "ul. Zielona 1",
+            "elemId": [
+                "word_1_4",
+                "word_1_5",
+                "word_1_6"
+            ]
+        },
+        "addressLocality": {
+            "value": "Żywiec",
+            "trueValue": "Żywiec",
+            "elemId": [
+                "word_1_8"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNE LICEUM OGÓLNOKSZTAŁCĄCE COGITO W ŻYWCU",
+        "trueValue": "NIEPUBLICZNE LICEUM OGÓLNOKSZTAŁCĄCE COGITO W ŻYWCU",
+        "elemId": [
+            "word_1_18",
+            "word_1_19",
+            "word_1_20",
+            "word_1_21",
+            "word_1_22",
+            "word_1_23"
+        ]
+    },
+    "foundingDate": {
+        "value": "2018-07-25",
+        "trueValue": "2018-07-25",
+        "elemId": [
+            "word_1_17"
+        ]
+    },
+    "regon": {
+        "value": "381272246",
+        "trueValue": "381272246",
+        "elemId": [
+            "word_1_14"
+        ]
+    },
+    "email": {
+        "value": "biurommsQszkolamontessori.com.pl",
+        "trueValue": "biuromms@szkolamontessori.com.pl",
+        "elemId": [
+            "word_1_42"
+        ]
+    },
+    "telephone": {
+        "value": "334 454 533",
+        "trueValue": "334 454 533",
+        "elemId": [
+            "word_1_10",
+            "word_1_11",
+            "word_1_12"
+        ]
+    }
+}

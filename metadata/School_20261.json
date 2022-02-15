@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "44-193",
+            "trueValue": "44-193",
+            "elemId": [
+                "word_1_32"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Feliksa Michalskiego 27",
+            "trueValue": "ul. Feliksa Michalskiego 27",
+            "elemId": [
+                "word_1_27",
+                "word_1_28",
+                "word_1_29",
+                "word_1_30"
+            ]
+        },
+        "addressLocality": {
+            "value": "Knurów",
+            "trueValue": "Knurów",
+            "elemId": [
+                "word_1_33"
+            ]
+        }
+    },
+    "name": {
+        "value": "MIEJSKA SZKOŁA PODSTAWOWA NR 3 W KNUROWIE",
+        "trueValue": "MIEJSKA SZKOŁA PODSTAWOWA NR 3 W KNUROWIE",
+        "elemId": [
+            "word_1_17",
+            "word_1_18",
+            "word_1_19",
+            "word_1_20",
+            "word_1_21",
+            "word_1_22",
+            "word_1_23"
+        ]
+    },
+    "foundingDate": {
+        "value": "1907-09-01",
+        "trueValue": "1907-09-01",
+        "elemId": [
+            "word_1_31"
+        ]
+    },
+    "regon": {
+        "value": "000727216",
+        "trueValue": "000727216",
+        "elemId": [
+            "word_1_4"
+        ]
+    },
+    "email": {
+        "value": "zspGknurow.edu.pl",
+        "trueValue": "zsp@knurow.edu.pl",
+        "elemId": [
+            "word_1_38"
+        ]
+    },
+    "telephone": {
+        "value": "322 352 779",
+        "trueValue": "322 352 779",
+        "elemId": [
+            "word_1_40",
+            "word_1_41",
+            "word_1_42"
+        ]
+    }
+}

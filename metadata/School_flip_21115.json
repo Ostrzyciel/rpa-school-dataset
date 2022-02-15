@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "33-300",
+            "trueValue": "33-300",
+            "elemId": [
+                "word_1_30"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Bolesława Limanowskiego 4",
+            "trueValue": "ul. Bolesława Limanowskiego 4",
+            "elemId": [
+                "word_1_23",
+                "word_1_24",
+                "word_1_25",
+                "word_1_26"
+            ]
+        },
+        "addressLocality": {
+            "value": "Nowy Sącz",
+            "trueValue": "Nowy Sącz",
+            "elemId": [
+                "word_1_31",
+                "word_1_32"
+            ]
+        }
+    },
+    "name": {
+        "value": "AKADEMIA EDUKACYNA HUMANEO",
+        "trueValue": "AKADEMIA EDUKACYNA HUMANEO",
+        "elemId": [
+            "word_1_1",
+            "word_1_2",
+            "word_1_3"
+        ]
+    },
+    "foundingDate": {
+        "value": "2011-03-23",
+        "trueValue": "2011-03-23",
+        "elemId": [
+            "word_1_36"
+        ]
+    },
+    "regon": {
+        "value": "122671240",
+        "trueValue": "122671240",
+        "elemId": [
+            "word_1_9"
+        ]
+    },
+    "email": {
+        "value": "biuroQhumaneo.pl",
+        "trueValue": "biuro@humaneo.pl",
+        "elemId": [
+            "word_1_29"
+        ]
+    },
+    "telephone": {
+        "value": "185 477 070",
+        "trueValue": "185 477 070",
+        "elemId": [
+            "word_1_14",
+            "word_1_15",
+            "word_1_16"
+        ]
+    }
+}

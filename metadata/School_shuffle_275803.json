@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "18-218",
+            "trueValue": "18-218",
+            "elemId": [
+                "word_1_45"
+            ]
+        },
+        "streetAddress": {
+            "value": "1",
+            "trueValue": "1",
+            "elemId": [
+                "word_1_43"
+            ]
+        },
+        "addressLocality": {
+            "value": "Perki-Karpie",
+            "trueValue": "Perki-Karpie",
+            "elemId": [
+                "word_1_46"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNA SZKOŁA SPECJALNA PRZYSPOSABIAJĄCA DO PRACY W PERKACH KARPIACH",
+        "trueValue": "NIEPUBLICZNA SZKOŁA SPECJALNA PRZYSPOSABIAJĄCA DO PRACY W PERKACH KARPIACH",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8",
+            "word_1_9",
+            "word_1_10",
+            "word_1_11"
+        ]
+    },
+    "foundingDate": {
+        "value": "2020-07-15",
+        "trueValue": "2020-07-15",
+        "elemId": [
+            "word_1_44"
+        ]
+    },
+    "regon": {
+        "value": "386937408",
+        "trueValue": "386937408",
+        "elemId": [
+            "word_1_17"
+        ]
+    },
+    "email": {
+        "value": "orew.perkikarpieGwp.pl",
+        "trueValue": "orew.perkikarpie@wp.pl",
+        "elemId": [
+            "word_1_37"
+        ]
+    },
+    "telephone": {
+        "value": "798 970 043",
+        "trueValue": "798 970 043",
+        "elemId": [
+            "word_1_30",
+            "word_1_31",
+            "word_1_32"
+        ]
+    }
+}

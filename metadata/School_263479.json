@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "95-030",
+            "trueValue": "95-030",
+            "elemId": [
+                "word_1_18"
+            ]
+        },
+        "streetAddress": {
+            "value": "pl. 500-lecia 13",
+            "trueValue": "pl. 500-lecia 13",
+            "elemId": [
+                "word_1_14",
+                "word_1_15",
+                "word_1_16"
+            ]
+        },
+        "addressLocality": {
+            "value": "Rzgów",
+            "trueValue": "Rzgów",
+            "elemId": [
+                "word_1_19"
+            ]
+        }
+    },
+    "name": {
+        "value": "NIEPUBLICZNE JĘZYKOWE PRZEDSZKOLE INTEGRACYJNE \"KRAINA NIEDŹWIADKÓW\"",
+        "trueValue": "NIEPUBLICZNE JĘZYKOWE PRZEDSZKOLE INTEGRACYJNE \"KRAINA NIEDŹWIADKÓW\"",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8"
+        ]
+    },
+    "foundingDate": {
+        "value": "2017-09-04",
+        "trueValue": "2017-09-04",
+        "elemId": [
+            "word_1_17"
+        ]
+    },
+    "regon": {
+        "value": "368193442",
+        "trueValue": "368193442",
+        "elemId": [
+            "word_1_13"
+        ]
+    },
+    "email": {
+        "value": "krainaniedzwiadkow",
+        "trueValue": "krainaniedzwiadkow@gmail.com",
+        "elemId": [
+            "word_1_24"
+        ]
+    },
+    "telephone": {
+        "value": "538 447 007",
+        "trueValue": "538 447 007",
+        "elemId": [
+            "word_1_32",
+            "word_1_33",
+            "word_1_34"
+        ]
+    }
+}

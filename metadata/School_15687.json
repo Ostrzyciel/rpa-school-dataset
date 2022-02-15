@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "95-040",
+            "trueValue": "95-040",
+            "elemId": [
+                "word_1_33"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Wigury 2",
+            "trueValue": "ul. Wigury 2",
+            "elemId": [
+                "word_1_29",
+                "word_1_30",
+                "word_1_31"
+            ]
+        },
+        "addressLocality": {
+            "value": "Koluszki",
+            "trueValue": "Koluszki",
+            "elemId": [
+                "word_1_34"
+            ]
+        }
+    },
+    "name": {
+        "value": "BRANŻOWA SZKOŁA I STOPNIA W KOLUSZKACH",
+        "trueValue": "BRANŻOWA SZKOŁA I STOPNIA W KOLUSZKACH",
+        "elemId": [
+            "word_1_3",
+            "word_1_4",
+            "word_1_5",
+            "word_1_6",
+            "word_1_7",
+            "word_1_8"
+        ]
+    },
+    "foundingDate": {
+        "value": "1947-10-01",
+        "trueValue": "1947-10-01",
+        "elemId": [
+            "word_1_32"
+        ]
+    },
+    "regon": {
+        "value": "472847736",
+        "trueValue": "472847736",
+        "elemId": [
+            "word_1_10"
+        ]
+    },
+    "email": {
+        "value": "zsp.koluszkiQwp.pl",
+        "trueValue": "zsp.koluszki@wp.pl",
+        "elemId": [
+            "word_1_39"
+        ]
+    },
+    "telephone": {
+        "value": "447 141 702",
+        "trueValue": "447 141 702",
+        "elemId": [
+            "word_1_41",
+            "word_1_42",
+            "word_1_43"
+        ]
+    }
+}

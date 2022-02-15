@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+        "@type": "PostalAddress",
+        "postalCode": {
+            "value": "17-240",
+            "trueValue": "17-240",
+            "elemId": [
+                "word_1_29"
+            ]
+        },
+        "streetAddress": {
+            "value": "ul. Szkolna 2",
+            "trueValue": "ul. Szkolna 2",
+            "elemId": [
+                "word_1_25",
+                "word_1_26",
+                "word_1_27"
+            ]
+        },
+        "addressLocality": {
+            "value": "Czeremcha",
+            "trueValue": "Czeremcha",
+            "elemId": [
+                "word_1_30"
+            ]
+        }
+    },
+    "name": {
+        "value": "SZKOŁA [TAWOWA W CZEREMSZE",
+        "trueValue": "SZKOŁA PODSTAWOWA W CZEREMSZE",
+        "elemId": [
+            "word_1_3",
+            "word_1_19",
+            "word_1_20",
+            "word_1_21"
+        ]
+    },
+    "foundingDate": {
+        "value": "2011-09-01",
+        "trueValue": "2011-09-01",
+        "elemId": [
+            "word_1_28"
+        ]
+    },
+    "regon": {
+        "value": "000266353",
+        "trueValue": "000266353",
+        "elemId": [
+            "word_1_6"
+        ]
+    },
+    "email": {
+        "value": "zspQczeremcha.pl",
+        "trueValue": "zsp@czeremcha.pl",
+        "elemId": [
+            "word_1_35"
+        ]
+    },
+    "telephone": {
+        "value": "856 850 014",
+        "trueValue": "856 850 014",
+        "elemId": [
+            "word_1_37",
+            "word_1_38",
+            "word_1_39"
+        ]
+    }
+}
